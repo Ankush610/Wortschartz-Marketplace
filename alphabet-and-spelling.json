@@ -1,0 +1,358 @@
+{
+  "app": "wortschatz",
+  "v": 1,
+  "words": [
+    {
+      "de": "das Alphabet",
+      "en": "alphabet",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Alphabete",
+      "example": "Das deutsche Alphabet hat 26 Buchstaben.",
+      "notes": "",
+      "tags": [
+        "alphabet-and-spelling"
+      ]
+    },
+    {
+      "de": "der Buchstabe",
+      "en": "letter (of the alphabet)",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Buchstaben",
+      "example": "Das Wort hat sieben Buchstaben.",
+      "notes": "",
+      "tags": [
+        "alphabet-and-spelling"
+      ]
+    },
+    {
+      "de": "der Großbuchstabe",
+      "en": "capital letter",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Großbuchstaben",
+      "example": "Nomen schreibt man mit Großbuchstaben.",
+      "notes": "",
+      "tags": [
+        "alphabet-and-spelling"
+      ]
+    },
+    {
+      "de": "der Kleinbuchstabe",
+      "en": "small letter",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Kleinbuchstaben",
+      "example": "Verben schreibt man mit Kleinbuchstaben.",
+      "notes": "",
+      "tags": [
+        "alphabet-and-spelling"
+      ]
+    },
+    {
+      "de": "der Umlaut",
+      "en": "umlaut",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Umlaute",
+      "example": "Ä, ö und ü sind Umlaute.",
+      "notes": "",
+      "tags": [
+        "alphabet-and-spelling"
+      ]
+    },
+    {
+      "de": "das Eszett",
+      "en": "ß (sharp s)",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "",
+      "example": "Das Eszett steht nie am Wortanfang.",
+      "notes": "Also: scharfes S. Not used in Switzerland.",
+      "tags": [
+        "alphabet-and-spelling"
+      ]
+    },
+    {
+      "de": "der Vokal",
+      "en": "vowel",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Vokale",
+      "example": "A, e, i, o und u sind Vokale.",
+      "notes": "",
+      "tags": [
+        "alphabet-and-spelling"
+      ]
+    },
+    {
+      "de": "der Konsonant",
+      "en": "consonant",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Konsonanten",
+      "example": "Das Wort beginnt mit einem Konsonanten.",
+      "notes": "",
+      "tags": [
+        "alphabet-and-spelling"
+      ]
+    },
+    {
+      "de": "die Silbe",
+      "en": "syllable",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Silben",
+      "example": "Das Wort hat drei Silben.",
+      "notes": "",
+      "tags": [
+        "alphabet-and-spelling"
+      ]
+    },
+    {
+      "de": "das Wort",
+      "en": "word",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Wörter",
+      "example": "Ich kenne dieses Wort nicht.",
+      "notes": "",
+      "tags": [
+        "alphabet-and-spelling"
+      ]
+    },
+    {
+      "de": "der Satz",
+      "en": "sentence",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Sätze",
+      "example": "Bitte schreiben Sie einen Satz.",
+      "notes": "",
+      "tags": [
+        "alphabet-and-spelling"
+      ]
+    },
+    {
+      "de": "der Punkt",
+      "en": "full stop, period",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Punkte",
+      "example": "Am Satzende steht ein Punkt.",
+      "notes": "",
+      "tags": [
+        "alphabet-and-spelling"
+      ]
+    },
+    {
+      "de": "das Komma",
+      "en": "comma",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Kommas",
+      "example": "Vor dass steht ein Komma.",
+      "notes": "",
+      "tags": [
+        "alphabet-and-spelling"
+      ]
+    },
+    {
+      "de": "das Fragezeichen",
+      "en": "question mark",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Fragezeichen",
+      "example": "Nach einer Frage steht ein Fragezeichen.",
+      "notes": "",
+      "tags": [
+        "alphabet-and-spelling"
+      ]
+    },
+    {
+      "de": "das Ausrufezeichen",
+      "en": "exclamation mark",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Ausrufezeichen",
+      "example": "Hier passt ein Ausrufezeichen.",
+      "notes": "",
+      "tags": [
+        "alphabet-and-spelling"
+      ]
+    },
+    {
+      "de": "der Bindestrich",
+      "en": "hyphen",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Bindestriche",
+      "example": "E-Mail schreibt man mit Bindestrich.",
+      "notes": "",
+      "tags": [
+        "alphabet-and-spelling"
+      ]
+    },
+    {
+      "de": "der Unterstrich",
+      "en": "underscore",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Unterstriche",
+      "example": "Mein Benutzername hat einen Unterstrich.",
+      "notes": "",
+      "tags": [
+        "alphabet-and-spelling"
+      ]
+    },
+    {
+      "de": "das At-Zeichen",
+      "en": "at sign (@)",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "At-Zeichen",
+      "example": "Das At-Zeichen spricht man als At.",
+      "notes": "",
+      "tags": [
+        "alphabet-and-spelling"
+      ]
+    },
+    {
+      "de": "das Zeichen",
+      "en": "sign, character",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Zeichen",
+      "example": "Das Passwort braucht acht Zeichen.",
+      "notes": "",
+      "tags": [
+        "alphabet-and-spelling"
+      ]
+    },
+    {
+      "de": "die Rechtschreibung",
+      "en": "spelling",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Meine Rechtschreibung wird besser.",
+      "notes": "",
+      "tags": [
+        "alphabet-and-spelling"
+      ]
+    },
+    {
+      "de": "buchstabieren",
+      "en": "to spell",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Buchstabieren Sie bitte Ihren Namen.",
+      "present": "ich buchstabiere · du buchstabierst · er buchstabiert",
+      "praet": "er buchstabierte",
+      "perfekt": "hat buchstabiert",
+      "notes": "",
+      "tags": [
+        "alphabet-and-spelling"
+      ]
+    },
+    {
+      "de": "aufschreiben",
+      "en": "to write down",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich schreibe die neuen Wörter auf.",
+      "present": "ich schreibe auf · du schreibst auf",
+      "praet": "er schrieb auf",
+      "perfekt": "hat aufgeschrieben",
+      "notes": "Separable.",
+      "tags": [
+        "alphabet-and-spelling"
+      ]
+    },
+    {
+      "de": "notieren",
+      "en": "to note down",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Notieren Sie bitte die Nummer.",
+      "present": "ich notiere · du notierst · er notiert",
+      "praet": "er notierte",
+      "perfekt": "hat notiert",
+      "notes": "",
+      "tags": [
+        "alphabet-and-spelling"
+      ]
+    },
+    {
+      "de": "streichen",
+      "en": "to cross out, to paint",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Streichen Sie das falsche Wort.",
+      "present": "ich streiche · du streichst",
+      "praet": "er strich",
+      "perfekt": "hat gestrichen",
+      "notes": "",
+      "tags": [
+        "alphabet-and-spelling"
+      ]
+    },
+    {
+      "de": "wie schreibt man das",
+      "en": "how do you spell that",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Wie schreibt man das? Mit ie oder ei?",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "alphabet-and-spelling"
+      ]
+    },
+    {
+      "de": "können Sie das buchstabieren",
+      "en": "could you spell that",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Können Sie das bitte buchstabieren?",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "alphabet-and-spelling"
+      ]
+    },
+    {
+      "de": "groß geschrieben",
+      "en": "written with a capital",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Straße wird groß geschrieben.",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "alphabet-and-spelling"
+      ]
+    },
+    {
+      "de": "ein Wort mit doppeltem T",
+      "en": "a word with a double t",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Bitte ist ein Wort mit doppeltem T.",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "alphabet-and-spelling"
+      ]
+    }
+  ]
+}

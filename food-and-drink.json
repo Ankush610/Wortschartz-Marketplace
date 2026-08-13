@@ -1,0 +1,462 @@
+{
+  "app": "wortschatz",
+  "v": 1,
+  "words": [
+    {
+      "de": "das Brot",
+      "en": "bread",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Brote",
+      "example": "Das Brot ist noch warm.",
+      "notes": "",
+      "tags": [
+        "food-and-drink"
+      ]
+    },
+    {
+      "de": "das Brötchen",
+      "en": "bread roll",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Brötchen",
+      "example": "Ich kaufe sechs Brötchen.",
+      "notes": "",
+      "tags": [
+        "food-and-drink"
+      ]
+    },
+    {
+      "de": "die Butter",
+      "en": "butter",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Die Butter ist im Kühlschrank.",
+      "notes": "",
+      "tags": [
+        "food-and-drink"
+      ]
+    },
+    {
+      "de": "der Käse",
+      "en": "cheese",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Käse",
+      "example": "Der Käse riecht stark.",
+      "notes": "",
+      "tags": [
+        "food-and-drink"
+      ]
+    },
+    {
+      "de": "die Wurst",
+      "en": "sausage",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Würste",
+      "example": "Auf dem Brot ist Wurst.",
+      "notes": "",
+      "tags": [
+        "food-and-drink"
+      ]
+    },
+    {
+      "de": "das Fleisch",
+      "en": "meat",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "",
+      "example": "Ich esse wenig Fleisch.",
+      "notes": "",
+      "tags": [
+        "food-and-drink"
+      ]
+    },
+    {
+      "de": "das Hähnchen",
+      "en": "chicken",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Hähnchen",
+      "example": "Das Hähnchen ist im Ofen.",
+      "notes": "",
+      "tags": [
+        "food-and-drink"
+      ]
+    },
+    {
+      "de": "der Fisch",
+      "en": "fish",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Fische",
+      "example": "Freitags gibt es Fisch.",
+      "notes": "",
+      "tags": [
+        "food-and-drink"
+      ]
+    },
+    {
+      "de": "das Ei",
+      "en": "egg",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Eier",
+      "example": "Ich möchte ein weiches Ei.",
+      "notes": "",
+      "tags": [
+        "food-and-drink"
+      ]
+    },
+    {
+      "de": "die Milch",
+      "en": "milk",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Die Milch ist sauer.",
+      "notes": "",
+      "tags": [
+        "food-and-drink"
+      ]
+    },
+    {
+      "de": "der Joghurt",
+      "en": "yoghurt",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Joghurts",
+      "example": "Zum Frühstück esse ich Joghurt.",
+      "notes": "",
+      "tags": [
+        "food-and-drink"
+      ]
+    },
+    {
+      "de": "der Zucker",
+      "en": "sugar",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Nimmst du Zucker in den Kaffee?",
+      "notes": "",
+      "tags": [
+        "food-and-drink"
+      ]
+    },
+    {
+      "de": "das Salz",
+      "en": "salt",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "",
+      "example": "Das Salz steht auf dem Tisch.",
+      "notes": "",
+      "tags": [
+        "food-and-drink"
+      ]
+    },
+    {
+      "de": "der Pfeffer",
+      "en": "pepper",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Etwas Pfeffer, bitte.",
+      "notes": "",
+      "tags": [
+        "food-and-drink"
+      ]
+    },
+    {
+      "de": "das Öl",
+      "en": "oil",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Öle",
+      "example": "Das Öl ist zu heiß.",
+      "notes": "",
+      "tags": [
+        "food-and-drink"
+      ]
+    },
+    {
+      "de": "der Reis",
+      "en": "rice",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Der Reis braucht zehn Minuten.",
+      "notes": "",
+      "tags": [
+        "food-and-drink"
+      ]
+    },
+    {
+      "de": "die Nudeln",
+      "en": "pasta, noodles",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Die Kinder essen gern Nudeln.",
+      "notes": "Usually plural.",
+      "tags": [
+        "food-and-drink"
+      ]
+    },
+    {
+      "de": "die Kartoffel",
+      "en": "potato",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Kartoffeln",
+      "example": "Die Kartoffeln sind fertig.",
+      "notes": "",
+      "tags": [
+        "food-and-drink"
+      ]
+    },
+    {
+      "de": "das Gemüse",
+      "en": "vegetables",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "",
+      "example": "Iss mehr Gemüse!",
+      "notes": "",
+      "tags": [
+        "food-and-drink"
+      ]
+    },
+    {
+      "de": "das Obst",
+      "en": "fruit",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "",
+      "example": "Obst ist gesund.",
+      "notes": "",
+      "tags": [
+        "food-and-drink"
+      ]
+    },
+    {
+      "de": "der Apfel",
+      "en": "apple",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Äpfel",
+      "example": "Der Apfel ist süß.",
+      "notes": "",
+      "tags": [
+        "food-and-drink"
+      ]
+    },
+    {
+      "de": "die Banane",
+      "en": "banana",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Bananen",
+      "example": "Ich nehme eine Banane mit.",
+      "notes": "",
+      "tags": [
+        "food-and-drink"
+      ]
+    },
+    {
+      "de": "die Orange",
+      "en": "orange",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Orangen",
+      "example": "Die Orangen sind aus Spanien.",
+      "notes": "",
+      "tags": [
+        "food-and-drink"
+      ]
+    },
+    {
+      "de": "die Tomate",
+      "en": "tomato",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Tomaten",
+      "example": "Die Tomaten kommen aus dem Garten.",
+      "notes": "",
+      "tags": [
+        "food-and-drink"
+      ]
+    },
+    {
+      "de": "die Gurke",
+      "en": "cucumber",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Gurken",
+      "example": "Die Gurke ist im Salat.",
+      "notes": "",
+      "tags": [
+        "food-and-drink"
+      ]
+    },
+    {
+      "de": "die Zwiebel",
+      "en": "onion",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Zwiebeln",
+      "example": "Bei Zwiebeln weine ich.",
+      "notes": "",
+      "tags": [
+        "food-and-drink"
+      ]
+    },
+    {
+      "de": "der Salat",
+      "en": "salad, lettuce",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Salate",
+      "example": "Der Salat ist frisch.",
+      "notes": "",
+      "tags": [
+        "food-and-drink"
+      ]
+    },
+    {
+      "de": "die Suppe",
+      "en": "soup",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Suppen",
+      "example": "Die Suppe ist zu salzig.",
+      "notes": "",
+      "tags": [
+        "food-and-drink"
+      ]
+    },
+    {
+      "de": "der Kuchen",
+      "en": "cake",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Kuchen",
+      "example": "Der Kuchen ist selbst gebacken.",
+      "notes": "",
+      "tags": [
+        "food-and-drink"
+      ]
+    },
+    {
+      "de": "die Schokolade",
+      "en": "chocolate",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Schokoladen",
+      "example": "Ich esse abends Schokolade.",
+      "notes": "",
+      "tags": [
+        "food-and-drink"
+      ]
+    },
+    {
+      "de": "das Eis",
+      "en": "ice cream, ice",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "",
+      "example": "Im Sommer esse ich viel Eis.",
+      "notes": "",
+      "tags": [
+        "food-and-drink"
+      ]
+    },
+    {
+      "de": "das Wasser",
+      "en": "water",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "",
+      "example": "Ein Wasser ohne Kohlensäure, bitte.",
+      "notes": "",
+      "tags": [
+        "food-and-drink"
+      ]
+    },
+    {
+      "de": "der Kaffee",
+      "en": "coffee",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Der Kaffee ist zu stark.",
+      "notes": "",
+      "tags": [
+        "food-and-drink"
+      ]
+    },
+    {
+      "de": "der Tee",
+      "en": "tea",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Tees",
+      "example": "Ich trinke Tee mit Zitrone.",
+      "notes": "",
+      "tags": [
+        "food-and-drink"
+      ]
+    },
+    {
+      "de": "der Saft",
+      "en": "juice",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Säfte",
+      "example": "Der Saft ist frisch gepresst.",
+      "notes": "",
+      "tags": [
+        "food-and-drink"
+      ]
+    },
+    {
+      "de": "das Bier",
+      "en": "beer",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Biere",
+      "example": "Ein Bier vom Fass, bitte.",
+      "notes": "",
+      "tags": [
+        "food-and-drink"
+      ]
+    },
+    {
+      "de": "der Wein",
+      "en": "wine",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Weine",
+      "example": "Der Wein kommt aus Italien.",
+      "notes": "",
+      "tags": [
+        "food-and-drink"
+      ]
+    },
+    {
+      "de": "die Nuss",
+      "en": "nut",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Nüsse",
+      "example": "Ich habe eine Allergie gegen Nüsse.",
+      "notes": "",
+      "tags": [
+        "food-and-drink"
+      ]
+    }
+  ]
+}

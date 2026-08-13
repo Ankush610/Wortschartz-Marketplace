@@ -1,0 +1,422 @@
+{
+  "app": "wortschatz",
+  "v": 1,
+  "words": [
+    {
+      "de": "der Weg",
+      "en": "way, path",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Wege",
+      "example": "Der Weg ist nicht weit.",
+      "notes": "",
+      "tags": [
+        "directions-and-asking-the-way"
+      ]
+    },
+    {
+      "de": "die Richtung",
+      "en": "direction",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Richtungen",
+      "example": "In welche Richtung muss ich?",
+      "notes": "",
+      "tags": [
+        "directions-and-asking-the-way"
+      ]
+    },
+    {
+      "de": "die Ecke",
+      "en": "corner",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Ecken",
+      "example": "Das Café ist an der Ecke.",
+      "notes": "",
+      "tags": [
+        "directions-and-asking-the-way"
+      ]
+    },
+    {
+      "de": "die Kreuzung",
+      "en": "crossroads, junction",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Kreuzungen",
+      "example": "An der Kreuzung links abbiegen.",
+      "notes": "",
+      "tags": [
+        "directions-and-asking-the-way"
+      ]
+    },
+    {
+      "de": "der Stadtplan",
+      "en": "city map",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Stadtpläne",
+      "example": "Auf dem Stadtplan sehe ich es nicht.",
+      "notes": "",
+      "tags": [
+        "directions-and-asking-the-way"
+      ]
+    },
+    {
+      "de": "die Nähe",
+      "en": "vicinity",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "In der Nähe gibt es eine Bäckerei.",
+      "notes": "",
+      "tags": [
+        "directions-and-asking-the-way"
+      ]
+    },
+    {
+      "de": "der Norden",
+      "en": "north",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Hamburg liegt im Norden.",
+      "notes": "",
+      "tags": [
+        "directions-and-asking-the-way"
+      ]
+    },
+    {
+      "de": "der Süden",
+      "en": "south",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Im Süden ist es wärmer.",
+      "notes": "",
+      "tags": [
+        "directions-and-asking-the-way"
+      ]
+    },
+    {
+      "de": "der Osten",
+      "en": "east",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Dresden liegt im Osten.",
+      "notes": "",
+      "tags": [
+        "directions-and-asking-the-way"
+      ]
+    },
+    {
+      "de": "der Westen",
+      "en": "west",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Köln liegt im Westen.",
+      "notes": "",
+      "tags": [
+        "directions-and-asking-the-way"
+      ]
+    },
+    {
+      "de": "die Fußgängerzone",
+      "en": "pedestrian zone",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Fußgängerzonen",
+      "example": "In der Fußgängerzone darf man nicht fahren.",
+      "notes": "",
+      "tags": [
+        "directions-and-asking-the-way"
+      ]
+    },
+    {
+      "de": "links",
+      "en": "left, on the left",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Das Haus steht links.",
+      "notes": "",
+      "tags": [
+        "directions-and-asking-the-way"
+      ]
+    },
+    {
+      "de": "rechts",
+      "en": "right, on the right",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Rechts sehen Sie die Kirche.",
+      "notes": "",
+      "tags": [
+        "directions-and-asking-the-way"
+      ]
+    },
+    {
+      "de": "geradeaus",
+      "en": "straight ahead",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Gehen Sie immer geradeaus.",
+      "notes": "",
+      "tags": [
+        "directions-and-asking-the-way"
+      ]
+    },
+    {
+      "de": "gegenüber",
+      "en": "opposite",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Die Post ist gegenüber.",
+      "notes": "",
+      "tags": [
+        "directions-and-asking-the-way"
+      ]
+    },
+    {
+      "de": "dort",
+      "en": "there",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Dort vorne ist die Haltestelle.",
+      "notes": "",
+      "tags": [
+        "directions-and-asking-the-way"
+      ]
+    },
+    {
+      "de": "hier",
+      "en": "here",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Hier bin ich richtig.",
+      "notes": "",
+      "tags": [
+        "directions-and-asking-the-way"
+      ]
+    },
+    {
+      "de": "neben",
+      "en": "next to",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Die Bank ist neben dem Rathaus.",
+      "notes": "Takes dative when it says where.",
+      "tags": [
+        "directions-and-asking-the-way"
+      ]
+    },
+    {
+      "de": "zwischen",
+      "en": "between",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Das Kino liegt zwischen Post und Park.",
+      "notes": "Dative for position.",
+      "tags": [
+        "directions-and-asking-the-way"
+      ]
+    },
+    {
+      "de": "hinter",
+      "en": "behind",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Der Parkplatz ist hinter dem Haus.",
+      "notes": "Dative for position.",
+      "tags": [
+        "directions-and-asking-the-way"
+      ]
+    },
+    {
+      "de": "vor",
+      "en": "in front of",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Wir treffen uns vor dem Bahnhof.",
+      "notes": "Dative for position.",
+      "tags": [
+        "directions-and-asking-the-way"
+      ]
+    },
+    {
+      "de": "über",
+      "en": "over, across",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Gehen Sie über die Brücke.",
+      "notes": "",
+      "tags": [
+        "directions-and-asking-the-way"
+      ]
+    },
+    {
+      "de": "bis zu",
+      "en": "as far as",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Fahren Sie bis zur Ampel.",
+      "notes": "bis zu + dative.",
+      "tags": [
+        "directions-and-asking-the-way"
+      ]
+    },
+    {
+      "de": "abbiegen",
+      "en": "to turn (off)",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Biegen Sie an der Ampel rechts ab.",
+      "present": "ich biege ab · du biegst ab",
+      "praet": "er bog ab",
+      "perfekt": "ist abgebogen",
+      "notes": "Separable.",
+      "tags": [
+        "directions-and-asking-the-way"
+      ]
+    },
+    {
+      "de": "überqueren",
+      "en": "to cross",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Überqueren Sie die Straße.",
+      "present": "ich überquere · du überquerst · er überquert",
+      "praet": "er überquerte",
+      "perfekt": "hat überquert",
+      "notes": "",
+      "tags": [
+        "directions-and-asking-the-way"
+      ]
+    },
+    {
+      "de": "folgen",
+      "en": "to follow",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Folgen Sie dem Weg.",
+      "present": "ich folge · du folgst · er folgt",
+      "praet": "er folgte",
+      "perfekt": "ist gefolgt",
+      "notes": "Takes the dative.",
+      "tags": [
+        "directions-and-asking-the-way"
+      ]
+    },
+    {
+      "de": "sich verlaufen",
+      "en": "to get lost (on foot)",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich habe mich in der Altstadt verlaufen.",
+      "present": "ich verlaufe mich · du verläufst dich",
+      "praet": "er verlief sich",
+      "perfekt": "hat sich verlaufen",
+      "notes": "",
+      "tags": [
+        "directions-and-asking-the-way"
+      ]
+    },
+    {
+      "de": "weit",
+      "en": "far",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Ist es noch weit?",
+      "comp": "weiter",
+      "super": "am weitesten",
+      "notes": "",
+      "tags": [
+        "directions-and-asking-the-way"
+      ]
+    },
+    {
+      "de": "nah",
+      "en": "near, close",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Der Supermarkt ist ganz nah.",
+      "comp": "näher",
+      "super": "am nächsten",
+      "notes": "",
+      "tags": [
+        "directions-and-asking-the-way"
+      ]
+    },
+    {
+      "de": "wie komme ich zur Post",
+      "en": "how do I get to the post office",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Entschuldigung, wie komme ich zur Post?",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "directions-and-asking-the-way"
+      ]
+    },
+    {
+      "de": "die erste Straße links",
+      "en": "the first street on the left",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Nehmen Sie die erste Straße links.",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "directions-and-asking-the-way"
+      ]
+    },
+    {
+      "de": "das ist gleich um die Ecke",
+      "en": "it's just around the corner",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Das ist gleich um die Ecke.",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "directions-and-asking-the-way"
+      ]
+    },
+    {
+      "de": "ich bin fremd hier",
+      "en": "I'm not from here",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Tut mir leid, ich bin fremd hier.",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "directions-and-asking-the-way"
+      ]
+    }
+  ]
+}

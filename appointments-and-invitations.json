@@ -1,0 +1,350 @@
+{
+  "app": "wortschatz",
+  "v": 1,
+  "words": [
+    {
+      "de": "der Termin",
+      "en": "appointment",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Termine",
+      "example": "Ich habe morgen einen Termin beim Arzt.",
+      "notes": "",
+      "tags": [
+        "appointments-and-invitations"
+      ]
+    },
+    {
+      "de": "die Verabredung",
+      "en": "date, arrangement to meet",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Verabredungen",
+      "example": "Die Verabredung ist um acht.",
+      "notes": "",
+      "tags": [
+        "appointments-and-invitations"
+      ]
+    },
+    {
+      "de": "die Einladung",
+      "en": "invitation",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Einladungen",
+      "example": "Danke für die Einladung!",
+      "notes": "",
+      "tags": [
+        "appointments-and-invitations"
+      ]
+    },
+    {
+      "de": "das Treffen",
+      "en": "meeting, get-together",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Treffen",
+      "example": "Das Treffen war sehr nett.",
+      "notes": "",
+      "tags": [
+        "appointments-and-invitations"
+      ]
+    },
+    {
+      "de": "der Vorschlag",
+      "en": "suggestion",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Vorschläge",
+      "example": "Dein Vorschlag ist gut.",
+      "notes": "",
+      "tags": [
+        "appointments-and-invitations"
+      ]
+    },
+    {
+      "de": "die Absage",
+      "en": "cancellation, refusal",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Absagen",
+      "example": "Die Absage kam kurzfristig.",
+      "notes": "",
+      "tags": [
+        "appointments-and-invitations"
+      ]
+    },
+    {
+      "de": "die Zusage",
+      "en": "acceptance",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Zusagen",
+      "example": "Ich warte noch auf seine Zusage.",
+      "notes": "",
+      "tags": [
+        "appointments-and-invitations"
+      ]
+    },
+    {
+      "de": "der Gastgeber",
+      "en": "host",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Gastgeber",
+      "example": "Der Gastgeber holt uns ab.",
+      "notes": "Female: die Gastgeberin.",
+      "tags": [
+        "appointments-and-invitations"
+      ]
+    },
+    {
+      "de": "die Gelegenheit",
+      "en": "opportunity, occasion",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Gelegenheiten",
+      "example": "Bei Gelegenheit trinken wir Kaffee.",
+      "notes": "",
+      "tags": [
+        "appointments-and-invitations"
+      ]
+    },
+    {
+      "de": "absagen",
+      "en": "to cancel",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich sage den Termin ab.",
+      "present": "ich sage ab · du sagst ab",
+      "praet": "er sagte ab",
+      "perfekt": "hat abgesagt",
+      "notes": "Separable.",
+      "tags": [
+        "appointments-and-invitations"
+      ]
+    },
+    {
+      "de": "zusagen",
+      "en": "to accept, to say yes",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Er hat für Samstag zugesagt.",
+      "present": "ich sage zu · du sagst zu",
+      "praet": "er sagte zu",
+      "perfekt": "hat zugesagt",
+      "notes": "Separable.",
+      "tags": [
+        "appointments-and-invitations"
+      ]
+    },
+    {
+      "de": "verschieben",
+      "en": "to postpone",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Können wir den Termin verschieben?",
+      "present": "ich verschiebe · du verschiebst",
+      "praet": "er verschob",
+      "perfekt": "hat verschoben",
+      "notes": "",
+      "tags": [
+        "appointments-and-invitations"
+      ]
+    },
+    {
+      "de": "vereinbaren",
+      "en": "to arrange, to agree on",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Wir vereinbaren einen neuen Termin.",
+      "present": "ich vereinbare · du vereinbarst · er vereinbart",
+      "praet": "er vereinbarte",
+      "perfekt": "hat vereinbart",
+      "notes": "",
+      "tags": [
+        "appointments-and-invitations"
+      ]
+    },
+    {
+      "de": "vorbeikommen",
+      "en": "to drop by",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Komm doch am Sonntag vorbei!",
+      "present": "ich komme vorbei · du kommst vorbei",
+      "praet": "er kam vorbei",
+      "perfekt": "ist vorbeigekommen",
+      "notes": "Separable.",
+      "tags": [
+        "appointments-and-invitations"
+      ]
+    },
+    {
+      "de": "Zeit haben",
+      "en": "to have time",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Hast du am Freitag Zeit?",
+      "present": "ich habe Zeit · du hast Zeit",
+      "praet": "er hatte Zeit",
+      "perfekt": "hat Zeit gehabt",
+      "notes": "",
+      "tags": [
+        "appointments-and-invitations"
+      ]
+    },
+    {
+      "de": "kurzfristig",
+      "en": "at short notice",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Ich muss kurzfristig absagen.",
+      "comp": "",
+      "super": "",
+      "notes": "",
+      "tags": [
+        "appointments-and-invitations"
+      ]
+    },
+    {
+      "de": "dringend",
+      "en": "urgent",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Der Termin ist dringend.",
+      "comp": "dringender",
+      "super": "am dringendsten",
+      "notes": "",
+      "tags": [
+        "appointments-and-invitations"
+      ]
+    },
+    {
+      "de": "verabredet",
+      "en": "meeting someone, has plans",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Ich bin heute Abend verabredet.",
+      "comp": "",
+      "super": "",
+      "notes": "",
+      "tags": [
+        "appointments-and-invitations"
+      ]
+    },
+    {
+      "de": "passt es dir um sechs",
+      "en": "does six suit you",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Passt es dir um sechs?",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "appointments-and-invitations"
+      ]
+    },
+    {
+      "de": "ich kann leider nicht",
+      "en": "unfortunately I can't",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Am Samstag kann ich leider nicht.",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "appointments-and-invitations"
+      ]
+    },
+    {
+      "de": "abgemacht",
+      "en": "it's a deal",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Also Freitag um acht, abgemacht!",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "appointments-and-invitations"
+      ]
+    },
+    {
+      "de": "gerne",
+      "en": "gladly, I'd love to",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Gerne, ich komme!",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "appointments-and-invitations"
+      ]
+    },
+    {
+      "de": "wann treffen wir uns",
+      "en": "when shall we meet",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Wann treffen wir uns morgen?",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "appointments-and-invitations"
+      ]
+    },
+    {
+      "de": "ich muss den Termin verschieben",
+      "en": "I have to postpone the appointment",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Ich muss den Termin leider verschieben.",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "appointments-and-invitations"
+      ]
+    },
+    {
+      "de": "hast du Zeit für einen Kaffee",
+      "en": "do you have time for a coffee",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Hast du Zeit für einen Kaffee?",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "appointments-and-invitations"
+      ]
+    },
+    {
+      "de": "bis dann",
+      "en": "see you then",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Alles klar, bis dann!",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "appointments-and-invitations"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "app": "wortschatz",
+  "v": 1,
+  "words": [
+    {
+      "de": "der Montag",
+      "en": "Monday",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Montage",
+      "example": "Am Montag beginnt die Schule.",
+      "notes": "",
+      "tags": [
+        "days"
+      ]
+    },
+    {
+      "de": "der Dienstag",
+      "en": "Tuesday",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Dienstage",
+      "example": "Am Dienstag habe ich einen Termin.",
+      "notes": "",
+      "tags": [
+        "days"
+      ]
+    },
+    {
+      "de": "der Mittwoch",
+      "en": "Wednesday",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Mittwoche",
+      "example": "Der Kurs ist jeden Mittwoch.",
+      "notes": "",
+      "tags": [
+        "days"
+      ]
+    },
+    {
+      "de": "der Donnerstag",
+      "en": "Thursday",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Donnerstage",
+      "example": "Am Donnerstag gehe ich zum Arzt.",
+      "notes": "",
+      "tags": [
+        "days"
+      ]
+    },
+    {
+      "de": "der Freitag",
+      "en": "Friday",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Freitage",
+      "example": "Freitag ist mein letzter Arbeitstag.",
+      "notes": "",
+      "tags": [
+        "days"
+      ]
+    },
+    {
+      "de": "der Samstag",
+      "en": "Saturday",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Samstage",
+      "example": "Am Samstag kaufe ich ein.",
+      "notes": "In the north also der Sonnabend.",
+      "tags": [
+        "days"
+      ]
+    },
+    {
+      "de": "der Sonntag",
+      "en": "Sunday",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Sonntage",
+      "example": "Am Sonntag sind die Geschäfte zu.",
+      "notes": "",
+      "tags": [
+        "days"
+      ]
+    },
+    {
+      "de": "der Tag",
+      "en": "day",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Tage",
+      "example": "Der Tag war sehr lang.",
+      "notes": "Guten Tag! = Hello.",
+      "tags": [
+        "days"
+      ]
+    },
+    {
+      "de": "die Woche",
+      "en": "week",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Wochen",
+      "example": "Nächste Woche fahre ich nach Wien.",
+      "notes": "",
+      "tags": [
+        "days"
+      ]
+    },
+    {
+      "de": "das Wochenende",
+      "en": "weekend",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Wochenenden",
+      "example": "Am Wochenende schlafe ich lange.",
+      "notes": "Schönes Wochenende! = Have a nice weekend!",
+      "tags": [
+        "days"
+      ]
+    },
+    {
+      "de": "heute",
+      "en": "today",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Heute ist Mittwoch.",
+      "notes": "",
+      "tags": [
+        "days"
+      ]
+    },
+    {
+      "de": "morgen",
+      "en": "tomorrow",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Morgen habe ich frei.",
+      "notes": "morgen = tomorrow, der Morgen = the morning.",
+      "tags": [
+        "days"
+      ]
+    },
+    {
+      "de": "gestern",
+      "en": "yesterday",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Gestern war ich krank.",
+      "notes": "",
+      "tags": [
+        "days"
+      ]
+    },
+    {
+      "de": "am Montag",
+      "en": "on Monday",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Am Montag habe ich einen Deutschkurs.",
+      "notes": "an + dem = am.",
+      "tags": [
+        "days"
+      ]
+    },
+    {
+      "de": "Welcher Tag ist heute?",
+      "en": "What day is it today?",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Welcher Tag ist heute? — Heute ist Freitag.",
+      "notes": "",
+      "tags": [
+        "days"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,416 @@
+{
+  "app": "wortschatz",
+  "v": 1,
+  "words": [
+    {
+      "de": "die Hausarbeit",
+      "en": "housework",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Hausarbeiten",
+      "example": "Die Hausarbeit teilen wir uns.",
+      "notes": "",
+      "tags": [
+        "housework-and-chores"
+      ]
+    },
+    {
+      "de": "die Wäsche",
+      "en": "laundry, washing",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Die Wäsche ist noch nass.",
+      "notes": "",
+      "tags": [
+        "housework-and-chores"
+      ]
+    },
+    {
+      "de": "der Müll",
+      "en": "rubbish, waste",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Der Müll muss raus.",
+      "notes": "",
+      "tags": [
+        "housework-and-chores"
+      ]
+    },
+    {
+      "de": "die Mülltonne",
+      "en": "rubbish bin",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Mülltonnen",
+      "example": "Die Mülltonne steht im Hof.",
+      "notes": "",
+      "tags": [
+        "housework-and-chores"
+      ]
+    },
+    {
+      "de": "der Staub",
+      "en": "dust",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Auf dem Regal liegt Staub.",
+      "notes": "",
+      "tags": [
+        "housework-and-chores"
+      ]
+    },
+    {
+      "de": "der Staubsauger",
+      "en": "vacuum cleaner",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Staubsauger",
+      "example": "Der Staubsauger ist sehr laut.",
+      "notes": "",
+      "tags": [
+        "housework-and-chores"
+      ]
+    },
+    {
+      "de": "der Besen",
+      "en": "broom",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Besen",
+      "example": "Der Besen steht in der Ecke.",
+      "notes": "",
+      "tags": [
+        "housework-and-chores"
+      ]
+    },
+    {
+      "de": "der Lappen",
+      "en": "cloth, rag",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Lappen",
+      "example": "Nimm den Lappen für den Tisch.",
+      "notes": "",
+      "tags": [
+        "housework-and-chores"
+      ]
+    },
+    {
+      "de": "der Eimer",
+      "en": "bucket",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Eimer",
+      "example": "Der Eimer ist voll Wasser.",
+      "notes": "",
+      "tags": [
+        "housework-and-chores"
+      ]
+    },
+    {
+      "de": "das Waschmittel",
+      "en": "detergent",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Waschmittel",
+      "example": "Das Waschmittel ist alle.",
+      "notes": "",
+      "tags": [
+        "housework-and-chores"
+      ]
+    },
+    {
+      "de": "die Ordnung",
+      "en": "order, tidiness",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "In meinem Zimmer herrscht Ordnung.",
+      "notes": "",
+      "tags": [
+        "housework-and-chores"
+      ]
+    },
+    {
+      "de": "die Unordnung",
+      "en": "mess",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Nach der Party war überall Unordnung.",
+      "notes": "",
+      "tags": [
+        "housework-and-chores"
+      ]
+    },
+    {
+      "de": "putzen",
+      "en": "to clean",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich putze samstags die Wohnung.",
+      "present": "ich putze · du putzt · er putzt",
+      "praet": "er putzte",
+      "perfekt": "hat geputzt",
+      "notes": "Stems in -z take only -t in the du form.",
+      "tags": [
+        "housework-and-chores"
+      ]
+    },
+    {
+      "de": "staubsaugen",
+      "en": "to vacuum",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Er staubsaugt das Wohnzimmer.",
+      "present": "ich staubsauge · du staubsaugst · er staubsaugt",
+      "praet": "er staubsaugte",
+      "perfekt": "hat gestaubsaugt",
+      "notes": "Also: Staub saugen.",
+      "tags": [
+        "housework-and-chores"
+      ]
+    },
+    {
+      "de": "wischen",
+      "en": "to wipe, to mop",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich wische den Boden mit Wasser.",
+      "present": "ich wische · du wischst · er wischt",
+      "praet": "er wischte",
+      "perfekt": "hat gewischt",
+      "notes": "",
+      "tags": [
+        "housework-and-chores"
+      ]
+    },
+    {
+      "de": "spülen",
+      "en": "to wash up, to rinse",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Nach dem Essen spüle ich.",
+      "present": "ich spüle · du spülst · er spült",
+      "praet": "er spülte",
+      "perfekt": "hat gespült",
+      "notes": "",
+      "tags": [
+        "housework-and-chores"
+      ]
+    },
+    {
+      "de": "bügeln",
+      "en": "to iron",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich bügle nur die Hemden.",
+      "present": "ich bügle · du bügelst · er bügelt",
+      "praet": "er bügelte",
+      "perfekt": "hat gebügelt",
+      "notes": "",
+      "tags": [
+        "housework-and-chores"
+      ]
+    },
+    {
+      "de": "trocknen",
+      "en": "to dry",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Die Wäsche trocknet auf dem Balkon.",
+      "present": "ich trockne · du trocknest · er trocknet",
+      "praet": "er trocknete",
+      "perfekt": "hat getrocknet",
+      "notes": "",
+      "tags": [
+        "housework-and-chores"
+      ]
+    },
+    {
+      "de": "gießen",
+      "en": "to water (plants), to pour",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich gieße die Blumen zweimal pro Woche.",
+      "present": "ich gieße · du gießt · er gießt",
+      "praet": "er goss",
+      "perfekt": "hat gegossen",
+      "notes": "",
+      "tags": [
+        "housework-and-chores"
+      ]
+    },
+    {
+      "de": "sortieren",
+      "en": "to sort",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Wir sortieren den Müll.",
+      "present": "ich sortiere · du sortierst · er sortiert",
+      "praet": "er sortierte",
+      "perfekt": "hat sortiert",
+      "notes": "",
+      "tags": [
+        "housework-and-chores"
+      ]
+    },
+    {
+      "de": "reparieren",
+      "en": "to repair",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Mein Vater repariert alles selbst.",
+      "present": "ich repariere · du reparierst · er repariert",
+      "praet": "er reparierte",
+      "perfekt": "hat repariert",
+      "notes": "",
+      "tags": [
+        "housework-and-chores"
+      ]
+    },
+    {
+      "de": "abwaschen",
+      "en": "to wash the dishes",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Wer wäscht heute ab?",
+      "present": "ich wasche ab · du wäschst ab",
+      "praet": "er wusch ab",
+      "perfekt": "hat abgewaschen",
+      "notes": "Separable.",
+      "tags": [
+        "housework-and-chores"
+      ]
+    },
+    {
+      "de": "wegwerfen",
+      "en": "to throw away",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Wirf das alte Brot weg.",
+      "present": "ich werfe weg · du wirfst weg",
+      "praet": "er warf weg",
+      "perfekt": "hat weggeworfen",
+      "notes": "Separable.",
+      "tags": [
+        "housework-and-chores"
+      ]
+    },
+    {
+      "de": "aufhängen",
+      "en": "to hang up",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich hänge die Wäsche auf.",
+      "present": "ich hänge auf · du hängst auf",
+      "praet": "er hängte auf",
+      "perfekt": "hat aufgehängt",
+      "notes": "Separable.",
+      "tags": [
+        "housework-and-chores"
+      ]
+    },
+    {
+      "de": "das Bett machen",
+      "en": "to make the bed",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich mache jeden Morgen das Bett.",
+      "present": "ich mache das Bett",
+      "praet": "er machte das Bett",
+      "perfekt": "hat das Bett gemacht",
+      "notes": "",
+      "tags": [
+        "housework-and-chores"
+      ]
+    },
+    {
+      "de": "den Müll rausbringen",
+      "en": "to take out the rubbish",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Bringst du bitte den Müll raus?",
+      "present": "ich bringe den Müll raus",
+      "praet": "er brachte den Müll raus",
+      "perfekt": "hat den Müll rausgebracht",
+      "notes": "",
+      "tags": [
+        "housework-and-chores"
+      ]
+    },
+    {
+      "de": "sauber",
+      "en": "clean",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Die Küche ist wieder sauber.",
+      "comp": "sauberer",
+      "super": "am saubersten",
+      "notes": "",
+      "tags": [
+        "housework-and-chores"
+      ]
+    },
+    {
+      "de": "schmutzig",
+      "en": "dirty",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Die Schuhe sind schmutzig.",
+      "comp": "schmutziger",
+      "super": "am schmutzigsten",
+      "notes": "",
+      "tags": [
+        "housework-and-chores"
+      ]
+    },
+    {
+      "de": "ordentlich",
+      "en": "tidy",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Sie ist sehr ordentlich.",
+      "comp": "ordentlicher",
+      "super": "am ordentlichsten",
+      "notes": "",
+      "tags": [
+        "housework-and-chores"
+      ]
+    },
+    {
+      "de": "unordentlich",
+      "en": "untidy",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Mein Schreibtisch ist unordentlich.",
+      "comp": "unordentlicher",
+      "super": "am unordentlichsten",
+      "notes": "",
+      "tags": [
+        "housework-and-chores"
+      ]
+    }
+  ]
+}

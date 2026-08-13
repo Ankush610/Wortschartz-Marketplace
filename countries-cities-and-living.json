@@ -1,0 +1,383 @@
+{
+  "app": "wortschatz",
+  "v": 1,
+  "words": [
+    {
+      "de": "das Zuhause",
+      "en": "home",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "",
+      "example": "Mein Zuhause ist jetzt hier.",
+      "notes": "",
+      "tags": [
+        "countries-cities-and-living"
+      ]
+    },
+    {
+      "de": "die Heimatstadt",
+      "en": "home town",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Heimatstädte",
+      "example": "Meine Heimatstadt liegt am Fluss.",
+      "notes": "",
+      "tags": [
+        "countries-cities-and-living"
+      ]
+    },
+    {
+      "de": "der Ort",
+      "en": "place, town",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Orte",
+      "example": "Der Ort hat nur 800 Einwohner.",
+      "notes": "",
+      "tags": [
+        "countries-cities-and-living"
+      ]
+    },
+    {
+      "de": "die Gegend",
+      "en": "area, region",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Gegenden",
+      "example": "Die Gegend ist sehr ruhig.",
+      "notes": "",
+      "tags": [
+        "countries-cities-and-living"
+      ]
+    },
+    {
+      "de": "die Lage",
+      "en": "location, situation",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Lagen",
+      "example": "Die Lage der Wohnung ist gut.",
+      "notes": "",
+      "tags": [
+        "countries-cities-and-living"
+      ]
+    },
+    {
+      "de": "die Region",
+      "en": "region",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Regionen",
+      "example": "Die Region ist bekannt für Wein.",
+      "notes": "",
+      "tags": [
+        "countries-cities-and-living"
+      ]
+    },
+    {
+      "de": "das Bundesland",
+      "en": "federal state",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Bundesländer",
+      "example": "Deutschland hat 16 Bundesländer.",
+      "notes": "",
+      "tags": [
+        "countries-cities-and-living"
+      ]
+    },
+    {
+      "de": "die Nachbarschaft",
+      "en": "neighbourhood",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Nachbarschaften",
+      "example": "Die Nachbarschaft ist freundlich.",
+      "notes": "",
+      "tags": [
+        "countries-cities-and-living"
+      ]
+    },
+    {
+      "de": "der Vorort",
+      "en": "suburb",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Vororte",
+      "example": "Wir wohnen in einem Vorort von Köln.",
+      "notes": "",
+      "tags": [
+        "countries-cities-and-living"
+      ]
+    },
+    {
+      "de": "das Stadtleben",
+      "en": "city life",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "",
+      "example": "Das Stadtleben ist mir zu hektisch.",
+      "notes": "",
+      "tags": [
+        "countries-cities-and-living"
+      ]
+    },
+    {
+      "de": "das Landleben",
+      "en": "country life",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "",
+      "example": "Das Landleben ist ruhiger.",
+      "notes": "",
+      "tags": [
+        "countries-cities-and-living"
+      ]
+    },
+    {
+      "de": "die Lebensqualität",
+      "en": "quality of life",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Die Lebensqualität hier ist hoch.",
+      "notes": "",
+      "tags": [
+        "countries-cities-and-living"
+      ]
+    },
+    {
+      "de": "die Bevölkerung",
+      "en": "population",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Die Bevölkerung wird älter.",
+      "notes": "",
+      "tags": [
+        "countries-cities-and-living"
+      ]
+    },
+    {
+      "de": "der Wohnungsmarkt",
+      "en": "housing market",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Wohnungsmärkte",
+      "example": "Der Wohnungsmarkt ist schwierig.",
+      "notes": "",
+      "tags": [
+        "countries-cities-and-living"
+      ]
+    },
+    {
+      "de": "der Einheimische",
+      "en": "local, native",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Einheimischen",
+      "example": "Die Einheimischen sind sehr freundlich.",
+      "notes": "Adjectival noun: ein Einheimischer.",
+      "tags": [
+        "countries-cities-and-living"
+      ]
+    },
+    {
+      "de": "vermissen",
+      "en": "to miss (someone)",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich vermisse meine Familie.",
+      "present": "ich vermisse · du vermisst · er vermisst",
+      "praet": "er vermisste",
+      "perfekt": "hat vermisst",
+      "notes": "",
+      "tags": [
+        "countries-cities-and-living"
+      ]
+    },
+    {
+      "de": "aufwachsen",
+      "en": "to grow up",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich bin auf dem Land aufgewachsen.",
+      "present": "ich wachse auf · du wächst auf",
+      "praet": "er wuchs auf",
+      "perfekt": "ist aufgewachsen",
+      "notes": "Separable.",
+      "tags": [
+        "countries-cities-and-living"
+      ]
+    },
+    {
+      "de": "sich wohlfühlen",
+      "en": "to feel at home, to feel good",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich fühle mich hier sehr wohl.",
+      "present": "ich fühle mich wohl · du fühlst dich wohl",
+      "praet": "er fühlte sich wohl",
+      "perfekt": "hat sich wohlgefühlt",
+      "notes": "Separable.",
+      "tags": [
+        "countries-cities-and-living"
+      ]
+    },
+    {
+      "de": "geboren sein",
+      "en": "to be born",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich bin in Pune geboren.",
+      "present": "ich bin geboren · du bist geboren",
+      "praet": "er war geboren",
+      "perfekt": "ist geboren",
+      "notes": "",
+      "tags": [
+        "countries-cities-and-living"
+      ]
+    },
+    {
+      "de": "sich gewöhnen",
+      "en": "to get used to",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich gewöhne mich langsam an das Wetter.",
+      "present": "ich gewöhne mich · du gewöhnst dich",
+      "praet": "er gewöhnte sich",
+      "perfekt": "hat sich gewöhnt",
+      "notes": "With an + accusative.",
+      "tags": [
+        "countries-cities-and-living"
+      ]
+    },
+    {
+      "de": "ländlich",
+      "en": "rural",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Die Gegend ist sehr ländlich.",
+      "comp": "ländlicher",
+      "super": "am ländlichsten",
+      "notes": "",
+      "tags": [
+        "countries-cities-and-living"
+      ]
+    },
+    {
+      "de": "städtisch",
+      "en": "urban",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Das Leben hier ist städtisch.",
+      "comp": "",
+      "super": "",
+      "notes": "",
+      "tags": [
+        "countries-cities-and-living"
+      ]
+    },
+    {
+      "de": "abgelegen",
+      "en": "remote",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Das Dorf ist ziemlich abgelegen.",
+      "comp": "abgelegener",
+      "super": "am abgelegensten",
+      "notes": "",
+      "tags": [
+        "countries-cities-and-living"
+      ]
+    },
+    {
+      "de": "sicher",
+      "en": "safe, certain",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Die Gegend ist sicher.",
+      "comp": "sicherer",
+      "super": "am sichersten",
+      "notes": "",
+      "tags": [
+        "countries-cities-and-living"
+      ]
+    },
+    {
+      "de": "weltoffen",
+      "en": "cosmopolitan",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Die Stadt ist jung und weltoffen.",
+      "comp": "weltoffener",
+      "super": "am weltoffensten",
+      "notes": "",
+      "tags": [
+        "countries-cities-and-living"
+      ]
+    },
+    {
+      "de": "wo möchtest du leben",
+      "en": "where would you like to live",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Wo möchtest du später leben?",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "countries-cities-and-living"
+      ]
+    },
+    {
+      "de": "ich lebe seit 2020 hier",
+      "en": "I've lived here since 2020",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Ich lebe seit 2020 hier.",
+      "literal": "",
+      "notes": "seit + present tense in German.",
+      "tags": [
+        "countries-cities-and-living"
+      ]
+    },
+    {
+      "de": "hier gefällt es mir",
+      "en": "I like it here",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Hier gefällt es mir sehr gut.",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "countries-cities-and-living"
+      ]
+    },
+    {
+      "de": "ich vermisse meine Familie",
+      "en": "I miss my family",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Manchmal vermisse ich meine Familie.",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "countries-cities-and-living"
+      ]
+    }
+  ]
+}

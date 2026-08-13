@@ -1,0 +1,102 @@
+{
+  "app": "wortschatz",
+  "v": 1,
+  "words": [
+    {
+      "de": "der Frühling",
+      "en": "spring",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Frühlinge",
+      "example": "Im Frühling blühen die Blumen.",
+      "notes": "Also das Frühjahr.",
+      "tags": [
+        "seasons"
+      ]
+    },
+    {
+      "de": "der Sommer",
+      "en": "summer",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Sommer",
+      "example": "Im Sommer fahren wir ans Meer.",
+      "notes": "",
+      "tags": [
+        "seasons"
+      ]
+    },
+    {
+      "de": "der Herbst",
+      "en": "autumn, fall",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Herbste",
+      "example": "Im Herbst ist das Wetter oft windig.",
+      "notes": "",
+      "tags": [
+        "seasons"
+      ]
+    },
+    {
+      "de": "der Winter",
+      "en": "winter",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Winter",
+      "example": "Im Winter schneit es hier viel.",
+      "notes": "",
+      "tags": [
+        "seasons"
+      ]
+    },
+    {
+      "de": "die Jahreszeit",
+      "en": "season",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Jahreszeiten",
+      "example": "Welche Jahreszeit magst du am liebsten?",
+      "notes": "",
+      "tags": [
+        "seasons"
+      ]
+    },
+    {
+      "de": "das Frühjahr",
+      "en": "spring (early year)",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "",
+      "example": "Wir ziehen im Frühjahr um.",
+      "notes": "More formal word for der Frühling.",
+      "tags": [
+        "seasons"
+      ]
+    },
+    {
+      "de": "das Wetter",
+      "en": "weather",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "",
+      "example": "Wie ist das Wetter heute?",
+      "notes": "",
+      "tags": [
+        "seasons"
+      ]
+    },
+    {
+      "de": "im Sommer",
+      "en": "in summer",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Im Sommer gehe ich jeden Tag schwimmen.",
+      "notes": "im + season: im Frühling, im Herbst, im Winter.",
+      "tags": [
+        "seasons"
+      ]
+    }
+  ]
+}

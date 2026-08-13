@@ -1,0 +1,386 @@
+{
+  "app": "wortschatz",
+  "v": 1,
+  "words": [
+    {
+      "de": "das Restaurant",
+      "en": "restaurant",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Restaurants",
+      "example": "Das Restaurant ist heute voll.",
+      "notes": "",
+      "tags": [
+        "restaurant-and-cafe"
+      ]
+    },
+    {
+      "de": "das Café",
+      "en": "café",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Cafés",
+      "example": "Wir sitzen im Café am Markt.",
+      "notes": "",
+      "tags": [
+        "restaurant-and-cafe"
+      ]
+    },
+    {
+      "de": "die Kneipe",
+      "en": "pub, bar",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Kneipen",
+      "example": "Nach der Arbeit gehen wir in die Kneipe.",
+      "notes": "",
+      "tags": [
+        "restaurant-and-cafe"
+      ]
+    },
+    {
+      "de": "der Imbiss",
+      "en": "snack bar",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Imbisse",
+      "example": "Am Imbiss gibt es Pommes.",
+      "notes": "",
+      "tags": [
+        "restaurant-and-cafe"
+      ]
+    },
+    {
+      "de": "die Speisekarte",
+      "en": "menu",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Speisekarten",
+      "example": "Bringen Sie mir bitte die Speisekarte.",
+      "notes": "",
+      "tags": [
+        "restaurant-and-cafe"
+      ]
+    },
+    {
+      "de": "das Menü",
+      "en": "set menu",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Menüs",
+      "example": "Das Menü kostet zwölf Euro.",
+      "notes": "",
+      "tags": [
+        "restaurant-and-cafe"
+      ]
+    },
+    {
+      "de": "der Kellner",
+      "en": "waiter",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Kellner",
+      "example": "Der Kellner bringt die Getränke.",
+      "notes": "Female: die Kellnerin.",
+      "tags": [
+        "restaurant-and-cafe"
+      ]
+    },
+    {
+      "de": "die Bedienung",
+      "en": "service, waiting staff",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Bedienungen",
+      "example": "Die Bedienung war sehr freundlich.",
+      "notes": "",
+      "tags": [
+        "restaurant-and-cafe"
+      ]
+    },
+    {
+      "de": "die Bestellung",
+      "en": "order",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Bestellungen",
+      "example": "Die Bestellung dauert lange.",
+      "notes": "",
+      "tags": [
+        "restaurant-and-cafe"
+      ]
+    },
+    {
+      "de": "die Vorspeise",
+      "en": "starter",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Vorspeisen",
+      "example": "Als Vorspeise nehme ich Suppe.",
+      "notes": "",
+      "tags": [
+        "restaurant-and-cafe"
+      ]
+    },
+    {
+      "de": "das Hauptgericht",
+      "en": "main course",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Hauptgerichte",
+      "example": "Das Hauptgericht war sehr gut.",
+      "notes": "",
+      "tags": [
+        "restaurant-and-cafe"
+      ]
+    },
+    {
+      "de": "die Nachspeise",
+      "en": "dessert",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Nachspeisen",
+      "example": "Zur Nachspeise gibt es Eis.",
+      "notes": "",
+      "tags": [
+        "restaurant-and-cafe"
+      ]
+    },
+    {
+      "de": "das Getränk",
+      "en": "drink",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Getränke",
+      "example": "Die Getränke sind extra.",
+      "notes": "",
+      "tags": [
+        "restaurant-and-cafe"
+      ]
+    },
+    {
+      "de": "die Rechnung",
+      "en": "bill",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Rechnungen",
+      "example": "Die Rechnung stimmt nicht.",
+      "notes": "",
+      "tags": [
+        "restaurant-and-cafe"
+      ]
+    },
+    {
+      "de": "das Trinkgeld",
+      "en": "tip",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Trinkgelder",
+      "example": "Zehn Prozent Trinkgeld sind üblich.",
+      "notes": "",
+      "tags": [
+        "restaurant-and-cafe"
+      ]
+    },
+    {
+      "de": "die Serviette",
+      "en": "napkin",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Servietten",
+      "example": "Kann ich bitte eine Serviette haben?",
+      "notes": "",
+      "tags": [
+        "restaurant-and-cafe"
+      ]
+    },
+    {
+      "de": "die Theke",
+      "en": "counter, bar",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Theken",
+      "example": "An der Theke ist noch ein Platz frei.",
+      "notes": "",
+      "tags": [
+        "restaurant-and-cafe"
+      ]
+    },
+    {
+      "de": "der Platz",
+      "en": "seat, place",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Plätze",
+      "example": "Ist dieser Platz noch frei?",
+      "notes": "",
+      "tags": [
+        "restaurant-and-cafe"
+      ]
+    },
+    {
+      "de": "reservieren",
+      "en": "to reserve, to book",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich reserviere einen Tisch für vier Personen.",
+      "present": "ich reserviere · du reservierst · er reserviert",
+      "praet": "er reservierte",
+      "perfekt": "hat reserviert",
+      "notes": "",
+      "tags": [
+        "restaurant-and-cafe"
+      ]
+    },
+    {
+      "de": "servieren",
+      "en": "to serve",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Der Kellner serviert das Essen.",
+      "present": "ich serviere · du servierst · er serviert",
+      "praet": "er servierte",
+      "perfekt": "hat serviert",
+      "notes": "",
+      "tags": [
+        "restaurant-and-cafe"
+      ]
+    },
+    {
+      "de": "besetzt",
+      "en": "occupied, taken",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Der Tisch ist leider besetzt.",
+      "comp": "",
+      "super": "",
+      "notes": "",
+      "tags": [
+        "restaurant-and-cafe"
+      ]
+    },
+    {
+      "de": "reserviert",
+      "en": "reserved",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Dieser Tisch ist reserviert.",
+      "comp": "",
+      "super": "",
+      "notes": "",
+      "tags": [
+        "restaurant-and-cafe"
+      ]
+    },
+    {
+      "de": "voll",
+      "en": "full, crowded",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Das Lokal ist am Abend voll.",
+      "comp": "voller",
+      "super": "am vollsten",
+      "notes": "",
+      "tags": [
+        "restaurant-and-cafe"
+      ]
+    },
+    {
+      "de": "gemischt",
+      "en": "mixed",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Ich nehme einen gemischten Salat.",
+      "comp": "",
+      "super": "",
+      "notes": "",
+      "tags": [
+        "restaurant-and-cafe"
+      ]
+    },
+    {
+      "de": "die Rechnung, bitte",
+      "en": "the bill, please",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Herr Ober, die Rechnung, bitte!",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "restaurant-and-cafe"
+      ]
+    },
+    {
+      "de": "zusammen oder getrennt",
+      "en": "together or separately",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Zahlen Sie zusammen oder getrennt?",
+      "literal": "",
+      "notes": "What the waiter asks when you pay.",
+      "tags": [
+        "restaurant-and-cafe"
+      ]
+    },
+    {
+      "de": "ich hätte gern",
+      "en": "I would like",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Ich hätte gern eine Suppe.",
+      "literal": "I would have gladly",
+      "notes": "The polite way to order.",
+      "tags": [
+        "restaurant-and-cafe"
+      ]
+    },
+    {
+      "de": "was möchten Sie trinken",
+      "en": "what would you like to drink",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Was möchten Sie trinken?",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "restaurant-and-cafe"
+      ]
+    },
+    {
+      "de": "ein Tisch für zwei Personen",
+      "en": "a table for two",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Haben Sie einen Tisch für zwei Personen?",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "restaurant-and-cafe"
+      ]
+    },
+    {
+      "de": "hat es geschmeckt",
+      "en": "did you enjoy it",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Hat es Ihnen geschmeckt?",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "restaurant-and-cafe"
+      ]
+    }
+  ]
+}

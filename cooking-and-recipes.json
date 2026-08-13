@@ -1,0 +1,415 @@
+{
+  "app": "wortschatz",
+  "v": 1,
+  "words": [
+    {
+      "de": "das Kochrezept",
+      "en": "recipe",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Kochrezepte",
+      "example": "Das Kochrezept ist von meiner Oma.",
+      "notes": "",
+      "tags": [
+        "cooking-and-recipes"
+      ]
+    },
+    {
+      "de": "die Zutat",
+      "en": "ingredient",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Zutaten",
+      "example": "Alle Zutaten liegen auf dem Tisch.",
+      "notes": "",
+      "tags": [
+        "cooking-and-recipes"
+      ]
+    },
+    {
+      "de": "das Gericht",
+      "en": "dish",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Gerichte",
+      "example": "Das Gericht kommt aus Indien.",
+      "notes": "",
+      "tags": [
+        "cooking-and-recipes"
+      ]
+    },
+    {
+      "de": "der Topf",
+      "en": "pot, saucepan",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Töpfe",
+      "example": "Der Topf ist zu klein.",
+      "notes": "",
+      "tags": [
+        "cooking-and-recipes"
+      ]
+    },
+    {
+      "de": "die Pfanne",
+      "en": "frying pan",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Pfannen",
+      "example": "Die Pfanne ist schon heiß.",
+      "notes": "",
+      "tags": [
+        "cooking-and-recipes"
+      ]
+    },
+    {
+      "de": "der Deckel",
+      "en": "lid",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Deckel",
+      "example": "Mach den Deckel drauf.",
+      "notes": "",
+      "tags": [
+        "cooking-and-recipes"
+      ]
+    },
+    {
+      "de": "die Schüssel",
+      "en": "bowl",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Schüsseln",
+      "example": "Die Schüssel ist aus Glas.",
+      "notes": "",
+      "tags": [
+        "cooking-and-recipes"
+      ]
+    },
+    {
+      "de": "das Schneidebrett",
+      "en": "chopping board",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Schneidebretter",
+      "example": "Das Schneidebrett ist aus Holz.",
+      "notes": "",
+      "tags": [
+        "cooking-and-recipes"
+      ]
+    },
+    {
+      "de": "der Teig",
+      "en": "dough, batter",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Teige",
+      "example": "Der Teig muss eine Stunde ruhen.",
+      "notes": "",
+      "tags": [
+        "cooking-and-recipes"
+      ]
+    },
+    {
+      "de": "das Mehl",
+      "en": "flour",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "",
+      "example": "Wir brauchen 500 Gramm Mehl.",
+      "notes": "",
+      "tags": [
+        "cooking-and-recipes"
+      ]
+    },
+    {
+      "de": "die Hefe",
+      "en": "yeast",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Ohne Hefe geht der Teig nicht auf.",
+      "notes": "",
+      "tags": [
+        "cooking-and-recipes"
+      ]
+    },
+    {
+      "de": "der Esslöffel",
+      "en": "tablespoon",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Esslöffel",
+      "example": "Zwei Esslöffel Öl dazugeben.",
+      "notes": "",
+      "tags": [
+        "cooking-and-recipes"
+      ]
+    },
+    {
+      "de": "der Teelöffel",
+      "en": "teaspoon",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Teelöffel",
+      "example": "Ein Teelöffel Salz reicht.",
+      "notes": "",
+      "tags": [
+        "cooking-and-recipes"
+      ]
+    },
+    {
+      "de": "die Prise",
+      "en": "pinch",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Prisen",
+      "example": "Eine Prise Zucker macht es besser.",
+      "notes": "",
+      "tags": [
+        "cooking-and-recipes"
+      ]
+    },
+    {
+      "de": "die Zubereitung",
+      "en": "preparation",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Zubereitungen",
+      "example": "Die Zubereitung dauert 20 Minuten.",
+      "notes": "",
+      "tags": [
+        "cooking-and-recipes"
+      ]
+    },
+    {
+      "de": "die Küchenwaage",
+      "en": "kitchen scales",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Küchenwaagen",
+      "example": "Ohne Küchenwaage backe ich nicht.",
+      "notes": "",
+      "tags": [
+        "cooking-and-recipes"
+      ]
+    },
+    {
+      "de": "backen",
+      "en": "to bake",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich backe sonntags einen Kuchen.",
+      "present": "ich backe · du backst · er backt",
+      "praet": "er backte",
+      "perfekt": "hat gebacken",
+      "notes": "",
+      "tags": [
+        "cooking-and-recipes"
+      ]
+    },
+    {
+      "de": "braten",
+      "en": "to fry, to roast",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich brate das Fleisch in der Pfanne.",
+      "present": "ich brate · du brätst · er brät",
+      "praet": "er briet",
+      "perfekt": "hat gebraten",
+      "notes": "",
+      "tags": [
+        "cooking-and-recipes"
+      ]
+    },
+    {
+      "de": "schneiden",
+      "en": "to cut",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Schneide die Zwiebel klein.",
+      "present": "ich schneide · du schneidest",
+      "praet": "er schnitt",
+      "perfekt": "hat geschnitten",
+      "notes": "",
+      "tags": [
+        "cooking-and-recipes"
+      ]
+    },
+    {
+      "de": "mischen",
+      "en": "to mix",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Mischen Sie Mehl und Zucker.",
+      "present": "ich mische · du mischst · er mischt",
+      "praet": "er mischte",
+      "perfekt": "hat gemischt",
+      "notes": "",
+      "tags": [
+        "cooking-and-recipes"
+      ]
+    },
+    {
+      "de": "rühren",
+      "en": "to stir",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Rühr die Suppe bitte um.",
+      "present": "ich rühre · du rührst · er rührt",
+      "praet": "er rührte",
+      "perfekt": "hat gerührt",
+      "notes": "",
+      "tags": [
+        "cooking-and-recipes"
+      ]
+    },
+    {
+      "de": "würzen",
+      "en": "to season",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich würze das Essen mit Pfeffer.",
+      "present": "ich würze · du würzt · er würzt",
+      "praet": "er würzte",
+      "perfekt": "hat gewürzt",
+      "notes": "Stems in -z take only -t in the du form.",
+      "tags": [
+        "cooking-and-recipes"
+      ]
+    },
+    {
+      "de": "schälen",
+      "en": "to peel",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich schäle die Kartoffeln.",
+      "present": "ich schäle · du schälst · er schält",
+      "praet": "er schälte",
+      "perfekt": "hat geschält",
+      "notes": "",
+      "tags": [
+        "cooking-and-recipes"
+      ]
+    },
+    {
+      "de": "aufschneiden",
+      "en": "to slice open",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich schneide das Brot auf.",
+      "present": "ich schneide auf · du schneidest auf",
+      "praet": "er schnitt auf",
+      "perfekt": "hat aufgeschnitten",
+      "notes": "Separable.",
+      "tags": [
+        "cooking-and-recipes"
+      ]
+    },
+    {
+      "de": "zugeben",
+      "en": "to add",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Zum Schluss die Milch zugeben.",
+      "present": "ich gebe zu · du gibst zu · er gibt zu",
+      "praet": "er gab zu",
+      "perfekt": "hat zugegeben",
+      "notes": "Separable.",
+      "tags": [
+        "cooking-and-recipes"
+      ]
+    },
+    {
+      "de": "roh",
+      "en": "raw",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Rohe Kartoffeln kann man nicht essen.",
+      "comp": "roher",
+      "super": "am rohesten",
+      "notes": "",
+      "tags": [
+        "cooking-and-recipes"
+      ]
+    },
+    {
+      "de": "gekocht",
+      "en": "boiled, cooked",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Ein gekochtes Ei zum Frühstück.",
+      "comp": "",
+      "super": "",
+      "notes": "",
+      "tags": [
+        "cooking-and-recipes"
+      ]
+    },
+    {
+      "de": "gebraten",
+      "en": "fried, roasted",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Ich mag gebratenes Gemüse.",
+      "comp": "",
+      "super": "",
+      "notes": "",
+      "tags": [
+        "cooking-and-recipes"
+      ]
+    },
+    {
+      "de": "fertig",
+      "en": "ready, finished",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Das Essen ist gleich fertig.",
+      "comp": "",
+      "super": "",
+      "notes": "",
+      "tags": [
+        "cooking-and-recipes"
+      ]
+    },
+    {
+      "de": "bei 180 Grad backen",
+      "en": "bake at 180 degrees",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Den Kuchen bei 180 Grad backen.",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "cooking-and-recipes"
+      ]
+    },
+    {
+      "de": "zehn Minuten kochen lassen",
+      "en": "let it boil for ten minutes",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Die Nudeln zehn Minuten kochen lassen.",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "cooking-and-recipes"
+      ]
+    }
+  ]
+}

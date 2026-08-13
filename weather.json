@@ -1,0 +1,448 @@
+{
+  "app": "wortschatz",
+  "v": 1,
+  "words": [
+    {
+      "de": "die Sonne",
+      "en": "sun",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Sonnen",
+      "example": "Die Sonne scheint den ganzen Tag.",
+      "notes": "",
+      "tags": [
+        "weather"
+      ]
+    },
+    {
+      "de": "der Regen",
+      "en": "rain",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Der Regen hört nicht auf.",
+      "notes": "",
+      "tags": [
+        "weather"
+      ]
+    },
+    {
+      "de": "der Schnee",
+      "en": "snow",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Der Schnee liegt seit gestern.",
+      "notes": "",
+      "tags": [
+        "weather"
+      ]
+    },
+    {
+      "de": "der Wind",
+      "en": "wind",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Winde",
+      "example": "Der Wind kommt von Norden.",
+      "notes": "",
+      "tags": [
+        "weather"
+      ]
+    },
+    {
+      "de": "die Wolke",
+      "en": "cloud",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Wolken",
+      "example": "Am Himmel sind keine Wolken.",
+      "notes": "",
+      "tags": [
+        "weather"
+      ]
+    },
+    {
+      "de": "der Himmel",
+      "en": "sky",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Der Himmel ist heute ganz blau.",
+      "notes": "",
+      "tags": [
+        "weather"
+      ]
+    },
+    {
+      "de": "das Gewitter",
+      "en": "thunderstorm",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Gewitter",
+      "example": "Am Abend gibt es ein Gewitter.",
+      "notes": "",
+      "tags": [
+        "weather"
+      ]
+    },
+    {
+      "de": "der Blitz",
+      "en": "lightning",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Blitze",
+      "example": "Der Blitz war ganz nah.",
+      "notes": "",
+      "tags": [
+        "weather"
+      ]
+    },
+    {
+      "de": "der Donner",
+      "en": "thunder",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Der Donner kam nach dem Blitz.",
+      "notes": "",
+      "tags": [
+        "weather"
+      ]
+    },
+    {
+      "de": "der Nebel",
+      "en": "fog",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Am Morgen war dichter Nebel.",
+      "notes": "",
+      "tags": [
+        "weather"
+      ]
+    },
+    {
+      "de": "der Sturm",
+      "en": "storm",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Stürme",
+      "example": "Der Sturm hat einen Baum umgeworfen.",
+      "notes": "",
+      "tags": [
+        "weather"
+      ]
+    },
+    {
+      "de": "der Frost",
+      "en": "frost",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Heute Nacht gibt es Frost.",
+      "notes": "",
+      "tags": [
+        "weather"
+      ]
+    },
+    {
+      "de": "die Temperatur",
+      "en": "temperature",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Temperaturen",
+      "example": "Die Temperatur fällt auf null Grad.",
+      "notes": "",
+      "tags": [
+        "weather"
+      ]
+    },
+    {
+      "de": "der Grad",
+      "en": "degree",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Grad",
+      "example": "Es sind zwanzig Grad.",
+      "notes": "",
+      "tags": [
+        "weather"
+      ]
+    },
+    {
+      "de": "die Hitze",
+      "en": "heat",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Die Hitze im August ist schlimm.",
+      "notes": "",
+      "tags": [
+        "weather"
+      ]
+    },
+    {
+      "de": "die Kälte",
+      "en": "cold",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Die Kälte kommt nächste Woche.",
+      "notes": "",
+      "tags": [
+        "weather"
+      ]
+    },
+    {
+      "de": "der Wetterbericht",
+      "en": "weather report",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Wetterberichte",
+      "example": "Der Wetterbericht sagt Regen.",
+      "notes": "",
+      "tags": [
+        "weather"
+      ]
+    },
+    {
+      "de": "die Vorhersage",
+      "en": "forecast",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Vorhersagen",
+      "example": "Die Vorhersage für morgen ist gut.",
+      "notes": "",
+      "tags": [
+        "weather"
+      ]
+    },
+    {
+      "de": "regnen",
+      "en": "to rain",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Es regnet seit heute Morgen.",
+      "present": "es regnet",
+      "praet": "es regnete",
+      "perfekt": "hat geregnet",
+      "notes": "Only used with es.",
+      "tags": [
+        "weather"
+      ]
+    },
+    {
+      "de": "schneien",
+      "en": "to snow",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Im Dezember schneit es oft.",
+      "present": "es schneit",
+      "praet": "es schneite",
+      "perfekt": "hat geschneit",
+      "notes": "Only used with es.",
+      "tags": [
+        "weather"
+      ]
+    },
+    {
+      "de": "scheinen",
+      "en": "to shine",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Die Sonne scheint heute.",
+      "present": "die Sonne scheint",
+      "praet": "sie schien",
+      "perfekt": "hat geschienen",
+      "notes": "",
+      "tags": [
+        "weather"
+      ]
+    },
+    {
+      "de": "frieren",
+      "en": "to freeze, to be cold",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich friere ohne Jacke.",
+      "present": "ich friere · du frierst",
+      "praet": "er fror",
+      "perfekt": "hat gefroren",
+      "notes": "",
+      "tags": [
+        "weather"
+      ]
+    },
+    {
+      "de": "sonnig",
+      "en": "sunny",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Morgen wird es sonnig.",
+      "comp": "sonniger",
+      "super": "am sonnigsten",
+      "notes": "",
+      "tags": [
+        "weather"
+      ]
+    },
+    {
+      "de": "bewölkt",
+      "en": "cloudy",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Der Himmel ist stark bewölkt.",
+      "comp": "",
+      "super": "",
+      "notes": "",
+      "tags": [
+        "weather"
+      ]
+    },
+    {
+      "de": "windig",
+      "en": "windy",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Am Meer ist es windig.",
+      "comp": "windiger",
+      "super": "am windigsten",
+      "notes": "",
+      "tags": [
+        "weather"
+      ]
+    },
+    {
+      "de": "neblig",
+      "en": "foggy",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Im Herbst ist es oft neblig.",
+      "comp": "nebliger",
+      "super": "am nebligsten",
+      "notes": "",
+      "tags": [
+        "weather"
+      ]
+    },
+    {
+      "de": "warm",
+      "en": "warm",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Heute ist es angenehm warm.",
+      "comp": "wärmer",
+      "super": "am wärmsten",
+      "notes": "",
+      "tags": [
+        "weather"
+      ]
+    },
+    {
+      "de": "kalt",
+      "en": "cold",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Es ist eiskalt draußen.",
+      "comp": "kälter",
+      "super": "am kältesten",
+      "notes": "",
+      "tags": [
+        "weather"
+      ]
+    },
+    {
+      "de": "heiß",
+      "en": "hot",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Im Juli ist es sehr heiß.",
+      "comp": "heißer",
+      "super": "am heißesten",
+      "notes": "",
+      "tags": [
+        "weather"
+      ]
+    },
+    {
+      "de": "kühl",
+      "en": "cool",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Abends wird es kühl.",
+      "comp": "kühler",
+      "super": "am kühlsten",
+      "notes": "",
+      "tags": [
+        "weather"
+      ]
+    },
+    {
+      "de": "trocken",
+      "en": "dry",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Der Sommer war zu trocken.",
+      "comp": "trockener",
+      "super": "am trockensten",
+      "notes": "",
+      "tags": [
+        "weather"
+      ]
+    },
+    {
+      "de": "nass",
+      "en": "wet",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Meine Schuhe sind ganz nass.",
+      "comp": "nasser",
+      "super": "am nassesten",
+      "notes": "",
+      "tags": [
+        "weather"
+      ]
+    },
+    {
+      "de": "wie ist das Wetter",
+      "en": "what's the weather like",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Wie ist das Wetter in Hamburg?",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "weather"
+      ]
+    },
+    {
+      "de": "es regnet stark",
+      "en": "it's raining hard",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Es regnet stark, nimm einen Schirm.",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "weather"
+      ]
+    }
+  ]
+}

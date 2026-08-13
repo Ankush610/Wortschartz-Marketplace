@@ -1,0 +1,435 @@
+{
+  "app": "wortschatz",
+  "v": 1,
+  "words": [
+    {
+      "de": "das Gefühl",
+      "en": "feeling",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Gefühle",
+      "example": "Ich habe ein gutes Gefühl.",
+      "notes": "",
+      "tags": [
+        "feelings-and-emotions"
+      ]
+    },
+    {
+      "de": "die Freude",
+      "en": "joy",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Freuden",
+      "example": "Die Freude war groß.",
+      "notes": "",
+      "tags": [
+        "feelings-and-emotions"
+      ]
+    },
+    {
+      "de": "die Angst",
+      "en": "fear",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Ängste",
+      "example": "Ich habe Angst vor Spinnen.",
+      "notes": "",
+      "tags": [
+        "feelings-and-emotions"
+      ]
+    },
+    {
+      "de": "die Wut",
+      "en": "anger",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Seine Wut war schnell vorbei.",
+      "notes": "",
+      "tags": [
+        "feelings-and-emotions"
+      ]
+    },
+    {
+      "de": "die Liebe",
+      "en": "love",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Liebe ist kompliziert.",
+      "notes": "",
+      "tags": [
+        "feelings-and-emotions"
+      ]
+    },
+    {
+      "de": "die Hoffnung",
+      "en": "hope",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Hoffnungen",
+      "example": "Die Hoffnung bleibt.",
+      "notes": "",
+      "tags": [
+        "feelings-and-emotions"
+      ]
+    },
+    {
+      "de": "die Sorge",
+      "en": "worry",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Sorgen",
+      "example": "Mach dir keine Sorgen!",
+      "notes": "",
+      "tags": [
+        "feelings-and-emotions"
+      ]
+    },
+    {
+      "de": "der Stress",
+      "en": "stress",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Der Stress war zu viel.",
+      "notes": "",
+      "tags": [
+        "feelings-and-emotions"
+      ]
+    },
+    {
+      "de": "die Laune",
+      "en": "mood",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Launen",
+      "example": "Heute habe ich gute Laune.",
+      "notes": "",
+      "tags": [
+        "feelings-and-emotions"
+      ]
+    },
+    {
+      "de": "die Träne",
+      "en": "tear",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Tränen",
+      "example": "Sie hatte Tränen in den Augen.",
+      "notes": "",
+      "tags": [
+        "feelings-and-emotions"
+      ]
+    },
+    {
+      "de": "glücklich",
+      "en": "happy",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Ich bin sehr glücklich.",
+      "comp": "glücklicher",
+      "super": "am glücklichsten",
+      "notes": "",
+      "tags": [
+        "feelings-and-emotions"
+      ]
+    },
+    {
+      "de": "traurig",
+      "en": "sad",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Der Film war traurig.",
+      "comp": "trauriger",
+      "super": "am traurigsten",
+      "notes": "",
+      "tags": [
+        "feelings-and-emotions"
+      ]
+    },
+    {
+      "de": "wütend",
+      "en": "angry",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Er war richtig wütend.",
+      "comp": "wütender",
+      "super": "am wütendsten",
+      "notes": "",
+      "tags": [
+        "feelings-and-emotions"
+      ]
+    },
+    {
+      "de": "müde",
+      "en": "tired",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Ich bin heute sehr müde.",
+      "comp": "müder",
+      "super": "am müdesten",
+      "notes": "",
+      "tags": [
+        "feelings-and-emotions"
+      ]
+    },
+    {
+      "de": "aufgeregt",
+      "en": "excited, nervous",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Vor der Prüfung bin ich aufgeregt.",
+      "comp": "aufgeregter",
+      "super": "am aufgeregtesten",
+      "notes": "",
+      "tags": [
+        "feelings-and-emotions"
+      ]
+    },
+    {
+      "de": "nervös",
+      "en": "nervous",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Sie ist vor dem Gespräch nervös.",
+      "comp": "nervöser",
+      "super": "am nervösesten",
+      "notes": "",
+      "tags": [
+        "feelings-and-emotions"
+      ]
+    },
+    {
+      "de": "zufrieden",
+      "en": "content, satisfied",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Ich bin mit der Wohnung zufrieden.",
+      "comp": "zufriedener",
+      "super": "am zufriedensten",
+      "notes": "",
+      "tags": [
+        "feelings-and-emotions"
+      ]
+    },
+    {
+      "de": "enttäuscht",
+      "en": "disappointed",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Ich war vom Essen enttäuscht.",
+      "comp": "",
+      "super": "",
+      "notes": "",
+      "tags": [
+        "feelings-and-emotions"
+      ]
+    },
+    {
+      "de": "überrascht",
+      "en": "surprised",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Ich war völlig überrascht.",
+      "comp": "",
+      "super": "",
+      "notes": "",
+      "tags": [
+        "feelings-and-emotions"
+      ]
+    },
+    {
+      "de": "froh",
+      "en": "glad",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Ich bin froh, dass du da bist.",
+      "comp": "froher",
+      "super": "am frohsten",
+      "notes": "",
+      "tags": [
+        "feelings-and-emotions"
+      ]
+    },
+    {
+      "de": "böse",
+      "en": "cross, angry",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Bist du mir böse?",
+      "comp": "böser",
+      "super": "am bösesten",
+      "notes": "",
+      "tags": [
+        "feelings-and-emotions"
+      ]
+    },
+    {
+      "de": "stolz",
+      "en": "proud",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Meine Eltern sind stolz auf mich.",
+      "comp": "stolzer",
+      "super": "am stolzesten",
+      "notes": "",
+      "tags": [
+        "feelings-and-emotions"
+      ]
+    },
+    {
+      "de": "einsam",
+      "en": "lonely",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Am Anfang war ich einsam.",
+      "comp": "einsamer",
+      "super": "am einsamsten",
+      "notes": "",
+      "tags": [
+        "feelings-and-emotions"
+      ]
+    },
+    {
+      "de": "entspannt",
+      "en": "relaxed",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Nach dem Urlaub bin ich entspannt.",
+      "comp": "entspannter",
+      "super": "am entspanntesten",
+      "notes": "",
+      "tags": [
+        "feelings-and-emotions"
+      ]
+    },
+    {
+      "de": "verliebt",
+      "en": "in love",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Sie ist frisch verliebt.",
+      "comp": "",
+      "super": "",
+      "notes": "",
+      "tags": [
+        "feelings-and-emotions"
+      ]
+    },
+    {
+      "de": "sich freuen",
+      "en": "to be pleased",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich freue mich auf das Wochenende.",
+      "present": "ich freue mich · du freust dich",
+      "praet": "er freute sich",
+      "perfekt": "hat sich gefreut",
+      "notes": "auf = looking forward, über = pleased about.",
+      "tags": [
+        "feelings-and-emotions"
+      ]
+    },
+    {
+      "de": "sich ärgern",
+      "en": "to be annoyed",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich ärgere mich über den Lärm.",
+      "present": "ich ärgere mich · du ärgerst dich",
+      "praet": "er ärgerte sich",
+      "perfekt": "hat sich geärgert",
+      "notes": "",
+      "tags": [
+        "feelings-and-emotions"
+      ]
+    },
+    {
+      "de": "weinen",
+      "en": "to cry",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Das Kind weint im Flur.",
+      "present": "ich weine · du weinst · er weint",
+      "praet": "er weinte",
+      "perfekt": "hat geweint",
+      "notes": "",
+      "tags": [
+        "feelings-and-emotions"
+      ]
+    },
+    {
+      "de": "Angst haben",
+      "en": "to be afraid",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich habe Angst vor der Prüfung.",
+      "present": "ich habe Angst · du hast Angst",
+      "praet": "er hatte Angst",
+      "perfekt": "hat Angst gehabt",
+      "notes": "",
+      "tags": [
+        "feelings-and-emotions"
+      ]
+    },
+    {
+      "de": "das tut mir leid",
+      "en": "I'm sorry",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Das tut mir wirklich leid.",
+      "literal": "that does me sorrow",
+      "notes": "",
+      "tags": [
+        "feelings-and-emotions"
+      ]
+    },
+    {
+      "de": "keine Angst",
+      "en": "don't worry",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Keine Angst, das schaffst du!",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "feelings-and-emotions"
+      ]
+    },
+    {
+      "de": "wie fühlst du dich",
+      "en": "how do you feel",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Wie fühlst du dich heute?",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "feelings-and-emotions"
+      ]
+    }
+  ]
+}

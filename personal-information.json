@@ -1,0 +1,363 @@
+{
+  "app": "wortschatz",
+  "v": 1,
+  "words": [
+    {
+      "de": "die Adresse",
+      "en": "address",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Adressen",
+      "example": "Wie ist deine Adresse?",
+      "notes": "",
+      "tags": [
+        "personal-information"
+      ]
+    },
+    {
+      "de": "die Straße",
+      "en": "street",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Straßen",
+      "example": "Ich wohne in der Gartenstraße.",
+      "notes": "",
+      "tags": [
+        "personal-information"
+      ]
+    },
+    {
+      "de": "die Hausnummer",
+      "en": "house number",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Hausnummern",
+      "example": "Die Hausnummer ist zwölf.",
+      "notes": "",
+      "tags": [
+        "personal-information"
+      ]
+    },
+    {
+      "de": "die Postleitzahl",
+      "en": "postcode, zip code",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Postleitzahlen",
+      "example": "Die Postleitzahl von Köln ist 50667.",
+      "notes": "Short: die PLZ.",
+      "tags": [
+        "personal-information"
+      ]
+    },
+    {
+      "de": "der Wohnort",
+      "en": "place of residence",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Wohnorte",
+      "example": "Mein Wohnort ist Hamburg.",
+      "notes": "",
+      "tags": [
+        "personal-information"
+      ]
+    },
+    {
+      "de": "die Telefonnummer",
+      "en": "phone number",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Telefonnummern",
+      "example": "Geben Sie mir bitte Ihre Telefonnummer.",
+      "notes": "",
+      "tags": [
+        "personal-information"
+      ]
+    },
+    {
+      "de": "die Handynummer",
+      "en": "mobile number",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Handynummern",
+      "example": "Ich schicke dir meine Handynummer.",
+      "notes": "",
+      "tags": [
+        "personal-information"
+      ]
+    },
+    {
+      "de": "die E-Mail-Adresse",
+      "en": "email address",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "E-Mail-Adressen",
+      "example": "Meine E-Mail-Adresse steht auf der Karte.",
+      "notes": "",
+      "tags": [
+        "personal-information"
+      ]
+    },
+    {
+      "de": "das Geburtsdatum",
+      "en": "date of birth",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Geburtsdaten",
+      "example": "Bitte schreiben Sie Ihr Geburtsdatum hier.",
+      "notes": "",
+      "tags": [
+        "personal-information"
+      ]
+    },
+    {
+      "de": "der Geburtsort",
+      "en": "place of birth",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Geburtsorte",
+      "example": "Mein Geburtsort ist Pune.",
+      "notes": "",
+      "tags": [
+        "personal-information"
+      ]
+    },
+    {
+      "de": "das Alter",
+      "en": "age",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "",
+      "example": "In welchem Alter bist du?",
+      "notes": "",
+      "tags": [
+        "personal-information"
+      ]
+    },
+    {
+      "de": "der Familienstand",
+      "en": "marital status",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Familienstand: ledig.",
+      "notes": "",
+      "tags": [
+        "personal-information"
+      ]
+    },
+    {
+      "de": "die Staatsangehörigkeit",
+      "en": "nationality, citizenship",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Staatsangehörigkeiten",
+      "example": "Meine Staatsangehörigkeit ist indisch.",
+      "notes": "",
+      "tags": [
+        "personal-information"
+      ]
+    },
+    {
+      "de": "das Formular",
+      "en": "form",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Formulare",
+      "example": "Bitte füllen Sie das Formular aus.",
+      "notes": "",
+      "tags": [
+        "personal-information"
+      ]
+    },
+    {
+      "de": "die Unterschrift",
+      "en": "signature",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Unterschriften",
+      "example": "Hier fehlt noch Ihre Unterschrift.",
+      "notes": "",
+      "tags": [
+        "personal-information"
+      ]
+    },
+    {
+      "de": "der Ausweis",
+      "en": "ID card",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Ausweise",
+      "example": "Zeigen Sie mir bitte Ihren Ausweis.",
+      "notes": "",
+      "tags": [
+        "personal-information"
+      ]
+    },
+    {
+      "de": "der Personalausweis",
+      "en": "identity card",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Personalausweise",
+      "example": "Der Personalausweis ist zehn Jahre gültig.",
+      "notes": "",
+      "tags": [
+        "personal-information"
+      ]
+    },
+    {
+      "de": "die Anmeldung",
+      "en": "registration",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Anmeldungen",
+      "example": "Die Anmeldung beim Amt ist Pflicht.",
+      "notes": "",
+      "tags": [
+        "personal-information"
+      ]
+    },
+    {
+      "de": "die Angabe",
+      "en": "detail, piece of information",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Angaben",
+      "example": "Alle Angaben sind freiwillig.",
+      "notes": "",
+      "tags": [
+        "personal-information"
+      ]
+    },
+    {
+      "de": "ausfüllen",
+      "en": "to fill in",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich fülle das Formular am Computer aus.",
+      "present": "ich fülle aus · du füllst aus",
+      "praet": "er füllte aus",
+      "perfekt": "hat ausgefüllt",
+      "notes": "Separable.",
+      "tags": [
+        "personal-information"
+      ]
+    },
+    {
+      "de": "unterschreiben",
+      "en": "to sign",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Bitte unterschreiben Sie unten rechts.",
+      "present": "ich unterschreibe · du unterschreibst",
+      "praet": "er unterschrieb",
+      "perfekt": "hat unterschrieben",
+      "notes": "",
+      "tags": [
+        "personal-information"
+      ]
+    },
+    {
+      "de": "angeben",
+      "en": "to state, to give (details)",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Geben Sie bitte Ihre Adresse an.",
+      "present": "ich gebe an · du gibst an · er gibt an",
+      "praet": "er gab an",
+      "perfekt": "hat angegeben",
+      "notes": "Separable.",
+      "tags": [
+        "personal-information"
+      ]
+    },
+    {
+      "de": "anmelden",
+      "en": "to register",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich melde mich in der Stadt an.",
+      "present": "ich melde an · du meldest an",
+      "praet": "er meldete an",
+      "perfekt": "hat angemeldet",
+      "notes": "Separable, often reflexive: sich anmelden.",
+      "tags": [
+        "personal-information"
+      ]
+    },
+    {
+      "de": "ledig",
+      "en": "single, unmarried",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Ich bin ledig.",
+      "comp": "",
+      "super": "",
+      "notes": "",
+      "tags": [
+        "personal-information"
+      ]
+    },
+    {
+      "de": "verheiratet",
+      "en": "married",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Sie ist seit zehn Jahren verheiratet.",
+      "comp": "",
+      "super": "",
+      "notes": "",
+      "tags": [
+        "personal-information"
+      ]
+    },
+    {
+      "de": "geschieden",
+      "en": "divorced",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Meine Nachbarn sind geschieden.",
+      "comp": "",
+      "super": "",
+      "notes": "",
+      "tags": [
+        "personal-information"
+      ]
+    },
+    {
+      "de": "persönlich",
+      "en": "personal",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Das sind persönliche Daten.",
+      "comp": "persönlicher",
+      "super": "am persönlichsten",
+      "notes": "",
+      "tags": [
+        "personal-information"
+      ]
+    },
+    {
+      "de": "wie ist deine Nummer",
+      "en": "what's your number",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Wie ist deine Nummer? Ich rufe dich an.",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "personal-information"
+      ]
+    }
+  ]
+}

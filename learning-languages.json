@@ -1,0 +1,399 @@
+{
+  "app": "wortschatz",
+  "v": 1,
+  "words": [
+    {
+      "de": "der Sprachkurs",
+      "en": "language course",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Sprachkurse",
+      "example": "Mein Sprachkurs ist abends.",
+      "notes": "",
+      "tags": [
+        "learning-languages"
+      ]
+    },
+    {
+      "de": "die Grammatik",
+      "en": "grammar",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Grammatiken",
+      "example": "Die deutsche Grammatik ist logisch.",
+      "notes": "",
+      "tags": [
+        "learning-languages"
+      ]
+    },
+    {
+      "de": "der Wortschatz",
+      "en": "vocabulary",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Mein Wortschatz wächst jeden Tag.",
+      "notes": "",
+      "tags": [
+        "learning-languages"
+      ]
+    },
+    {
+      "de": "die Vokabel",
+      "en": "vocabulary item",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Vokabeln",
+      "example": "Ich lerne zwanzig Vokabeln am Tag.",
+      "notes": "",
+      "tags": [
+        "learning-languages"
+      ]
+    },
+    {
+      "de": "die Übung",
+      "en": "exercise",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Übungen",
+      "example": "Die Übung auf Seite zehn ist schwer.",
+      "notes": "",
+      "tags": [
+        "learning-languages"
+      ]
+    },
+    {
+      "de": "die Aussprache",
+      "en": "pronunciation",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Meine Aussprache wird besser.",
+      "notes": "",
+      "tags": [
+        "learning-languages"
+      ]
+    },
+    {
+      "de": "der Akzent",
+      "en": "accent",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Akzente",
+      "example": "Man hört meinen Akzent noch.",
+      "notes": "",
+      "tags": [
+        "learning-languages"
+      ]
+    },
+    {
+      "de": "der Fehler",
+      "en": "mistake",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Fehler",
+      "example": "Ich mache noch viele Fehler.",
+      "notes": "",
+      "tags": [
+        "learning-languages"
+      ]
+    },
+    {
+      "de": "die Bedeutung",
+      "en": "meaning",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Bedeutungen",
+      "example": "Die Bedeutung steht im Wörterbuch.",
+      "notes": "",
+      "tags": [
+        "learning-languages"
+      ]
+    },
+    {
+      "de": "das Wörterbuch",
+      "en": "dictionary",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Wörterbücher",
+      "example": "Ein Wörterbuch hilft beim Lesen.",
+      "notes": "",
+      "tags": [
+        "learning-languages"
+      ]
+    },
+    {
+      "de": "die Regel",
+      "en": "rule",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Regeln",
+      "example": "Diese Regel hat viele Ausnahmen.",
+      "notes": "",
+      "tags": [
+        "learning-languages"
+      ]
+    },
+    {
+      "de": "die Ausnahme",
+      "en": "exception",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Ausnahmen",
+      "example": "Jede Regel hat eine Ausnahme.",
+      "notes": "",
+      "tags": [
+        "learning-languages"
+      ]
+    },
+    {
+      "de": "der Text",
+      "en": "text",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Texte",
+      "example": "Der Text ist zu lang.",
+      "notes": "",
+      "tags": [
+        "learning-languages"
+      ]
+    },
+    {
+      "de": "die Übersetzung",
+      "en": "translation",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Übersetzungen",
+      "example": "Die Übersetzung ist nicht ganz richtig.",
+      "notes": "",
+      "tags": [
+        "learning-languages"
+      ]
+    },
+    {
+      "de": "die Lektion",
+      "en": "lesson, unit",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Lektionen",
+      "example": "Wir sind bei Lektion sieben.",
+      "notes": "",
+      "tags": [
+        "learning-languages"
+      ]
+    },
+    {
+      "de": "das Beispiel",
+      "en": "example",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Beispiele",
+      "example": "Kannst du mir ein Beispiel geben?",
+      "notes": "",
+      "tags": [
+        "learning-languages"
+      ]
+    },
+    {
+      "de": "der Dialog",
+      "en": "dialogue",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Dialoge",
+      "example": "Wir üben den Dialog zu zweit.",
+      "notes": "",
+      "tags": [
+        "learning-languages"
+      ]
+    },
+    {
+      "de": "das Niveau",
+      "en": "level",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Niveaus",
+      "example": "Mein Niveau ist A1.",
+      "notes": "",
+      "tags": [
+        "learning-languages"
+      ]
+    },
+    {
+      "de": "das Zertifikat",
+      "en": "certificate",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Zertifikate",
+      "example": "Das Zertifikat brauche ich für das Visum.",
+      "notes": "",
+      "tags": [
+        "learning-languages"
+      ]
+    },
+    {
+      "de": "die Muttersprachlerin",
+      "en": "native speaker",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Muttersprachlerinnen",
+      "example": "Meine Lehrerin ist Muttersprachlerin.",
+      "notes": "Male: der Muttersprachler.",
+      "tags": [
+        "learning-languages"
+      ]
+    },
+    {
+      "de": "aussprechen",
+      "en": "to pronounce",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Wie spricht man dieses Wort aus?",
+      "present": "ich spreche aus · du sprichst aus · er spricht aus",
+      "praet": "er sprach aus",
+      "perfekt": "hat ausgesprochen",
+      "notes": "Separable.",
+      "tags": [
+        "learning-languages"
+      ]
+    },
+    {
+      "de": "nachschlagen",
+      "en": "to look up",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich schlage das Wort im Wörterbuch nach.",
+      "present": "ich schlage nach · du schlägst nach",
+      "praet": "er schlug nach",
+      "perfekt": "hat nachgeschlagen",
+      "notes": "Separable.",
+      "tags": [
+        "learning-languages"
+      ]
+    },
+    {
+      "de": "auswendig lernen",
+      "en": "to learn by heart",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich lerne den Dialog auswendig.",
+      "present": "ich lerne auswendig",
+      "praet": "er lernte auswendig",
+      "perfekt": "hat auswendig gelernt",
+      "notes": "",
+      "tags": [
+        "learning-languages"
+      ]
+    },
+    {
+      "de": "markieren",
+      "en": "to highlight, to mark",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich markiere neue Wörter gelb.",
+      "present": "ich markiere · du markierst · er markiert",
+      "praet": "er markierte",
+      "perfekt": "hat markiert",
+      "notes": "",
+      "tags": [
+        "learning-languages"
+      ]
+    },
+    {
+      "de": "fließend",
+      "en": "fluent",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Sie spricht fließend Deutsch.",
+      "comp": "",
+      "super": "",
+      "notes": "",
+      "tags": [
+        "learning-languages"
+      ]
+    },
+    {
+      "de": "kompliziert",
+      "en": "complicated",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Die Wortstellung ist kompliziert.",
+      "comp": "komplizierter",
+      "super": "am kompliziertesten",
+      "notes": "",
+      "tags": [
+        "learning-languages"
+      ]
+    },
+    {
+      "de": "ich verstehe nicht",
+      "en": "I don't understand",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Entschuldigung, ich verstehe nicht.",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "learning-languages"
+      ]
+    },
+    {
+      "de": "können Sie langsamer sprechen",
+      "en": "could you speak more slowly",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Können Sie bitte langsamer sprechen?",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "learning-languages"
+      ]
+    },
+    {
+      "de": "was bedeutet das",
+      "en": "what does that mean",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Was bedeutet das Wort hier?",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "learning-languages"
+      ]
+    },
+    {
+      "de": "wie sagt man das auf Deutsch",
+      "en": "how do you say that in German",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Wie sagt man das auf Deutsch?",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "learning-languages"
+      ]
+    },
+    {
+      "de": "noch einmal, bitte",
+      "en": "once more, please",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Noch einmal, bitte, ich habe das nicht gehört.",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "learning-languages"
+      ]
+    }
+  ]
+}

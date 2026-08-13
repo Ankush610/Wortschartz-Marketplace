@@ -1,0 +1,362 @@
+{
+  "app": "wortschatz",
+  "v": 1,
+  "words": [
+    {
+      "de": "die Bank",
+      "en": "bank",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Banken",
+      "example": "Die Bank öffnet um neun.",
+      "notes": "",
+      "tags": [
+        "bank-and-post-office"
+      ]
+    },
+    {
+      "de": "das Konto",
+      "en": "account",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Konten",
+      "example": "Ich möchte ein Konto eröffnen.",
+      "notes": "",
+      "tags": [
+        "bank-and-post-office"
+      ]
+    },
+    {
+      "de": "der Geldautomat",
+      "en": "cash machine",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Geldautomaten",
+      "example": "Der Geldautomat ist außer Betrieb.",
+      "notes": "",
+      "tags": [
+        "bank-and-post-office"
+      ]
+    },
+    {
+      "de": "die Überweisung",
+      "en": "bank transfer",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Überweisungen",
+      "example": "Die Überweisung dauert einen Tag.",
+      "notes": "",
+      "tags": [
+        "bank-and-post-office"
+      ]
+    },
+    {
+      "de": "der Kontoauszug",
+      "en": "bank statement",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Kontoauszüge",
+      "example": "Der Kontoauszug kommt monatlich.",
+      "notes": "",
+      "tags": [
+        "bank-and-post-office"
+      ]
+    },
+    {
+      "de": "die PIN",
+      "en": "PIN",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "PINs",
+      "example": "Ich habe meine PIN vergessen.",
+      "notes": "",
+      "tags": [
+        "bank-and-post-office"
+      ]
+    },
+    {
+      "de": "der Schalter",
+      "en": "counter, window",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Schalter",
+      "example": "Am Schalter drei ist frei.",
+      "notes": "",
+      "tags": [
+        "bank-and-post-office"
+      ]
+    },
+    {
+      "de": "die Filiale",
+      "en": "branch",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Filialen",
+      "example": "Die Filiale in der Innenstadt schließt.",
+      "notes": "",
+      "tags": [
+        "bank-and-post-office"
+      ]
+    },
+    {
+      "de": "die Gebühr",
+      "en": "fee, charge",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Gebühren",
+      "example": "Für die Karte fällt eine Gebühr an.",
+      "notes": "",
+      "tags": [
+        "bank-and-post-office"
+      ]
+    },
+    {
+      "de": "die Post",
+      "en": "post office, mail",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Die Post ist gleich neben der Bank.",
+      "notes": "",
+      "tags": [
+        "bank-and-post-office"
+      ]
+    },
+    {
+      "de": "der Brief",
+      "en": "letter",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Briefe",
+      "example": "Der Brief ist von der Krankenkasse.",
+      "notes": "",
+      "tags": [
+        "bank-and-post-office"
+      ]
+    },
+    {
+      "de": "die Briefmarke",
+      "en": "stamp",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Briefmarken",
+      "example": "Ich brauche drei Briefmarken.",
+      "notes": "",
+      "tags": [
+        "bank-and-post-office"
+      ]
+    },
+    {
+      "de": "der Umschlag",
+      "en": "envelope",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Umschläge",
+      "example": "Der Umschlag ist zu klein.",
+      "notes": "",
+      "tags": [
+        "bank-and-post-office"
+      ]
+    },
+    {
+      "de": "das Paket",
+      "en": "parcel",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Pakete",
+      "example": "Das Paket ist heute gekommen.",
+      "notes": "",
+      "tags": [
+        "bank-and-post-office"
+      ]
+    },
+    {
+      "de": "das Päckchen",
+      "en": "small parcel",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Päckchen",
+      "example": "Ein Päckchen kostet weniger als ein Paket.",
+      "notes": "",
+      "tags": [
+        "bank-and-post-office"
+      ]
+    },
+    {
+      "de": "die Postkarte",
+      "en": "postcard",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Postkarten",
+      "example": "Ich schreibe dir eine Postkarte.",
+      "notes": "",
+      "tags": [
+        "bank-and-post-office"
+      ]
+    },
+    {
+      "de": "der Briefkasten",
+      "en": "postbox, letterbox",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Briefkästen",
+      "example": "Der Briefkasten wird um 17 Uhr geleert.",
+      "notes": "",
+      "tags": [
+        "bank-and-post-office"
+      ]
+    },
+    {
+      "de": "das Porto",
+      "en": "postage",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "",
+      "example": "Das Porto ist wieder teurer.",
+      "notes": "",
+      "tags": [
+        "bank-and-post-office"
+      ]
+    },
+    {
+      "de": "die Sparkasse",
+      "en": "savings bank",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Sparkassen",
+      "example": "Die Sparkasse hat hier drei Filialen.",
+      "notes": "",
+      "tags": [
+        "bank-and-post-office"
+      ]
+    },
+    {
+      "de": "abheben",
+      "en": "to withdraw (money)",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich hebe hundert Euro ab.",
+      "present": "ich hebe ab · du hebst ab",
+      "praet": "er hob ab",
+      "perfekt": "hat abgehoben",
+      "notes": "Separable.",
+      "tags": [
+        "bank-and-post-office"
+      ]
+    },
+    {
+      "de": "einzahlen",
+      "en": "to pay in",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich zahle das Geld morgen ein.",
+      "present": "ich zahle ein · du zahlst ein",
+      "praet": "er zahlte ein",
+      "perfekt": "hat eingezahlt",
+      "notes": "Separable.",
+      "tags": [
+        "bank-and-post-office"
+      ]
+    },
+    {
+      "de": "überweisen",
+      "en": "to transfer (money)",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich überweise die Miete am Ersten.",
+      "present": "ich überweise · du überweist",
+      "praet": "er überwies",
+      "perfekt": "hat überwiesen",
+      "notes": "",
+      "tags": [
+        "bank-and-post-office"
+      ]
+    },
+    {
+      "de": "abschicken",
+      "en": "to send off",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich habe den Brief schon abgeschickt.",
+      "present": "ich schicke ab · du schickst ab",
+      "praet": "er schickte ab",
+      "perfekt": "hat abgeschickt",
+      "notes": "Separable.",
+      "tags": [
+        "bank-and-post-office"
+      ]
+    },
+    {
+      "de": "eröffnen",
+      "en": "to open (an account)",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich eröffne ein Konto bei der Sparkasse.",
+      "present": "ich eröffne · du eröffnest · er eröffnet",
+      "praet": "er eröffnete",
+      "perfekt": "hat eröffnet",
+      "notes": "",
+      "tags": [
+        "bank-and-post-office"
+      ]
+    },
+    {
+      "de": "kostenpflichtig",
+      "en": "subject to a charge",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Die Überweisung am Schalter ist kostenpflichtig.",
+      "comp": "",
+      "super": "",
+      "notes": "",
+      "tags": [
+        "bank-and-post-office"
+      ]
+    },
+    {
+      "de": "ich möchte Geld abheben",
+      "en": "I'd like to withdraw money",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Ich möchte Geld abheben.",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "bank-and-post-office"
+      ]
+    },
+    {
+      "de": "was kostet ein Brief nach Indien",
+      "en": "what does a letter to India cost",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Was kostet ein Brief nach Indien?",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "bank-and-post-office"
+      ]
+    },
+    {
+      "de": "bitte einmal unterschreiben",
+      "en": "please sign here",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Bitte einmal hier unterschreiben.",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "bank-and-post-office"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "app": "wortschatz",
+  "v": 1,
+  "words": [
+    {
+      "de": "der Januar",
+      "en": "January",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Im Januar ist es sehr kalt.",
+      "notes": "In Austria: der Jänner.",
+      "tags": [
+        "months"
+      ]
+    },
+    {
+      "de": "der Februar",
+      "en": "February",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Mein Geburtstag ist im Februar.",
+      "notes": "",
+      "tags": [
+        "months"
+      ]
+    },
+    {
+      "de": "der März",
+      "en": "March",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Im März wird es wärmer.",
+      "notes": "",
+      "tags": [
+        "months"
+      ]
+    },
+    {
+      "de": "der April",
+      "en": "April",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Der April macht, was er will.",
+      "notes": "",
+      "tags": [
+        "months"
+      ]
+    },
+    {
+      "de": "der Mai",
+      "en": "May",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Der erste Mai ist ein Feiertag.",
+      "notes": "",
+      "tags": [
+        "months"
+      ]
+    },
+    {
+      "de": "der Juni",
+      "en": "June",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Im Juni fahren wir nach Italien.",
+      "notes": "Said Juno on the phone, to avoid Juli.",
+      "tags": [
+        "months"
+      ]
+    },
+    {
+      "de": "der Juli",
+      "en": "July",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Die Ferien beginnen im Juli.",
+      "notes": "Said Julei on the phone, to avoid Juni.",
+      "tags": [
+        "months"
+      ]
+    },
+    {
+      "de": "der August",
+      "en": "August",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Im August ist es oft heiß.",
+      "notes": "",
+      "tags": [
+        "months"
+      ]
+    },
+    {
+      "de": "der September",
+      "en": "September",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Die Schule fängt im September an.",
+      "notes": "",
+      "tags": [
+        "months"
+      ]
+    },
+    {
+      "de": "der Oktober",
+      "en": "October",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Das Oktoberfest ist im September und Oktober.",
+      "notes": "",
+      "tags": [
+        "months"
+      ]
+    },
+    {
+      "de": "der November",
+      "en": "November",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Im November regnet es viel.",
+      "notes": "",
+      "tags": [
+        "months"
+      ]
+    },
+    {
+      "de": "der Dezember",
+      "en": "December",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Weihnachten ist im Dezember.",
+      "notes": "",
+      "tags": [
+        "months"
+      ]
+    },
+    {
+      "de": "der Monat",
+      "en": "month",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Monate",
+      "example": "Das Jahr hat zwölf Monate.",
+      "notes": "",
+      "tags": [
+        "months"
+      ]
+    },
+    {
+      "de": "das Jahr",
+      "en": "year",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Jahre",
+      "example": "Ich lerne seit einem Jahr Deutsch.",
+      "notes": "Ich bin 25 Jahre alt = I am 25.",
+      "tags": [
+        "months"
+      ]
+    },
+    {
+      "de": "im Mai",
+      "en": "in May",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Im Mai habe ich Urlaub.",
+      "notes": "in + dem = im.",
+      "tags": [
+        "months"
+      ]
+    },
+    {
+      "de": "Wann hast du Geburtstag?",
+      "en": "When is your birthday?",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Wann hast du Geburtstag? — Am dritten Juli.",
+      "notes": "Answer with am + ordinal: am dritten Juli.",
+      "tags": [
+        "months"
+      ]
+    }
+  ]
+}

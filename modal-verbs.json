@@ -1,0 +1,111 @@
+{
+  "app": "wortschatz",
+  "v": 1,
+  "words": [
+    {
+      "de": "können",
+      "en": "can, to be able to",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich kann gut schwimmen.",
+      "present": "ich kann · du kannst · er kann · wir können · ihr könnt · sie können",
+      "praet": "er konnte",
+      "perfekt": "hat gekonnt",
+      "notes": "",
+      "tags": [
+        "modal-verbs"
+      ]
+    },
+    {
+      "de": "müssen",
+      "en": "must, to have to",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich muss heute arbeiten.",
+      "present": "ich muss · du musst · er muss · wir müssen · ihr müsst · sie müssen",
+      "praet": "er musste",
+      "perfekt": "hat gemusst",
+      "notes": "nicht müssen = don't have to, not must not.",
+      "tags": [
+        "modal-verbs"
+      ]
+    },
+    {
+      "de": "dürfen",
+      "en": "may, to be allowed to",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Hier darf man nicht rauchen.",
+      "present": "ich darf · du darfst · er darf · wir dürfen · ihr dürft · sie dürfen",
+      "praet": "er durfte",
+      "perfekt": "hat gedurft",
+      "notes": "nicht dürfen = must not.",
+      "tags": [
+        "modal-verbs"
+      ]
+    },
+    {
+      "de": "sollen",
+      "en": "should, to be supposed to",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Du sollst mehr Wasser trinken.",
+      "present": "ich soll · du sollst · er soll · wir sollen · ihr sollt · sie sollen",
+      "praet": "er sollte",
+      "perfekt": "hat gesollt",
+      "notes": "",
+      "tags": [
+        "modal-verbs"
+      ]
+    },
+    {
+      "de": "wollen",
+      "en": "to want to",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Wir wollen nach Berlin fahren.",
+      "present": "ich will · du willst · er will · wir wollen · ihr wollt · sie wollen",
+      "praet": "er wollte",
+      "perfekt": "hat gewollt",
+      "notes": "ich will = I want, not I will.",
+      "tags": [
+        "modal-verbs"
+      ]
+    },
+    {
+      "de": "mögen",
+      "en": "to like",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich mag keinen Kaffee.",
+      "present": "ich mag · du magst · er mag · wir mögen · ihr mögt · sie mögen",
+      "praet": "er mochte",
+      "perfekt": "hat gemocht",
+      "notes": "",
+      "tags": [
+        "modal-verbs"
+      ]
+    },
+    {
+      "de": "möchten",
+      "en": "would like to",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich möchte einen Kaffee, bitte.",
+      "present": "ich möchte · du möchtest · er möchte · wir möchten · ihr möchtet · sie möchten",
+      "praet": "",
+      "perfekt": "",
+      "notes": "Polite form of mögen: Ich möchte einen Kaffee.",
+      "tags": [
+        "modal-verbs"
+      ]
+    }
+  ]
+}

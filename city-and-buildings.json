@@ -1,0 +1,362 @@
+{
+  "app": "wortschatz",
+  "v": 1,
+  "words": [
+    {
+      "de": "die Stadt",
+      "en": "town, city",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Städte",
+      "example": "Die Stadt hat 200.000 Einwohner.",
+      "notes": "",
+      "tags": [
+        "city-and-buildings"
+      ]
+    },
+    {
+      "de": "das Dorf",
+      "en": "village",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Dörfer",
+      "example": "Das Dorf hat nur einen Laden.",
+      "notes": "",
+      "tags": [
+        "city-and-buildings"
+      ]
+    },
+    {
+      "de": "das Zentrum",
+      "en": "centre",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Zentren",
+      "example": "Das Zentrum ist autofrei.",
+      "notes": "",
+      "tags": [
+        "city-and-buildings"
+      ]
+    },
+    {
+      "de": "die Innenstadt",
+      "en": "town centre",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Innenstädte",
+      "example": "In der Innenstadt ist immer viel los.",
+      "notes": "",
+      "tags": [
+        "city-and-buildings"
+      ]
+    },
+    {
+      "de": "die Altstadt",
+      "en": "old town",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Altstädte",
+      "example": "Die Altstadt ist sehr schön.",
+      "notes": "",
+      "tags": [
+        "city-and-buildings"
+      ]
+    },
+    {
+      "de": "das Stadtviertel",
+      "en": "district, quarter",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Stadtviertel",
+      "example": "Mein Stadtviertel ist ruhig.",
+      "notes": "",
+      "tags": [
+        "city-and-buildings"
+      ]
+    },
+    {
+      "de": "der Marktplatz",
+      "en": "market square",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Marktplätze",
+      "example": "Auf dem Marktplatz ist ein Brunnen.",
+      "notes": "",
+      "tags": [
+        "city-and-buildings"
+      ]
+    },
+    {
+      "de": "das Rathaus",
+      "en": "town hall",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Rathäuser",
+      "example": "Das Rathaus ist aus dem 15. Jahrhundert.",
+      "notes": "",
+      "tags": [
+        "city-and-buildings"
+      ]
+    },
+    {
+      "de": "die Kirche",
+      "en": "church",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Kirchen",
+      "example": "Die Kirche steht mitten im Dorf.",
+      "notes": "",
+      "tags": [
+        "city-and-buildings"
+      ]
+    },
+    {
+      "de": "der Dom",
+      "en": "cathedral",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Dome",
+      "example": "Der Dom ist die größte Kirche hier.",
+      "notes": "",
+      "tags": [
+        "city-and-buildings"
+      ]
+    },
+    {
+      "de": "das Museum",
+      "en": "museum",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Museen",
+      "example": "Das Museum ist montags geschlossen.",
+      "notes": "",
+      "tags": [
+        "city-and-buildings"
+      ]
+    },
+    {
+      "de": "das Kaufhaus",
+      "en": "department store",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Kaufhäuser",
+      "example": "Das Kaufhaus hat fünf Etagen.",
+      "notes": "",
+      "tags": [
+        "city-and-buildings"
+      ]
+    },
+    {
+      "de": "der Park",
+      "en": "park",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Parks",
+      "example": "Im Park sitzen viele Leute.",
+      "notes": "",
+      "tags": [
+        "city-and-buildings"
+      ]
+    },
+    {
+      "de": "die Brücke",
+      "en": "bridge",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Brücken",
+      "example": "Die Brücke ist gesperrt.",
+      "notes": "",
+      "tags": [
+        "city-and-buildings"
+      ]
+    },
+    {
+      "de": "der Turm",
+      "en": "tower",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Türme",
+      "example": "Vom Turm sieht man die ganze Stadt.",
+      "notes": "",
+      "tags": [
+        "city-and-buildings"
+      ]
+    },
+    {
+      "de": "das Gebäude",
+      "en": "building",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Gebäude",
+      "example": "Das Gebäude ist neu.",
+      "notes": "",
+      "tags": [
+        "city-and-buildings"
+      ]
+    },
+    {
+      "de": "die Baustelle",
+      "en": "building site",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Baustellen",
+      "example": "Wegen der Baustelle ist alles laut.",
+      "notes": "",
+      "tags": [
+        "city-and-buildings"
+      ]
+    },
+    {
+      "de": "der Brunnen",
+      "en": "fountain, well",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Brunnen",
+      "example": "Der Brunnen läuft im Winter nicht.",
+      "notes": "",
+      "tags": [
+        "city-and-buildings"
+      ]
+    },
+    {
+      "de": "das Denkmal",
+      "en": "monument",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Denkmäler",
+      "example": "Das Denkmal steht am Platz.",
+      "notes": "",
+      "tags": [
+        "city-and-buildings"
+      ]
+    },
+    {
+      "de": "der Bürgersteig",
+      "en": "pavement, sidewalk",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Bürgersteige",
+      "example": "Auf dem Bürgersteig ist Eis.",
+      "notes": "",
+      "tags": [
+        "city-and-buildings"
+      ]
+    },
+    {
+      "de": "der Einwohner",
+      "en": "inhabitant",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Einwohner",
+      "example": "Die Stadt hat viele junge Einwohner.",
+      "notes": "",
+      "tags": [
+        "city-and-buildings"
+      ]
+    },
+    {
+      "de": "die Umgebung",
+      "en": "surroundings",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Umgebungen",
+      "example": "Die Umgebung ist sehr grün.",
+      "notes": "",
+      "tags": [
+        "city-and-buildings"
+      ]
+    },
+    {
+      "de": "das Freibad",
+      "en": "outdoor pool",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Freibäder",
+      "example": "Das Freibad öffnet im Mai.",
+      "notes": "",
+      "tags": [
+        "city-and-buildings"
+      ]
+    },
+    {
+      "de": "der Wochenmarkt",
+      "en": "weekly market",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Wochenmärkte",
+      "example": "Der Wochenmarkt ist samstags.",
+      "notes": "",
+      "tags": [
+        "city-and-buildings"
+      ]
+    },
+    {
+      "de": "modern",
+      "en": "modern",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Das Viertel ist sehr modern.",
+      "comp": "moderner",
+      "super": "am modernsten",
+      "notes": "",
+      "tags": [
+        "city-and-buildings"
+      ]
+    },
+    {
+      "de": "historisch",
+      "en": "historic",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Die historische Altstadt ist klein.",
+      "comp": "",
+      "super": "",
+      "notes": "",
+      "tags": [
+        "city-and-buildings"
+      ]
+    },
+    {
+      "de": "belebt",
+      "en": "busy, lively",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Die Straße ist abends sehr belebt.",
+      "comp": "belebter",
+      "super": "am belebtesten",
+      "notes": "",
+      "tags": [
+        "city-and-buildings"
+      ]
+    },
+    {
+      "de": "was gibt es hier zu sehen",
+      "en": "what is there to see here",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Was gibt es hier zu sehen?",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "city-and-buildings"
+      ]
+    },
+    {
+      "de": "mitten in der Stadt",
+      "en": "in the middle of town",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Wir wohnen mitten in der Stadt.",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "city-and-buildings"
+      ]
+    }
+  ]
+}

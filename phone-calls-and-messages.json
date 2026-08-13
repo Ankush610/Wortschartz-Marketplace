@@ -1,0 +1,383 @@
+{
+  "app": "wortschatz",
+  "v": 1,
+  "words": [
+    {
+      "de": "das Telefon",
+      "en": "telephone",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Telefone",
+      "example": "Das Telefon klingelt schon wieder.",
+      "notes": "",
+      "tags": [
+        "phone-calls-and-messages"
+      ]
+    },
+    {
+      "de": "der Anruf",
+      "en": "phone call",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Anrufe",
+      "example": "Der Anruf war kurz.",
+      "notes": "",
+      "tags": [
+        "phone-calls-and-messages"
+      ]
+    },
+    {
+      "de": "das Gespräch",
+      "en": "conversation",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Gespräche",
+      "example": "Das Gespräch dauerte zehn Minuten.",
+      "notes": "",
+      "tags": [
+        "phone-calls-and-messages"
+      ]
+    },
+    {
+      "de": "die Nachricht",
+      "en": "message",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Nachrichten",
+      "example": "Ich habe dir eine Nachricht geschickt.",
+      "notes": "",
+      "tags": [
+        "phone-calls-and-messages"
+      ]
+    },
+    {
+      "de": "die SMS",
+      "en": "text message",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "SMS",
+      "example": "Schick mir eine SMS.",
+      "notes": "",
+      "tags": [
+        "phone-calls-and-messages"
+      ]
+    },
+    {
+      "de": "die E-Mail",
+      "en": "email",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "E-Mails",
+      "example": "Die E-Mail ist noch nicht angekommen.",
+      "notes": "",
+      "tags": [
+        "phone-calls-and-messages"
+      ]
+    },
+    {
+      "de": "die Mailbox",
+      "en": "voicemail",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Mailboxen",
+      "example": "Sprich mir auf die Mailbox.",
+      "notes": "",
+      "tags": [
+        "phone-calls-and-messages"
+      ]
+    },
+    {
+      "de": "die Vorwahl",
+      "en": "dialling code",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Vorwahlen",
+      "example": "Die Vorwahl von Berlin ist 030.",
+      "notes": "",
+      "tags": [
+        "phone-calls-and-messages"
+      ]
+    },
+    {
+      "de": "die Verbindung",
+      "en": "connection, line",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Verbindungen",
+      "example": "Die Verbindung ist schlecht.",
+      "notes": "",
+      "tags": [
+        "phone-calls-and-messages"
+      ]
+    },
+    {
+      "de": "der Hörer",
+      "en": "receiver",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Hörer",
+      "example": "Er legt den Hörer auf.",
+      "notes": "",
+      "tags": [
+        "phone-calls-and-messages"
+      ]
+    },
+    {
+      "de": "der Rückruf",
+      "en": "call back",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Rückrufe",
+      "example": "Ich bitte um einen Rückruf.",
+      "notes": "",
+      "tags": [
+        "phone-calls-and-messages"
+      ]
+    },
+    {
+      "de": "der Absender",
+      "en": "sender",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Absender",
+      "example": "Den Absender kenne ich nicht.",
+      "notes": "",
+      "tags": [
+        "phone-calls-and-messages"
+      ]
+    },
+    {
+      "de": "der Empfänger",
+      "en": "recipient",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Empfänger",
+      "example": "Der Empfänger hat es gelesen.",
+      "notes": "",
+      "tags": [
+        "phone-calls-and-messages"
+      ]
+    },
+    {
+      "de": "der Anhang",
+      "en": "attachment",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Anhänge",
+      "example": "Im Anhang finden Sie die Rechnung.",
+      "notes": "",
+      "tags": [
+        "phone-calls-and-messages"
+      ]
+    },
+    {
+      "de": "zurückrufen",
+      "en": "to call back",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich rufe dich in einer Stunde zurück.",
+      "present": "ich rufe zurück · du rufst zurück",
+      "praet": "er rief zurück",
+      "perfekt": "hat zurückgerufen",
+      "notes": "Separable.",
+      "tags": [
+        "phone-calls-and-messages"
+      ]
+    },
+    {
+      "de": "auflegen",
+      "en": "to hang up",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Er hat einfach aufgelegt.",
+      "present": "ich lege auf · du legst auf",
+      "praet": "er legte auf",
+      "perfekt": "hat aufgelegt",
+      "notes": "Separable.",
+      "tags": [
+        "phone-calls-and-messages"
+      ]
+    },
+    {
+      "de": "rangehen",
+      "en": "to answer the phone",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Niemand geht ans Telefon ran.",
+      "present": "ich gehe ran · du gehst ran",
+      "praet": "er ging ran",
+      "perfekt": "ist rangegangen",
+      "notes": "Separable, spoken.",
+      "tags": [
+        "phone-calls-and-messages"
+      ]
+    },
+    {
+      "de": "schicken",
+      "en": "to send",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich schicke dir die Adresse.",
+      "present": "ich schicke · du schickst · er schickt",
+      "praet": "er schickte",
+      "perfekt": "hat geschickt",
+      "notes": "",
+      "tags": [
+        "phone-calls-and-messages"
+      ]
+    },
+    {
+      "de": "klingeln",
+      "en": "to ring",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Das Handy klingelt im Flur.",
+      "present": "ich klingle · du klingelst · es klingelt",
+      "praet": "es klingelte",
+      "perfekt": "hat geklingelt",
+      "notes": "",
+      "tags": [
+        "phone-calls-and-messages"
+      ]
+    },
+    {
+      "de": "sich melden",
+      "en": "to get in touch",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Melde dich, wenn du da bist.",
+      "present": "ich melde mich · du meldest dich",
+      "praet": "er meldete sich",
+      "perfekt": "hat sich gemeldet",
+      "notes": "",
+      "tags": [
+        "phone-calls-and-messages"
+      ]
+    },
+    {
+      "de": "weiterleiten",
+      "en": "to forward",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich leite dir die E-Mail weiter.",
+      "present": "ich leite weiter · du leitest weiter",
+      "praet": "er leitete weiter",
+      "perfekt": "hat weitergeleitet",
+      "notes": "Separable.",
+      "tags": [
+        "phone-calls-and-messages"
+      ]
+    },
+    {
+      "de": "die Leitung",
+      "en": "line (phone)",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Leitungen",
+      "example": "Die Leitung ist besetzt.",
+      "notes": "",
+      "tags": [
+        "phone-calls-and-messages"
+      ]
+    },
+    {
+      "de": "erreichbar",
+      "en": "reachable, available",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Ab neun bin ich erreichbar.",
+      "comp": "",
+      "super": "",
+      "notes": "",
+      "tags": [
+        "phone-calls-and-messages"
+      ]
+    },
+    {
+      "de": "hier spricht Anna Weber",
+      "en": "this is Anna Weber speaking",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Guten Tag, hier spricht Anna Weber.",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "phone-calls-and-messages"
+      ]
+    },
+    {
+      "de": "kann ich bitte mit Herrn Klein sprechen",
+      "en": "may I speak to Mr Klein",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Kann ich bitte mit Herrn Klein sprechen?",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "phone-calls-and-messages"
+      ]
+    },
+    {
+      "de": "einen Moment, bitte",
+      "en": "one moment, please",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Einen Moment, bitte, ich verbinde.",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "phone-calls-and-messages"
+      ]
+    },
+    {
+      "de": "ich rufe später zurück",
+      "en": "I'll call back later",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Ich rufe später zurück.",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "phone-calls-and-messages"
+      ]
+    },
+    {
+      "de": "falsch verbunden",
+      "en": "wrong number",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Entschuldigung, falsch verbunden.",
+      "literal": "wrongly connected",
+      "notes": "",
+      "tags": [
+        "phone-calls-and-messages"
+      ]
+    },
+    {
+      "de": "kannst du mir kurz schreiben",
+      "en": "can you text me",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Kannst du mir kurz schreiben, wenn du kommst?",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "phone-calls-and-messages"
+      ]
+    }
+  ]
+}

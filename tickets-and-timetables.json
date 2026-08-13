@@ -1,0 +1,375 @@
+{
+  "app": "wortschatz",
+  "v": 1,
+  "words": [
+    {
+      "de": "die Fahrkarte",
+      "en": "ticket",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Fahrkarten",
+      "example": "Die Fahrkarte gilt zwei Stunden.",
+      "notes": "",
+      "tags": [
+        "tickets-and-timetables"
+      ]
+    },
+    {
+      "de": "das Ticket",
+      "en": "ticket",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Tickets",
+      "example": "Das Ticket habe ich auf dem Handy.",
+      "notes": "",
+      "tags": [
+        "tickets-and-timetables"
+      ]
+    },
+    {
+      "de": "der Fahrplan",
+      "en": "timetable",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Fahrpläne",
+      "example": "Der Fahrplan hängt an der Haltestelle.",
+      "notes": "",
+      "tags": [
+        "tickets-and-timetables"
+      ]
+    },
+    {
+      "de": "die Abfahrt",
+      "en": "departure",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Abfahrten",
+      "example": "Die Abfahrt ist um 8:14 Uhr.",
+      "notes": "",
+      "tags": [
+        "tickets-and-timetables"
+      ]
+    },
+    {
+      "de": "die Ankunft",
+      "en": "arrival",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Ankünfte",
+      "example": "Die Ankunft ist für 12 Uhr geplant.",
+      "notes": "",
+      "tags": [
+        "tickets-and-timetables"
+      ]
+    },
+    {
+      "de": "die Verspätung",
+      "en": "delay",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Verspätungen",
+      "example": "Der Zug hat zehn Minuten Verspätung.",
+      "notes": "",
+      "tags": [
+        "tickets-and-timetables"
+      ]
+    },
+    {
+      "de": "der Fahrkartenautomat",
+      "en": "ticket machine",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Fahrkartenautomaten",
+      "example": "Der Fahrkartenautomat nimmt keine Scheine.",
+      "notes": "",
+      "tags": [
+        "tickets-and-timetables"
+      ]
+    },
+    {
+      "de": "der Fahrkartenschalter",
+      "en": "ticket counter",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Fahrkartenschalter",
+      "example": "Am Fahrkartenschalter ist niemand.",
+      "notes": "",
+      "tags": [
+        "tickets-and-timetables"
+      ]
+    },
+    {
+      "de": "die Hinfahrt",
+      "en": "outward journey",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Hinfahrten",
+      "example": "Die Hinfahrt war ruhig.",
+      "notes": "",
+      "tags": [
+        "tickets-and-timetables"
+      ]
+    },
+    {
+      "de": "die Rückfahrt",
+      "en": "return journey",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Rückfahrten",
+      "example": "Die Rückfahrt ist am Sonntag.",
+      "notes": "",
+      "tags": [
+        "tickets-and-timetables"
+      ]
+    },
+    {
+      "de": "die Ermäßigung",
+      "en": "reduction, discount",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Ermäßigungen",
+      "example": "Studenten bekommen eine Ermäßigung.",
+      "notes": "",
+      "tags": [
+        "tickets-and-timetables"
+      ]
+    },
+    {
+      "de": "die Monatskarte",
+      "en": "monthly pass",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Monatskarten",
+      "example": "Die Monatskarte lohnt sich.",
+      "notes": "",
+      "tags": [
+        "tickets-and-timetables"
+      ]
+    },
+    {
+      "de": "die Tageskarte",
+      "en": "day ticket",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Tageskarten",
+      "example": "Eine Tageskarte kostet acht Euro.",
+      "notes": "",
+      "tags": [
+        "tickets-and-timetables"
+      ]
+    },
+    {
+      "de": "der Zuschlag",
+      "en": "surcharge",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Zuschläge",
+      "example": "Im ICE zahlt man einen Zuschlag.",
+      "notes": "",
+      "tags": [
+        "tickets-and-timetables"
+      ]
+    },
+    {
+      "de": "die Strecke",
+      "en": "route, distance",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Strecken",
+      "example": "Die Strecke ist gesperrt.",
+      "notes": "",
+      "tags": [
+        "tickets-and-timetables"
+      ]
+    },
+    {
+      "de": "der Anschluss",
+      "en": "connection",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Anschlüsse",
+      "example": "Ich habe den Anschluss verpasst.",
+      "notes": "",
+      "tags": [
+        "tickets-and-timetables"
+      ]
+    },
+    {
+      "de": "der Schaffner",
+      "en": "ticket inspector",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Schaffner",
+      "example": "Der Schaffner kommt durch den Zug.",
+      "notes": "",
+      "tags": [
+        "tickets-and-timetables"
+      ]
+    },
+    {
+      "de": "die zweite Klasse",
+      "en": "second class",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Ich fahre immer zweite Klasse.",
+      "notes": "",
+      "tags": [
+        "tickets-and-timetables"
+      ]
+    },
+    {
+      "de": "entwerten",
+      "en": "to validate (a ticket)",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Vor der Fahrt die Karte entwerten!",
+      "present": "ich entwerte · du entwertest · er entwertet",
+      "praet": "er entwertete",
+      "perfekt": "hat entwertet",
+      "notes": "",
+      "tags": [
+        "tickets-and-timetables"
+      ]
+    },
+    {
+      "de": "kontrollieren",
+      "en": "to check, to inspect",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Der Schaffner kontrolliert die Tickets.",
+      "present": "ich kontrolliere · du kontrollierst · er kontrolliert",
+      "praet": "er kontrollierte",
+      "perfekt": "hat kontrolliert",
+      "notes": "",
+      "tags": [
+        "tickets-and-timetables"
+      ]
+    },
+    {
+      "de": "verpassen",
+      "en": "to miss (a train)",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich habe den Bus verpasst.",
+      "present": "ich verpasse · du verpasst · er verpasst",
+      "praet": "er verpasste",
+      "perfekt": "hat verpasst",
+      "notes": "",
+      "tags": [
+        "tickets-and-timetables"
+      ]
+    },
+    {
+      "de": "umbuchen",
+      "en": "to change a booking",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Kann ich das Ticket umbuchen?",
+      "present": "ich buche um · du buchst um",
+      "praet": "er buchte um",
+      "perfekt": "hat umgebucht",
+      "notes": "Separable.",
+      "tags": [
+        "tickets-and-timetables"
+      ]
+    },
+    {
+      "de": "gültig",
+      "en": "valid",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Das Ticket ist bis Montag gültig.",
+      "comp": "",
+      "super": "",
+      "notes": "",
+      "tags": [
+        "tickets-and-timetables"
+      ]
+    },
+    {
+      "de": "direkt",
+      "en": "direct",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Gibt es einen direkten Zug?",
+      "comp": "",
+      "super": "",
+      "notes": "",
+      "tags": [
+        "tickets-and-timetables"
+      ]
+    },
+    {
+      "de": "einmal nach Berlin, bitte",
+      "en": "one ticket to Berlin, please",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Einmal nach Berlin, bitte.",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "tickets-and-timetables"
+      ]
+    },
+    {
+      "de": "hin und zurück",
+      "en": "return, round trip",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Hin und zurück oder nur einfach?",
+      "literal": "there and back",
+      "notes": "",
+      "tags": [
+        "tickets-and-timetables"
+      ]
+    },
+    {
+      "de": "nur einfach",
+      "en": "one way only",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Nur einfach, bitte.",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "tickets-and-timetables"
+      ]
+    },
+    {
+      "de": "wann fährt der nächste Zug",
+      "en": "when does the next train leave",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Wann fährt der nächste Zug nach Köln?",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "tickets-and-timetables"
+      ]
+    },
+    {
+      "de": "von welchem Gleis",
+      "en": "from which platform",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Von welchem Gleis fährt der Zug?",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "tickets-and-timetables"
+      ]
+    }
+  ]
+}

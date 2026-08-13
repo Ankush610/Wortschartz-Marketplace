@@ -1,0 +1,405 @@
+{
+  "app": "wortschatz",
+  "v": 1,
+  "words": [
+    {
+      "de": "die Zeit",
+      "en": "time",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Zeiten",
+      "example": "Ich habe heute keine Zeit.",
+      "notes": "",
+      "tags": [
+        "time-and-clock"
+      ]
+    },
+    {
+      "de": "die Uhr",
+      "en": "clock, watch, o'clock",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Uhren",
+      "example": "Die Uhr geht zwei Minuten vor.",
+      "notes": "",
+      "tags": [
+        "time-and-clock"
+      ]
+    },
+    {
+      "de": "die Uhrzeit",
+      "en": "time of day",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Uhrzeiten",
+      "example": "Sag mir bitte die Uhrzeit.",
+      "notes": "",
+      "tags": [
+        "time-and-clock"
+      ]
+    },
+    {
+      "de": "die Stunde",
+      "en": "hour",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Stunden",
+      "example": "Der Film dauert zwei Stunden.",
+      "notes": "",
+      "tags": [
+        "time-and-clock"
+      ]
+    },
+    {
+      "de": "die Minute",
+      "en": "minute",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Minuten",
+      "example": "Warte fünf Minuten!",
+      "notes": "",
+      "tags": [
+        "time-and-clock"
+      ]
+    },
+    {
+      "de": "die Sekunde",
+      "en": "second",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Sekunden",
+      "example": "Eine Minute hat sechzig Sekunden.",
+      "notes": "",
+      "tags": [
+        "time-and-clock"
+      ]
+    },
+    {
+      "de": "die Viertelstunde",
+      "en": "quarter of an hour",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Viertelstunden",
+      "example": "Der Bus kommt in einer Viertelstunde.",
+      "notes": "",
+      "tags": [
+        "time-and-clock"
+      ]
+    },
+    {
+      "de": "der Morgen",
+      "en": "morning",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Morgen",
+      "example": "Der Morgen war kalt.",
+      "notes": "",
+      "tags": [
+        "time-and-clock"
+      ]
+    },
+    {
+      "de": "der Vormittag",
+      "en": "late morning",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Vormittage",
+      "example": "Am Vormittag habe ich einen Kurs.",
+      "notes": "",
+      "tags": [
+        "time-and-clock"
+      ]
+    },
+    {
+      "de": "der Mittag",
+      "en": "midday",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Mittage",
+      "example": "Am Mittag esse ich wenig.",
+      "notes": "",
+      "tags": [
+        "time-and-clock"
+      ]
+    },
+    {
+      "de": "der Nachmittag",
+      "en": "afternoon",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Nachmittage",
+      "example": "Der Nachmittag ist frei.",
+      "notes": "",
+      "tags": [
+        "time-and-clock"
+      ]
+    },
+    {
+      "de": "der Abend",
+      "en": "evening",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Abende",
+      "example": "Der Abend war sehr schön.",
+      "notes": "",
+      "tags": [
+        "time-and-clock"
+      ]
+    },
+    {
+      "de": "die Nacht",
+      "en": "night",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Nächte",
+      "example": "Die Nacht war zu kurz.",
+      "notes": "",
+      "tags": [
+        "time-and-clock"
+      ]
+    },
+    {
+      "de": "die Mitternacht",
+      "en": "midnight",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Um Mitternacht gehen wir nach Hause.",
+      "notes": "",
+      "tags": [
+        "time-and-clock"
+      ]
+    },
+    {
+      "de": "daueren",
+      "en": "to last, to take (time)",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Die Fahrt dauert eine Stunde.",
+      "present": "ich dauere · du dauerst · er dauert",
+      "praet": "er dauerte",
+      "perfekt": "hat gedauert",
+      "notes": "ich dauere · es dauert.",
+      "tags": [
+        "time-and-clock"
+      ]
+    },
+    {
+      "de": "pünktlich",
+      "en": "punctual, on time",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Der Zug war pünktlich.",
+      "comp": "pünktlicher",
+      "super": "am pünktlichsten",
+      "notes": "",
+      "tags": [
+        "time-and-clock"
+      ]
+    },
+    {
+      "de": "unpünktlich",
+      "en": "late, not punctual",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Er ist immer unpünktlich.",
+      "comp": "",
+      "super": "",
+      "notes": "",
+      "tags": [
+        "time-and-clock"
+      ]
+    },
+    {
+      "de": "jetzt",
+      "en": "now",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Jetzt habe ich Zeit.",
+      "notes": "",
+      "tags": [
+        "time-and-clock"
+      ]
+    },
+    {
+      "de": "sofort",
+      "en": "immediately",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich komme sofort.",
+      "notes": "",
+      "tags": [
+        "time-and-clock"
+      ]
+    },
+    {
+      "de": "bald",
+      "en": "soon",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Wir sehen uns bald.",
+      "notes": "",
+      "tags": [
+        "time-and-clock"
+      ]
+    },
+    {
+      "de": "gerade",
+      "en": "just now, right now",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich koche gerade.",
+      "notes": "",
+      "tags": [
+        "time-and-clock"
+      ]
+    },
+    {
+      "de": "schon",
+      "en": "already",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Es ist schon acht Uhr.",
+      "notes": "",
+      "tags": [
+        "time-and-clock"
+      ]
+    },
+    {
+      "de": "noch",
+      "en": "still",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich habe noch fünf Minuten.",
+      "notes": "",
+      "tags": [
+        "time-and-clock"
+      ]
+    },
+    {
+      "de": "endlich",
+      "en": "finally, at last",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Endlich ist der Bus da.",
+      "notes": "",
+      "tags": [
+        "time-and-clock"
+      ]
+    },
+    {
+      "de": "wie spät ist es",
+      "en": "what time is it",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Entschuldigung, wie spät ist es?",
+      "literal": "how late is it",
+      "notes": "",
+      "tags": [
+        "time-and-clock"
+      ]
+    },
+    {
+      "de": "um wie viel Uhr",
+      "en": "at what time",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Um wie viel Uhr beginnt der Kurs?",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "time-and-clock"
+      ]
+    },
+    {
+      "de": "um acht Uhr",
+      "en": "at eight o'clock",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Wir treffen uns um acht Uhr.",
+      "literal": "",
+      "notes": "um + clock time.",
+      "tags": [
+        "time-and-clock"
+      ]
+    },
+    {
+      "de": "halb neun",
+      "en": "half past eight",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Der Zug fährt um halb neun.",
+      "literal": "half nine",
+      "notes": "German counts to the next hour: halb neun = 8:30.",
+      "tags": [
+        "time-and-clock"
+      ]
+    },
+    {
+      "de": "Viertel nach sechs",
+      "en": "quarter past six",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Es ist Viertel nach sechs.",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "time-and-clock"
+      ]
+    },
+    {
+      "de": "Viertel vor sieben",
+      "en": "quarter to seven",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Ich komme um Viertel vor sieben.",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "time-and-clock"
+      ]
+    },
+    {
+      "de": "von neun bis fünf",
+      "en": "from nine to five",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Ich arbeite von neun bis fünf.",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "time-and-clock"
+      ]
+    },
+    {
+      "de": "in einer Stunde",
+      "en": "in an hour",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Der Termin ist in einer Stunde.",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "time-and-clock"
+      ]
+    }
+  ]
+}

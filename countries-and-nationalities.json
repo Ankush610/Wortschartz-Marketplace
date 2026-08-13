@@ -1,0 +1,392 @@
+{
+  "app": "wortschatz",
+  "v": 1,
+  "words": [
+    {
+      "de": "Deutschland",
+      "en": "Germany",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Ich lebe seit einem Jahr in Deutschland.",
+      "notes": "Country names mostly take no article.",
+      "tags": [
+        "countries-and-nationalities"
+      ]
+    },
+    {
+      "de": "Österreich",
+      "en": "Austria",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Österreich liegt südlich von Deutschland.",
+      "notes": "",
+      "tags": [
+        "countries-and-nationalities"
+      ]
+    },
+    {
+      "de": "die Schweiz",
+      "en": "Switzerland",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Ich fahre in die Schweiz.",
+      "notes": "One of the few countries with an article.",
+      "tags": [
+        "countries-and-nationalities"
+      ]
+    },
+    {
+      "de": "Frankreich",
+      "en": "France",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "In Frankreich spricht man Französisch.",
+      "notes": "",
+      "tags": [
+        "countries-and-nationalities"
+      ]
+    },
+    {
+      "de": "Italien",
+      "en": "Italy",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Wir machen Urlaub in Italien.",
+      "notes": "",
+      "tags": [
+        "countries-and-nationalities"
+      ]
+    },
+    {
+      "de": "Spanien",
+      "en": "Spain",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Spanien ist im Sommer sehr heiß.",
+      "notes": "",
+      "tags": [
+        "countries-and-nationalities"
+      ]
+    },
+    {
+      "de": "England",
+      "en": "England",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Meine Schwester studiert in England.",
+      "notes": "",
+      "tags": [
+        "countries-and-nationalities"
+      ]
+    },
+    {
+      "de": "Polen",
+      "en": "Poland",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Polen ist unser Nachbarland.",
+      "notes": "",
+      "tags": [
+        "countries-and-nationalities"
+      ]
+    },
+    {
+      "de": "die Türkei",
+      "en": "Turkey",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Meine Familie kommt aus der Türkei.",
+      "notes": "",
+      "tags": [
+        "countries-and-nationalities"
+      ]
+    },
+    {
+      "de": "Indien",
+      "en": "India",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "In Indien gibt es viele Sprachen.",
+      "notes": "",
+      "tags": [
+        "countries-and-nationalities"
+      ]
+    },
+    {
+      "de": "China",
+      "en": "China",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "China ist ein sehr großes Land.",
+      "notes": "",
+      "tags": [
+        "countries-and-nationalities"
+      ]
+    },
+    {
+      "de": "die USA",
+      "en": "the USA",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Er fliegt nächste Woche in die USA.",
+      "notes": "Plural, always with die.",
+      "tags": [
+        "countries-and-nationalities"
+      ]
+    },
+    {
+      "de": "Europa",
+      "en": "Europe",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Europa hat viele kleine Länder.",
+      "notes": "",
+      "tags": [
+        "countries-and-nationalities"
+      ]
+    },
+    {
+      "de": "das Land",
+      "en": "country",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Länder",
+      "example": "Welches Land möchtest du sehen?",
+      "notes": "",
+      "tags": [
+        "countries-and-nationalities"
+      ]
+    },
+    {
+      "de": "das Nachbarland",
+      "en": "neighbouring country",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Nachbarländer",
+      "example": "Die Schweiz ist ein Nachbarland von Italien.",
+      "notes": "",
+      "tags": [
+        "countries-and-nationalities"
+      ]
+    },
+    {
+      "de": "die Hauptstadt",
+      "en": "capital city",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Hauptstädte",
+      "example": "Die Hauptstadt von Österreich ist Wien.",
+      "notes": "",
+      "tags": [
+        "countries-and-nationalities"
+      ]
+    },
+    {
+      "de": "die Nationalität",
+      "en": "nationality",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Nationalitäten",
+      "example": "Welche Nationalität haben Sie?",
+      "notes": "",
+      "tags": [
+        "countries-and-nationalities"
+      ]
+    },
+    {
+      "de": "die Sprache",
+      "en": "language",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Sprachen",
+      "example": "Wie viele Sprachen sprichst du?",
+      "notes": "",
+      "tags": [
+        "countries-and-nationalities"
+      ]
+    },
+    {
+      "de": "die Muttersprache",
+      "en": "mother tongue",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Muttersprachen",
+      "example": "Meine Muttersprache ist Marathi.",
+      "notes": "",
+      "tags": [
+        "countries-and-nationalities"
+      ]
+    },
+    {
+      "de": "die Fremdsprache",
+      "en": "foreign language",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Fremdsprachen",
+      "example": "Deutsch ist meine zweite Fremdsprache.",
+      "notes": "",
+      "tags": [
+        "countries-and-nationalities"
+      ]
+    },
+    {
+      "de": "der Ausländer",
+      "en": "foreigner",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Ausländer",
+      "example": "Viele Ausländer lernen hier Deutsch.",
+      "notes": "Female: die Ausländerin.",
+      "tags": [
+        "countries-and-nationalities"
+      ]
+    },
+    {
+      "de": "die Heimat",
+      "en": "home country",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Meine Heimat ist weit weg.",
+      "notes": "",
+      "tags": [
+        "countries-and-nationalities"
+      ]
+    },
+    {
+      "de": "der Deutsche",
+      "en": "German (person)",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Deutschen",
+      "example": "Der Deutsche neben mir heißt Jonas.",
+      "notes": "Adjectival noun: ein Deutscher, die Deutsche.",
+      "tags": [
+        "countries-and-nationalities"
+      ]
+    },
+    {
+      "de": "deutsch",
+      "en": "German",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Ich lese eine deutsche Zeitung.",
+      "comp": "",
+      "super": "",
+      "notes": "Lower case as an adjective.",
+      "tags": [
+        "countries-and-nationalities"
+      ]
+    },
+    {
+      "de": "englisch",
+      "en": "English",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Der englische Film war gut.",
+      "comp": "",
+      "super": "",
+      "notes": "",
+      "tags": [
+        "countries-and-nationalities"
+      ]
+    },
+    {
+      "de": "französisch",
+      "en": "French",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Sie mag französischen Käse.",
+      "comp": "",
+      "super": "",
+      "notes": "",
+      "tags": [
+        "countries-and-nationalities"
+      ]
+    },
+    {
+      "de": "türkisch",
+      "en": "Turkish",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Das türkische Essen schmeckt super.",
+      "comp": "",
+      "super": "",
+      "notes": "",
+      "tags": [
+        "countries-and-nationalities"
+      ]
+    },
+    {
+      "de": "indisch",
+      "en": "Indian",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Wir essen heute indisch.",
+      "comp": "",
+      "super": "",
+      "notes": "",
+      "tags": [
+        "countries-and-nationalities"
+      ]
+    },
+    {
+      "de": "international",
+      "en": "international",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Die Gruppe ist sehr international.",
+      "comp": "",
+      "super": "",
+      "notes": "",
+      "tags": [
+        "countries-and-nationalities"
+      ]
+    },
+    {
+      "de": "ich spreche Deutsch",
+      "en": "I speak German",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Ich spreche Deutsch und Englisch.",
+      "literal": "",
+      "notes": "Language names are capitalised as nouns here.",
+      "tags": [
+        "countries-and-nationalities"
+      ]
+    },
+    {
+      "de": "aus welchem Land kommst du",
+      "en": "which country are you from",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Aus welchem Land kommst du?",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "countries-and-nationalities"
+      ]
+    }
+  ]
+}

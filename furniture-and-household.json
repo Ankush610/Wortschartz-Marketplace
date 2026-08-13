@@ -1,0 +1,408 @@
+{
+  "app": "wortschatz",
+  "v": 1,
+  "words": [
+    {
+      "de": "das Möbelstück",
+      "en": "piece of furniture",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Möbelstücke",
+      "example": "Das Sofa ist mein liebstes Möbelstück.",
+      "notes": "The furniture in general: die Möbel.",
+      "tags": [
+        "furniture-and-household"
+      ]
+    },
+    {
+      "de": "der Tisch",
+      "en": "table",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Tische",
+      "example": "Der Tisch steht in der Mitte.",
+      "notes": "",
+      "tags": [
+        "furniture-and-household"
+      ]
+    },
+    {
+      "de": "der Stuhl",
+      "en": "chair",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Stühle",
+      "example": "Nimm dir bitte einen Stuhl.",
+      "notes": "",
+      "tags": [
+        "furniture-and-household"
+      ]
+    },
+    {
+      "de": "das Sofa",
+      "en": "sofa",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Sofas",
+      "example": "Auf dem Sofa ist noch Platz.",
+      "notes": "",
+      "tags": [
+        "furniture-and-household"
+      ]
+    },
+    {
+      "de": "der Sessel",
+      "en": "armchair",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Sessel",
+      "example": "Opa sitzt gern im Sessel.",
+      "notes": "",
+      "tags": [
+        "furniture-and-household"
+      ]
+    },
+    {
+      "de": "das Bett",
+      "en": "bed",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Betten",
+      "example": "Das Bett ist sehr bequem.",
+      "notes": "",
+      "tags": [
+        "furniture-and-household"
+      ]
+    },
+    {
+      "de": "der Schrank",
+      "en": "cupboard, wardrobe",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Schränke",
+      "example": "Die Teller sind im Schrank.",
+      "notes": "",
+      "tags": [
+        "furniture-and-household"
+      ]
+    },
+    {
+      "de": "das Regal",
+      "en": "shelf",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Regale",
+      "example": "Im Regal stehen meine Bücher.",
+      "notes": "",
+      "tags": [
+        "furniture-and-household"
+      ]
+    },
+    {
+      "de": "die Lampe",
+      "en": "lamp",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Lampen",
+      "example": "Mach bitte die Lampe an.",
+      "notes": "",
+      "tags": [
+        "furniture-and-household"
+      ]
+    },
+    {
+      "de": "der Teppich",
+      "en": "carpet, rug",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Teppiche",
+      "example": "Der Teppich ist neu.",
+      "notes": "",
+      "tags": [
+        "furniture-and-household"
+      ]
+    },
+    {
+      "de": "der Spiegel",
+      "en": "mirror",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Spiegel",
+      "example": "Im Spiegel sehe ich müde aus.",
+      "notes": "",
+      "tags": [
+        "furniture-and-household"
+      ]
+    },
+    {
+      "de": "das Bild",
+      "en": "picture",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Bilder",
+      "example": "Das Bild hängt schief.",
+      "notes": "",
+      "tags": [
+        "furniture-and-household"
+      ]
+    },
+    {
+      "de": "der Vorhang",
+      "en": "curtain",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Vorhänge",
+      "example": "Zieh bitte die Vorhänge zu.",
+      "notes": "",
+      "tags": [
+        "furniture-and-household"
+      ]
+    },
+    {
+      "de": "das Kissen",
+      "en": "cushion, pillow",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Kissen",
+      "example": "Das Kissen ist zu weich.",
+      "notes": "",
+      "tags": [
+        "furniture-and-household"
+      ]
+    },
+    {
+      "de": "die Bettdecke",
+      "en": "duvet, blanket",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Bettdecken",
+      "example": "Im Winter brauche ich eine dicke Bettdecke.",
+      "notes": "",
+      "tags": [
+        "furniture-and-household"
+      ]
+    },
+    {
+      "de": "der Herd",
+      "en": "cooker, stove",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Herde",
+      "example": "Der Herd ist noch heiß.",
+      "notes": "",
+      "tags": [
+        "furniture-and-household"
+      ]
+    },
+    {
+      "de": "der Kühlschrank",
+      "en": "fridge",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Kühlschränke",
+      "example": "Die Milch steht im Kühlschrank.",
+      "notes": "",
+      "tags": [
+        "furniture-and-household"
+      ]
+    },
+    {
+      "de": "die Waschmaschine",
+      "en": "washing machine",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Waschmaschinen",
+      "example": "Die Waschmaschine läuft gerade.",
+      "notes": "",
+      "tags": [
+        "furniture-and-household"
+      ]
+    },
+    {
+      "de": "die Spülmaschine",
+      "en": "dishwasher",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Spülmaschinen",
+      "example": "Stell die Teller in die Spülmaschine.",
+      "notes": "",
+      "tags": [
+        "furniture-and-household"
+      ]
+    },
+    {
+      "de": "der Backofen",
+      "en": "oven",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Backöfen",
+      "example": "Der Kuchen ist im Backofen.",
+      "notes": "",
+      "tags": [
+        "furniture-and-household"
+      ]
+    },
+    {
+      "de": "die Mikrowelle",
+      "en": "microwave",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Mikrowellen",
+      "example": "Ich wärme die Suppe in der Mikrowelle.",
+      "notes": "",
+      "tags": [
+        "furniture-and-household"
+      ]
+    },
+    {
+      "de": "das Geschirr",
+      "en": "dishes, crockery",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "",
+      "example": "Das Geschirr steht noch auf dem Tisch.",
+      "notes": "",
+      "tags": [
+        "furniture-and-household"
+      ]
+    },
+    {
+      "de": "der Teller",
+      "en": "plate",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Teller",
+      "example": "Der Teller ist leer.",
+      "notes": "",
+      "tags": [
+        "furniture-and-household"
+      ]
+    },
+    {
+      "de": "die Tasse",
+      "en": "cup",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Tassen",
+      "example": "Möchtest du eine Tasse Kaffee?",
+      "notes": "",
+      "tags": [
+        "furniture-and-household"
+      ]
+    },
+    {
+      "de": "das Glas",
+      "en": "glass",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Gläser",
+      "example": "Ein Glas Wasser, bitte.",
+      "notes": "",
+      "tags": [
+        "furniture-and-household"
+      ]
+    },
+    {
+      "de": "die Gabel",
+      "en": "fork",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Gabeln",
+      "example": "Die Gabel liegt links.",
+      "notes": "",
+      "tags": [
+        "furniture-and-household"
+      ]
+    },
+    {
+      "de": "das Messer",
+      "en": "knife",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Messer",
+      "example": "Das Messer ist scharf.",
+      "notes": "",
+      "tags": [
+        "furniture-and-household"
+      ]
+    },
+    {
+      "de": "der Löffel",
+      "en": "spoon",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Löffel",
+      "example": "Für die Suppe brauchst du einen Löffel.",
+      "notes": "",
+      "tags": [
+        "furniture-and-household"
+      ]
+    },
+    {
+      "de": "die Schere",
+      "en": "scissors",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Scheren",
+      "example": "Wo ist die Schere?",
+      "notes": "Singular in German.",
+      "tags": [
+        "furniture-and-household"
+      ]
+    },
+    {
+      "de": "die Wanduhr",
+      "en": "wall clock",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Wanduhren",
+      "example": "Die Wanduhr geht zwei Minuten nach.",
+      "notes": "",
+      "tags": [
+        "furniture-and-household"
+      ]
+    },
+    {
+      "de": "bequem",
+      "en": "comfortable",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Der Sessel ist sehr bequem.",
+      "comp": "bequemer",
+      "super": "am bequemsten",
+      "notes": "",
+      "tags": [
+        "furniture-and-household"
+      ]
+    },
+    {
+      "de": "praktisch",
+      "en": "practical",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Das Regal ist wirklich praktisch.",
+      "comp": "praktischer",
+      "super": "am praktischsten",
+      "notes": "",
+      "tags": [
+        "furniture-and-household"
+      ]
+    },
+    {
+      "de": "kaputt",
+      "en": "broken",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Die Lampe ist kaputt.",
+      "comp": "",
+      "super": "",
+      "notes": "",
+      "tags": [
+        "furniture-and-household"
+      ]
+    }
+  ]
+}

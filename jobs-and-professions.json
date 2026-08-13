@@ -1,0 +1,404 @@
+{
+  "app": "wortschatz",
+  "v": 1,
+  "words": [
+    {
+      "de": "der Beruf",
+      "en": "job, profession",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Berufe",
+      "example": "Was sind Sie von Beruf?",
+      "notes": "",
+      "tags": [
+        "jobs-and-professions"
+      ]
+    },
+    {
+      "de": "der Lehrer",
+      "en": "teacher",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Lehrer",
+      "example": "Mein Lehrer kommt aus Wien.",
+      "notes": "Female: die Lehrerin.",
+      "tags": [
+        "jobs-and-professions"
+      ]
+    },
+    {
+      "de": "der Ingenieur",
+      "en": "engineer",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Ingenieure",
+      "example": "Mein Bruder ist Ingenieur.",
+      "notes": "",
+      "tags": [
+        "jobs-and-professions"
+      ]
+    },
+    {
+      "de": "der Verkäufer",
+      "en": "salesperson",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Verkäufer",
+      "example": "Er arbeitet als Verkäufer.",
+      "notes": "",
+      "tags": [
+        "jobs-and-professions"
+      ]
+    },
+    {
+      "de": "der Koch",
+      "en": "cook, chef",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Köche",
+      "example": "Der Koch macht das beste Schnitzel.",
+      "notes": "",
+      "tags": [
+        "jobs-and-professions"
+      ]
+    },
+    {
+      "de": "der Polizist",
+      "en": "police officer",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Polizisten",
+      "example": "Der Polizist kontrolliert die Ausweise.",
+      "notes": "",
+      "tags": [
+        "jobs-and-professions"
+      ]
+    },
+    {
+      "de": "der Friseur",
+      "en": "hairdresser",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Friseure",
+      "example": "Der Friseur hat morgen Zeit.",
+      "notes": "",
+      "tags": [
+        "jobs-and-professions"
+      ]
+    },
+    {
+      "de": "der Bäcker",
+      "en": "baker",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Bäcker",
+      "example": "Der Bäcker steht um drei Uhr auf.",
+      "notes": "",
+      "tags": [
+        "jobs-and-professions"
+      ]
+    },
+    {
+      "de": "der Mechaniker",
+      "en": "mechanic",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Mechaniker",
+      "example": "Der Mechaniker repariert mein Auto.",
+      "notes": "",
+      "tags": [
+        "jobs-and-professions"
+      ]
+    },
+    {
+      "de": "der Fahrer",
+      "en": "driver",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Fahrer",
+      "example": "Der Fahrer wartet vor der Tür.",
+      "notes": "",
+      "tags": [
+        "jobs-and-professions"
+      ]
+    },
+    {
+      "de": "die Krankenschwester",
+      "en": "nurse",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Krankenschwestern",
+      "example": "Die Krankenschwester ist sehr nett.",
+      "notes": "Male: der Krankenpfleger.",
+      "tags": [
+        "jobs-and-professions"
+      ]
+    },
+    {
+      "de": "der Programmierer",
+      "en": "programmer",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Programmierer",
+      "example": "Als Programmierer arbeite ich viel am Computer.",
+      "notes": "",
+      "tags": [
+        "jobs-and-professions"
+      ]
+    },
+    {
+      "de": "der Handwerker",
+      "en": "tradesman, handyman",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Handwerker",
+      "example": "Der Handwerker kommt am Dienstag.",
+      "notes": "",
+      "tags": [
+        "jobs-and-professions"
+      ]
+    },
+    {
+      "de": "der Elektriker",
+      "en": "electrician",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Elektriker",
+      "example": "Der Elektriker prüft die Leitung.",
+      "notes": "",
+      "tags": [
+        "jobs-and-professions"
+      ]
+    },
+    {
+      "de": "der Architekt",
+      "en": "architect",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Architekten",
+      "example": "Die Architektin plant das Haus.",
+      "notes": "",
+      "tags": [
+        "jobs-and-professions"
+      ]
+    },
+    {
+      "de": "der Anwalt",
+      "en": "lawyer",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Anwälte",
+      "example": "Ich brauche einen Anwalt.",
+      "notes": "",
+      "tags": [
+        "jobs-and-professions"
+      ]
+    },
+    {
+      "de": "der Journalist",
+      "en": "journalist",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Journalisten",
+      "example": "Der Journalist schreibt über die Stadt.",
+      "notes": "",
+      "tags": [
+        "jobs-and-professions"
+      ]
+    },
+    {
+      "de": "der Landwirt",
+      "en": "farmer",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Landwirte",
+      "example": "Der Landwirt steht früh auf.",
+      "notes": "Also der Bauer.",
+      "tags": [
+        "jobs-and-professions"
+      ]
+    },
+    {
+      "de": "der Rentner",
+      "en": "pensioner",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Rentner",
+      "example": "Mein Nachbar ist Rentner.",
+      "notes": "",
+      "tags": [
+        "jobs-and-professions"
+      ]
+    },
+    {
+      "de": "die Stelle",
+      "en": "job, position",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Stellen",
+      "example": "Ich suche eine neue Stelle.",
+      "notes": "",
+      "tags": [
+        "jobs-and-professions"
+      ]
+    },
+    {
+      "de": "die Bewerbung",
+      "en": "application",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Bewerbungen",
+      "example": "Die Bewerbung ist schon raus.",
+      "notes": "",
+      "tags": [
+        "jobs-and-professions"
+      ]
+    },
+    {
+      "de": "der Lebenslauf",
+      "en": "CV, résumé",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Lebensläufe",
+      "example": "Der Lebenslauf ist eine Seite lang.",
+      "notes": "",
+      "tags": [
+        "jobs-and-professions"
+      ]
+    },
+    {
+      "de": "das Vorstellungsgespräch",
+      "en": "job interview",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Vorstellungsgespräche",
+      "example": "Das Vorstellungsgespräch ist am Montag.",
+      "notes": "",
+      "tags": [
+        "jobs-and-professions"
+      ]
+    },
+    {
+      "de": "die Ausbildung",
+      "en": "training, apprenticeship",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Ausbildungen",
+      "example": "Meine Ausbildung dauert drei Jahre.",
+      "notes": "",
+      "tags": [
+        "jobs-and-professions"
+      ]
+    },
+    {
+      "de": "die Erfahrung",
+      "en": "experience",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Erfahrungen",
+      "example": "Ich habe zwei Jahre Erfahrung.",
+      "notes": "",
+      "tags": [
+        "jobs-and-professions"
+      ]
+    },
+    {
+      "de": "sich bewerben",
+      "en": "to apply (for a job)",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich bewerbe mich bei der Firma.",
+      "present": "ich bewerbe mich · du bewirbst dich · er bewirbt sich",
+      "praet": "er bewarb sich",
+      "perfekt": "hat sich beworben",
+      "notes": "With um: sich um eine Stelle bewerben.",
+      "tags": [
+        "jobs-and-professions"
+      ]
+    },
+    {
+      "de": "einstellen",
+      "en": "to hire, to employ",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Die Firma stellt zwei Leute ein.",
+      "present": "ich stelle ein · du stellst ein",
+      "praet": "er stellte ein",
+      "perfekt": "hat eingestellt",
+      "notes": "Separable.",
+      "tags": [
+        "jobs-and-professions"
+      ]
+    },
+    {
+      "de": "arbeitslos",
+      "en": "unemployed",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Er ist seit Januar arbeitslos.",
+      "comp": "",
+      "super": "",
+      "notes": "",
+      "tags": [
+        "jobs-and-professions"
+      ]
+    },
+    {
+      "de": "selbstständig",
+      "en": "self-employed",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Meine Schwester ist selbstständig.",
+      "comp": "",
+      "super": "",
+      "notes": "",
+      "tags": [
+        "jobs-and-professions"
+      ]
+    },
+    {
+      "de": "berufstätig",
+      "en": "working, employed",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Beide Eltern sind berufstätig.",
+      "comp": "",
+      "super": "",
+      "notes": "",
+      "tags": [
+        "jobs-and-professions"
+      ]
+    },
+    {
+      "de": "was machen Sie beruflich",
+      "en": "what do you do for a living",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Was machen Sie beruflich?",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "jobs-and-professions"
+      ]
+    },
+    {
+      "de": "ich arbeite als Verkäuferin",
+      "en": "I work as a sales assistant",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Ich arbeite als Verkäuferin.",
+      "literal": "",
+      "notes": "als + job, with no article.",
+      "tags": [
+        "jobs-and-professions"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,368 @@
+{
+  "app": "wortschatz",
+  "v": 1,
+  "words": [
+    {
+      "de": "der Name",
+      "en": "name",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Namen",
+      "example": "Mein Name ist Anna Weber.",
+      "notes": "",
+      "tags": [
+        "introducing-yourself"
+      ]
+    },
+    {
+      "de": "der Vorname",
+      "en": "first name",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Vornamen",
+      "example": "Mein Vorname ist Peter.",
+      "notes": "",
+      "tags": [
+        "introducing-yourself"
+      ]
+    },
+    {
+      "de": "der Nachname",
+      "en": "surname",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Nachnamen",
+      "example": "Wie ist Ihr Nachname?",
+      "notes": "Also der Familienname.",
+      "tags": [
+        "introducing-yourself"
+      ]
+    },
+    {
+      "de": "ich heiße",
+      "en": "my name is",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Ich heiße Sofia und komme aus Italien.",
+      "literal": "I am called",
+      "notes": "",
+      "tags": [
+        "introducing-yourself"
+      ]
+    },
+    {
+      "de": "wie heißt du",
+      "en": "what's your name",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Hallo, wie heißt du?",
+      "literal": "",
+      "notes": "Formal: Wie heißen Sie?",
+      "tags": [
+        "introducing-yourself"
+      ]
+    },
+    {
+      "de": "wie ist Ihr Name",
+      "en": "what is your name",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Guten Tag, wie ist Ihr Name?",
+      "literal": "",
+      "notes": "Polite, at a counter.",
+      "tags": [
+        "introducing-yourself"
+      ]
+    },
+    {
+      "de": "freut mich",
+      "en": "nice to meet you",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Freut mich, Sie kennenzulernen!",
+      "literal": "it pleases me",
+      "notes": "",
+      "tags": [
+        "introducing-yourself"
+      ]
+    },
+    {
+      "de": "sehr angenehm",
+      "en": "very pleased to meet you",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Sehr angenehm, Herr Klein!",
+      "literal": "",
+      "notes": "Formal.",
+      "tags": [
+        "introducing-yourself"
+      ]
+    },
+    {
+      "de": "darf ich mich vorstellen",
+      "en": "may I introduce myself",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Darf ich mich vorstellen? Ich bin der neue Kollege.",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "introducing-yourself"
+      ]
+    },
+    {
+      "de": "das ist meine Kollegin",
+      "en": "this is my colleague",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Das ist meine Kollegin Frau Sahin.",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "introducing-yourself"
+      ]
+    },
+    {
+      "de": "woher kommst du",
+      "en": "where are you from",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Woher kommst du? Aus Polen?",
+      "literal": "",
+      "notes": "Formal: Woher kommen Sie?",
+      "tags": [
+        "introducing-yourself"
+      ]
+    },
+    {
+      "de": "ich komme aus",
+      "en": "I come from",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Ich komme aus Indien.",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "introducing-yourself"
+      ]
+    },
+    {
+      "de": "ich wohne in",
+      "en": "I live in",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Ich wohne in München.",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "introducing-yourself"
+      ]
+    },
+    {
+      "de": "ich bin zwanzig Jahre alt",
+      "en": "I am twenty years old",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Ich bin zwanzig Jahre alt.",
+      "literal": "",
+      "notes": "Say the number, then Jahre alt.",
+      "tags": [
+        "introducing-yourself"
+      ]
+    },
+    {
+      "de": "wie alt bist du",
+      "en": "how old are you",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Wie alt bist du denn?",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "introducing-yourself"
+      ]
+    },
+    {
+      "de": "kennenlernen",
+      "en": "to get to know, to meet",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich möchte deine Familie kennenlernen.",
+      "present": "ich lerne kennen · du lernst kennen",
+      "praet": "er lernte kennen",
+      "perfekt": "hat kennengelernt",
+      "notes": "Separable.",
+      "tags": [
+        "introducing-yourself"
+      ]
+    },
+    {
+      "de": "duzen",
+      "en": "to say du to someone",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Meine Kollegen duzen sich alle.",
+      "present": "ich duze · du duzt · er duzt",
+      "praet": "er duzte",
+      "perfekt": "hat geduzt",
+      "notes": "Informal address, for friends and family.",
+      "tags": [
+        "introducing-yourself"
+      ]
+    },
+    {
+      "de": "siezen",
+      "en": "to say Sie to someone",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Man siezt fremde Menschen.",
+      "present": "ich sieze · du siezt · er siezt",
+      "praet": "er siezte",
+      "perfekt": "hat gesiezt",
+      "notes": "Polite address, for strangers and at work.",
+      "tags": [
+        "introducing-yourself"
+      ]
+    },
+    {
+      "de": "die Visitenkarte",
+      "en": "business card",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Visitenkarten",
+      "example": "Hier ist meine Visitenkarte.",
+      "notes": "",
+      "tags": [
+        "introducing-yourself"
+      ]
+    },
+    {
+      "de": "die Vorstellung",
+      "en": "introduction",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Vorstellungen",
+      "example": "Die Vorstellung dauerte nur zwei Minuten.",
+      "notes": "",
+      "tags": [
+        "introducing-yourself"
+      ]
+    },
+    {
+      "de": "der Herr",
+      "en": "Mr, gentleman",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Herren",
+      "example": "Guten Tag, Herr Schmidt!",
+      "notes": "",
+      "tags": [
+        "introducing-yourself"
+      ]
+    },
+    {
+      "de": "die Dame",
+      "en": "lady",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Damen",
+      "example": "Die Dame dort wartet auf Sie.",
+      "notes": "",
+      "tags": [
+        "introducing-yourself"
+      ]
+    },
+    {
+      "de": "das Fräulein",
+      "en": "young lady",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Fräulein",
+      "example": "Das Wort Fräulein benutzt man heute nicht mehr.",
+      "notes": "Old-fashioned, avoid it.",
+      "tags": [
+        "introducing-yourself"
+      ]
+    },
+    {
+      "de": "Frau",
+      "en": "Mrs, Ms",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Frau Weber ist meine Lehrerin.",
+      "notes": "Used for every adult woman today.",
+      "tags": [
+        "introducing-yourself"
+      ]
+    },
+    {
+      "de": "ich bin neu hier",
+      "en": "I'm new here",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Ich bin neu hier und kenne noch niemanden.",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "introducing-yourself"
+      ]
+    },
+    {
+      "de": "wir kennen uns schon",
+      "en": "we already know each other",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Wir kennen uns schon vom Kurs.",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "introducing-yourself"
+      ]
+    },
+    {
+      "de": "wie bitte",
+      "en": "pardon?",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Wie bitte? Können Sie das wiederholen?",
+      "literal": "",
+      "notes": "Ask this instead of Was?",
+      "tags": [
+        "introducing-yourself"
+      ]
+    },
+    {
+      "de": "bekannt",
+      "en": "known, familiar",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Dieses Gesicht ist mir bekannt.",
+      "comp": "bekannter",
+      "super": "am bekanntesten",
+      "notes": "",
+      "tags": [
+        "introducing-yourself"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,424 @@
+{
+  "app": "wortschatz",
+  "v": 1,
+  "words": [
+    {
+      "de": "die Natur",
+      "en": "nature",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "In der Natur kann ich abschalten.",
+      "notes": "",
+      "tags": [
+        "nature-and-environment"
+      ]
+    },
+    {
+      "de": "der Baum",
+      "en": "tree",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Bäume",
+      "example": "Der Baum vor dem Haus ist alt.",
+      "notes": "",
+      "tags": [
+        "nature-and-environment"
+      ]
+    },
+    {
+      "de": "die Blume",
+      "en": "flower",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Blumen",
+      "example": "Die Blumen brauchen Wasser.",
+      "notes": "",
+      "tags": [
+        "nature-and-environment"
+      ]
+    },
+    {
+      "de": "die Pflanze",
+      "en": "plant",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Pflanzen",
+      "example": "Die Pflanze steht am Fenster.",
+      "notes": "",
+      "tags": [
+        "nature-and-environment"
+      ]
+    },
+    {
+      "de": "das Blatt",
+      "en": "leaf, sheet",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Blätter",
+      "example": "Im Herbst fallen die Blätter.",
+      "notes": "",
+      "tags": [
+        "nature-and-environment"
+      ]
+    },
+    {
+      "de": "das Gras",
+      "en": "grass",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Gräser",
+      "example": "Das Gras ist noch nass.",
+      "notes": "",
+      "tags": [
+        "nature-and-environment"
+      ]
+    },
+    {
+      "de": "der Wald",
+      "en": "forest, wood",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Wälder",
+      "example": "Im Wald ist es kühl.",
+      "notes": "",
+      "tags": [
+        "nature-and-environment"
+      ]
+    },
+    {
+      "de": "die Wiese",
+      "en": "meadow",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Wiesen",
+      "example": "Auf der Wiese liegen Kinder.",
+      "notes": "",
+      "tags": [
+        "nature-and-environment"
+      ]
+    },
+    {
+      "de": "das Feld",
+      "en": "field",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Felder",
+      "example": "Das Feld gehört dem Bauern.",
+      "notes": "",
+      "tags": [
+        "nature-and-environment"
+      ]
+    },
+    {
+      "de": "der Berg",
+      "en": "mountain",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Berge",
+      "example": "Der Berg ist 2000 Meter hoch.",
+      "notes": "",
+      "tags": [
+        "nature-and-environment"
+      ]
+    },
+    {
+      "de": "das Tal",
+      "en": "valley",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Täler",
+      "example": "Im Tal liegt Nebel.",
+      "notes": "",
+      "tags": [
+        "nature-and-environment"
+      ]
+    },
+    {
+      "de": "der Fluss",
+      "en": "river",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Flüsse",
+      "example": "Der Fluss fließt durch die Stadt.",
+      "notes": "",
+      "tags": [
+        "nature-and-environment"
+      ]
+    },
+    {
+      "de": "die Insel",
+      "en": "island",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Inseln",
+      "example": "Die Insel ist klein und ruhig.",
+      "notes": "",
+      "tags": [
+        "nature-and-environment"
+      ]
+    },
+    {
+      "de": "der Stein",
+      "en": "stone",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Steine",
+      "example": "Der Stein ist schwer.",
+      "notes": "",
+      "tags": [
+        "nature-and-environment"
+      ]
+    },
+    {
+      "de": "der Sand",
+      "en": "sand",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Der Sand ist heiß.",
+      "notes": "",
+      "tags": [
+        "nature-and-environment"
+      ]
+    },
+    {
+      "de": "die Erde",
+      "en": "earth, soil",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Die Erde ist trocken.",
+      "notes": "",
+      "tags": [
+        "nature-and-environment"
+      ]
+    },
+    {
+      "de": "die Luft",
+      "en": "air",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Die Luft ist hier sauber.",
+      "notes": "",
+      "tags": [
+        "nature-and-environment"
+      ]
+    },
+    {
+      "de": "das Holz",
+      "en": "wood (material)",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Hölzer",
+      "example": "Der Tisch ist aus Holz.",
+      "notes": "",
+      "tags": [
+        "nature-and-environment"
+      ]
+    },
+    {
+      "de": "die Umwelt",
+      "en": "environment",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Wir müssen die Umwelt schützen.",
+      "notes": "",
+      "tags": [
+        "nature-and-environment"
+      ]
+    },
+    {
+      "de": "der Umweltschutz",
+      "en": "environmental protection",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Umweltschutz beginnt zu Hause.",
+      "notes": "",
+      "tags": [
+        "nature-and-environment"
+      ]
+    },
+    {
+      "de": "das Recycling",
+      "en": "recycling",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "",
+      "example": "Recycling ist hier ganz normal.",
+      "notes": "",
+      "tags": [
+        "nature-and-environment"
+      ]
+    },
+    {
+      "de": "die Luftverschmutzung",
+      "en": "air pollution",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "In der Stadt ist die Luftverschmutzung hoch.",
+      "notes": "",
+      "tags": [
+        "nature-and-environment"
+      ]
+    },
+    {
+      "de": "die Energie",
+      "en": "energy",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Energien",
+      "example": "Wir sparen Energie im Winter.",
+      "notes": "",
+      "tags": [
+        "nature-and-environment"
+      ]
+    },
+    {
+      "de": "die Sonnenblume",
+      "en": "sunflower",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Sonnenblumen",
+      "example": "Die Sonnenblume wird sehr hoch.",
+      "notes": "",
+      "tags": [
+        "nature-and-environment"
+      ]
+    },
+    {
+      "de": "pflanzen",
+      "en": "to plant",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Wir pflanzen einen Baum im Garten.",
+      "present": "ich pflanze · du pflanzt · er pflanzt",
+      "praet": "er pflanzte",
+      "perfekt": "hat gepflanzt",
+      "notes": "",
+      "tags": [
+        "nature-and-environment"
+      ]
+    },
+    {
+      "de": "wachsen",
+      "en": "to grow",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Die Blumen wachsen schnell.",
+      "present": "ich wachse · du wächst · er wächst",
+      "praet": "er wuchs",
+      "perfekt": "ist gewachsen",
+      "notes": "",
+      "tags": [
+        "nature-and-environment"
+      ]
+    },
+    {
+      "de": "schützen",
+      "en": "to protect",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Wir schützen die Natur.",
+      "present": "ich schütze · du schützt · er schützt",
+      "praet": "er schützte",
+      "perfekt": "hat geschützt",
+      "notes": "",
+      "tags": [
+        "nature-and-environment"
+      ]
+    },
+    {
+      "de": "trennen",
+      "en": "to separate, to sort",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "In Deutschland trennt man den Müll.",
+      "present": "ich trenne · du trennst · er trennt",
+      "praet": "er trennte",
+      "perfekt": "hat getrennt",
+      "notes": "",
+      "tags": [
+        "nature-and-environment"
+      ]
+    },
+    {
+      "de": "spazieren fahren",
+      "en": "to go for a ride",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Am Sonntag fahren wir ins Grüne spazieren.",
+      "present": "ich fahre spazieren",
+      "praet": "er fuhr spazieren",
+      "perfekt": "ist spazieren gefahren",
+      "notes": "",
+      "tags": [
+        "nature-and-environment"
+      ]
+    },
+    {
+      "de": "natürlich",
+      "en": "natural",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Das ist ein natürliches Material.",
+      "comp": "natürlicher",
+      "super": "am natürlichsten",
+      "notes": "",
+      "tags": [
+        "nature-and-environment"
+      ]
+    },
+    {
+      "de": "umweltfreundlich",
+      "en": "environmentally friendly",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Das Rad ist umweltfreundlich.",
+      "comp": "umweltfreundlicher",
+      "super": "am umweltfreundlichsten",
+      "notes": "",
+      "tags": [
+        "nature-and-environment"
+      ]
+    },
+    {
+      "de": "wunderschön",
+      "en": "beautiful",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Die Landschaft ist wunderschön.",
+      "comp": "wunderschöner",
+      "super": "am wunderschönsten",
+      "notes": "",
+      "tags": [
+        "nature-and-environment"
+      ]
+    },
+    {
+      "de": "raus ins Grüne",
+      "en": "out into the countryside",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Am Sonntag fahren wir raus ins Grüne.",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "nature-and-environment"
+      ]
+    }
+  ]
+}

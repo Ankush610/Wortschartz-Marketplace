@@ -1,0 +1,397 @@
+{
+  "app": "wortschatz",
+  "v": 1,
+  "words": [
+    {
+      "de": "die Musik",
+      "en": "music",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Ich höre gern laute Musik.",
+      "notes": "",
+      "tags": [
+        "music-films-and-tv"
+      ]
+    },
+    {
+      "de": "das Lied",
+      "en": "song",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Lieder",
+      "example": "Das Lied kenne ich.",
+      "notes": "",
+      "tags": [
+        "music-films-and-tv"
+      ]
+    },
+    {
+      "de": "der Sänger",
+      "en": "singer",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Sänger",
+      "example": "Der Sänger hat eine tiefe Stimme.",
+      "notes": "Female: die Sängerin.",
+      "tags": [
+        "music-films-and-tv"
+      ]
+    },
+    {
+      "de": "die Band",
+      "en": "band",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Bands",
+      "example": "Die Band spielt heute Abend.",
+      "notes": "",
+      "tags": [
+        "music-films-and-tv"
+      ]
+    },
+    {
+      "de": "das Konzert",
+      "en": "concert",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Konzerte",
+      "example": "Das Konzert war ausverkauft.",
+      "notes": "",
+      "tags": [
+        "music-films-and-tv"
+      ]
+    },
+    {
+      "de": "das Instrument",
+      "en": "instrument",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Instrumente",
+      "example": "Spielst du ein Instrument?",
+      "notes": "",
+      "tags": [
+        "music-films-and-tv"
+      ]
+    },
+    {
+      "de": "die Gitarre",
+      "en": "guitar",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Gitarren",
+      "example": "Ich lerne Gitarre.",
+      "notes": "",
+      "tags": [
+        "music-films-and-tv"
+      ]
+    },
+    {
+      "de": "das Klavier",
+      "en": "piano",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Klaviere",
+      "example": "Das Klavier steht im Wohnzimmer.",
+      "notes": "",
+      "tags": [
+        "music-films-and-tv"
+      ]
+    },
+    {
+      "de": "der Film",
+      "en": "film, movie",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Filme",
+      "example": "Der Film dauert zwei Stunden.",
+      "notes": "",
+      "tags": [
+        "music-films-and-tv"
+      ]
+    },
+    {
+      "de": "das Kino",
+      "en": "cinema",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Kinos",
+      "example": "Gehen wir heute ins Kino?",
+      "notes": "",
+      "tags": [
+        "music-films-and-tv"
+      ]
+    },
+    {
+      "de": "der Schauspieler",
+      "en": "actor",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Schauspieler",
+      "example": "Der Schauspieler ist berühmt.",
+      "notes": "Female: die Schauspielerin.",
+      "tags": [
+        "music-films-and-tv"
+      ]
+    },
+    {
+      "de": "die Serie",
+      "en": "series, show",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Serien",
+      "example": "Die Serie hat vier Staffeln.",
+      "notes": "",
+      "tags": [
+        "music-films-and-tv"
+      ]
+    },
+    {
+      "de": "der Fernseher",
+      "en": "TV set",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Fernseher",
+      "example": "Der Fernseher ist zu groß.",
+      "notes": "",
+      "tags": [
+        "music-films-and-tv"
+      ]
+    },
+    {
+      "de": "das Fernsehen",
+      "en": "television",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "",
+      "example": "Im Fernsehen kommt nichts Gutes.",
+      "notes": "",
+      "tags": [
+        "music-films-and-tv"
+      ]
+    },
+    {
+      "de": "die Sendung",
+      "en": "programme, show",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Sendungen",
+      "example": "Die Sendung läuft um acht.",
+      "notes": "",
+      "tags": [
+        "music-films-and-tv"
+      ]
+    },
+    {
+      "de": "das Programm",
+      "en": "channel, programme",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Programme",
+      "example": "Auf welchem Programm kommt das?",
+      "notes": "",
+      "tags": [
+        "music-films-and-tv"
+      ]
+    },
+    {
+      "de": "das Radio",
+      "en": "radio",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Radios",
+      "example": "Im Auto höre ich Radio.",
+      "notes": "",
+      "tags": [
+        "music-films-and-tv"
+      ]
+    },
+    {
+      "de": "die Bühne",
+      "en": "stage",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Bühnen",
+      "example": "Auf der Bühne stehen fünf Musiker.",
+      "notes": "",
+      "tags": [
+        "music-films-and-tv"
+      ]
+    },
+    {
+      "de": "der Zuschauer",
+      "en": "viewer, spectator",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Zuschauer",
+      "example": "Die Zuschauer klatschen.",
+      "notes": "",
+      "tags": [
+        "music-films-and-tv"
+      ]
+    },
+    {
+      "de": "die Stimme",
+      "en": "voice",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Stimmen",
+      "example": "Sie hat eine schöne Stimme.",
+      "notes": "",
+      "tags": [
+        "music-films-and-tv"
+      ]
+    },
+    {
+      "de": "die Aufführung",
+      "en": "performance",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Aufführungen",
+      "example": "Die Aufführung beginnt um 19 Uhr.",
+      "notes": "",
+      "tags": [
+        "music-films-and-tv"
+      ]
+    },
+    {
+      "de": "das Theater",
+      "en": "theatre",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Theater",
+      "example": "Wir gehen einmal im Jahr ins Theater.",
+      "notes": "",
+      "tags": [
+        "music-films-and-tv"
+      ]
+    },
+    {
+      "de": "anschauen",
+      "en": "to watch",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Wir schauen uns den Film zu Hause an.",
+      "present": "ich schaue an · du schaust an",
+      "praet": "er schaute an",
+      "perfekt": "hat angeschaut",
+      "notes": "Separable.",
+      "tags": [
+        "music-films-and-tv"
+      ]
+    },
+    {
+      "de": "laufen lassen",
+      "en": "to have on, to play (media)",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich lasse im Hintergrund Musik laufen.",
+      "present": "ich lasse laufen · du lässt laufen",
+      "praet": "er ließ laufen",
+      "perfekt": "hat laufen lassen",
+      "notes": "",
+      "tags": [
+        "music-films-and-tv"
+      ]
+    },
+    {
+      "de": "klatschen",
+      "en": "to clap",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Alle klatschen am Ende.",
+      "present": "ich klatsche · du klatschst · er klatscht",
+      "praet": "er klatschte",
+      "perfekt": "hat geklatscht",
+      "notes": "",
+      "tags": [
+        "music-films-and-tv"
+      ]
+    },
+    {
+      "de": "laut",
+      "en": "loud",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Die Musik ist zu laut.",
+      "comp": "lauter",
+      "super": "am lautesten",
+      "notes": "",
+      "tags": [
+        "music-films-and-tv"
+      ]
+    },
+    {
+      "de": "leise",
+      "en": "quiet, soft",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Stell den Fernseher leiser.",
+      "comp": "leiser",
+      "super": "am leisesten",
+      "notes": "",
+      "tags": [
+        "music-films-and-tv"
+      ]
+    },
+    {
+      "de": "berühmt",
+      "en": "famous",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Der Regisseur ist berühmt.",
+      "comp": "berühmter",
+      "super": "am berühmtesten",
+      "notes": "",
+      "tags": [
+        "music-films-and-tv"
+      ]
+    },
+    {
+      "de": "live",
+      "en": "live",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Das Konzert war live im Radio.",
+      "comp": "",
+      "super": "",
+      "notes": "",
+      "tags": [
+        "music-films-and-tv"
+      ]
+    },
+    {
+      "de": "was läuft im Fernsehen",
+      "en": "what's on TV",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Was läuft heute Abend im Fernsehen?",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "music-films-and-tv"
+      ]
+    },
+    {
+      "de": "ich höre gern Musik",
+      "en": "I like listening to music",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Ich höre gern Musik beim Kochen.",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "music-films-and-tv"
+      ]
+    }
+  ]
+}

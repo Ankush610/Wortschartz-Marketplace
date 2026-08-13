@@ -1,0 +1,416 @@
+{
+  "app": "wortschatz",
+  "v": 1,
+  "words": [
+    {
+      "de": "der Alltag",
+      "en": "everyday life",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Mein Alltag ist ruhig.",
+      "notes": "",
+      "tags": [
+        "daily-routine"
+      ]
+    },
+    {
+      "de": "der Tagesablauf",
+      "en": "daily routine",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Tagesabläufe",
+      "example": "Mein Tagesablauf ist immer gleich.",
+      "notes": "",
+      "tags": [
+        "daily-routine"
+      ]
+    },
+    {
+      "de": "der Wecker",
+      "en": "alarm clock",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Wecker",
+      "example": "Mein Wecker klingelt um sechs.",
+      "notes": "",
+      "tags": [
+        "daily-routine"
+      ]
+    },
+    {
+      "de": "die Gewohnheit",
+      "en": "habit",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Gewohnheiten",
+      "example": "Das ist eine gute Gewohnheit.",
+      "notes": "",
+      "tags": [
+        "daily-routine"
+      ]
+    },
+    {
+      "de": "aufwachen",
+      "en": "to wake up",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich wache jeden Tag früh auf.",
+      "present": "ich wache auf · du wachst auf",
+      "praet": "er wachte auf",
+      "perfekt": "ist aufgewacht",
+      "notes": "Separable.",
+      "tags": [
+        "daily-routine"
+      ]
+    },
+    {
+      "de": "sich waschen",
+      "en": "to wash oneself",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich wasche mich schnell.",
+      "present": "ich wasche mich · du wäschst dich",
+      "praet": "er wusch sich",
+      "perfekt": "hat sich gewaschen",
+      "notes": "",
+      "tags": [
+        "daily-routine"
+      ]
+    },
+    {
+      "de": "sich anziehen",
+      "en": "to get dressed",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich ziehe mich nach dem Duschen an.",
+      "present": "ich ziehe mich an · du ziehst dich an",
+      "praet": "er zog sich an",
+      "perfekt": "hat sich angezogen",
+      "notes": "Separable and reflexive.",
+      "tags": [
+        "daily-routine"
+      ]
+    },
+    {
+      "de": "rasieren",
+      "en": "to shave",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Er rasiert sich jeden Morgen.",
+      "present": "ich rasiere · du rasierst · er rasiert",
+      "praet": "er rasierte",
+      "perfekt": "hat rasiert",
+      "notes": "Reflexive: sich rasieren.",
+      "tags": [
+        "daily-routine"
+      ]
+    },
+    {
+      "de": "kämmen",
+      "en": "to comb",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Sie kämmt sich die Haare.",
+      "present": "ich kämme · du kämmst · er kämmt",
+      "praet": "er kämmte",
+      "perfekt": "hat gekämmt",
+      "notes": "Reflexive: sich kämmen.",
+      "tags": [
+        "daily-routine"
+      ]
+    },
+    {
+      "de": "schminken",
+      "en": "to put on make-up",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich schminke mich selten.",
+      "present": "ich schminke · du schminkst · er schminkt",
+      "praet": "er schminkte",
+      "perfekt": "hat geschminkt",
+      "notes": "Reflexive: sich schminken.",
+      "tags": [
+        "daily-routine"
+      ]
+    },
+    {
+      "de": "sich beeilen",
+      "en": "to hurry",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Beeil dich, der Bus kommt!",
+      "present": "ich beeile mich · du beeilst dich",
+      "praet": "er beeilte sich",
+      "perfekt": "hat sich beeilt",
+      "notes": "",
+      "tags": [
+        "daily-routine"
+      ]
+    },
+    {
+      "de": "sich ausruhen",
+      "en": "to rest",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Nach der Arbeit ruhe ich mich aus.",
+      "present": "ich ruhe mich aus · du ruhst dich aus",
+      "praet": "er ruhte sich aus",
+      "perfekt": "hat sich ausgeruht",
+      "notes": "Separable and reflexive.",
+      "tags": [
+        "daily-routine"
+      ]
+    },
+    {
+      "de": "spazieren gehen",
+      "en": "to go for a walk",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Abends gehen wir eine halbe Stunde spazieren.",
+      "present": "ich gehe spazieren · du gehst spazieren",
+      "praet": "er ging spazieren",
+      "perfekt": "ist spazieren gegangen",
+      "notes": "",
+      "tags": [
+        "daily-routine"
+      ]
+    },
+    {
+      "de": "einschlafen",
+      "en": "to fall asleep",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich schlafe sofort ein.",
+      "present": "ich schlafe ein · du schläfst ein",
+      "praet": "er schlief ein",
+      "perfekt": "ist eingeschlafen",
+      "notes": "Separable.",
+      "tags": [
+        "daily-routine"
+      ]
+    },
+    {
+      "de": "ins Bett gehen",
+      "en": "to go to bed",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich gehe um elf ins Bett.",
+      "present": "ich gehe ins Bett",
+      "praet": "er ging ins Bett",
+      "perfekt": "ist ins Bett gegangen",
+      "notes": "",
+      "tags": [
+        "daily-routine"
+      ]
+    },
+    {
+      "de": "morgens",
+      "en": "in the morning(s)",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Morgens trinke ich Kaffee.",
+      "notes": "",
+      "tags": [
+        "daily-routine"
+      ]
+    },
+    {
+      "de": "mittags",
+      "en": "at midday",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Mittags esse ich in der Kantine.",
+      "notes": "",
+      "tags": [
+        "daily-routine"
+      ]
+    },
+    {
+      "de": "abends",
+      "en": "in the evening(s)",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Abends lese ich gern.",
+      "notes": "",
+      "tags": [
+        "daily-routine"
+      ]
+    },
+    {
+      "de": "immer",
+      "en": "always",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich stehe immer um sechs auf.",
+      "notes": "",
+      "tags": [
+        "daily-routine"
+      ]
+    },
+    {
+      "de": "oft",
+      "en": "often",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich koche oft am Wochenende.",
+      "notes": "",
+      "tags": [
+        "daily-routine"
+      ]
+    },
+    {
+      "de": "manchmal",
+      "en": "sometimes",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Manchmal fahre ich mit dem Rad.",
+      "notes": "",
+      "tags": [
+        "daily-routine"
+      ]
+    },
+    {
+      "de": "selten",
+      "en": "rarely",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich sehe selten fern.",
+      "notes": "",
+      "tags": [
+        "daily-routine"
+      ]
+    },
+    {
+      "de": "nie",
+      "en": "never",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich trinke nie Alkohol.",
+      "notes": "",
+      "tags": [
+        "daily-routine"
+      ]
+    },
+    {
+      "de": "normalerweise",
+      "en": "normally, usually",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Normalerweise arbeite ich bis fünf.",
+      "notes": "",
+      "tags": [
+        "daily-routine"
+      ]
+    },
+    {
+      "de": "meistens",
+      "en": "mostly",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Meistens frühstücke ich zu Hause.",
+      "notes": "",
+      "tags": [
+        "daily-routine"
+      ]
+    },
+    {
+      "de": "zuerst",
+      "en": "first (of all)",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Zuerst dusche ich.",
+      "notes": "",
+      "tags": [
+        "daily-routine"
+      ]
+    },
+    {
+      "de": "danach",
+      "en": "after that",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Danach mache ich Frühstück.",
+      "notes": "",
+      "tags": [
+        "daily-routine"
+      ]
+    },
+    {
+      "de": "schließlich",
+      "en": "finally",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Schließlich gehe ich aus dem Haus.",
+      "notes": "",
+      "tags": [
+        "daily-routine"
+      ]
+    },
+    {
+      "de": "früh",
+      "en": "early",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Ich stehe sehr früh auf.",
+      "comp": "früher",
+      "super": "am frühesten",
+      "notes": "",
+      "tags": [
+        "daily-routine"
+      ]
+    },
+    {
+      "de": "spät",
+      "en": "late",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Gestern war ich spät zu Hause.",
+      "comp": "später",
+      "super": "am spätesten",
+      "notes": "",
+      "tags": [
+        "daily-routine"
+      ]
+    },
+    {
+      "de": "jeden Tag",
+      "en": "every day",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Ich lerne jeden Tag zwanzig Minuten.",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "daily-routine"
+      ]
+    }
+  ]
+}

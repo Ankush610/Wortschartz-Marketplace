@@ -1,0 +1,371 @@
+{
+  "app": "wortschatz",
+  "v": 1,
+  "words": [
+    {
+      "de": "die Apotheke",
+      "en": "pharmacy",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Apotheken",
+      "example": "Die Apotheke ist gegenüber vom Bahnhof.",
+      "notes": "",
+      "tags": [
+        "pharmacy-and-medicine"
+      ]
+    },
+    {
+      "de": "der Apotheker",
+      "en": "pharmacist",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Apotheker",
+      "example": "Der Apotheker erklärt mir die Tabletten.",
+      "notes": "Female: die Apothekerin.",
+      "tags": [
+        "pharmacy-and-medicine"
+      ]
+    },
+    {
+      "de": "das Medikament",
+      "en": "medicine, drug",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Medikamente",
+      "example": "Dieses Medikament nehme ich morgens.",
+      "notes": "",
+      "tags": [
+        "pharmacy-and-medicine"
+      ]
+    },
+    {
+      "de": "das Rezept",
+      "en": "prescription",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Rezepte",
+      "example": "Ohne Rezept bekomme ich das nicht.",
+      "notes": "",
+      "tags": [
+        "pharmacy-and-medicine"
+      ]
+    },
+    {
+      "de": "die Tablette",
+      "en": "tablet, pill",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Tabletten",
+      "example": "Nimm zwei Tabletten am Tag.",
+      "notes": "",
+      "tags": [
+        "pharmacy-and-medicine"
+      ]
+    },
+    {
+      "de": "die Salbe",
+      "en": "ointment, cream",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Salben",
+      "example": "Die Salbe hilft gegen den Ausschlag.",
+      "notes": "",
+      "tags": [
+        "pharmacy-and-medicine"
+      ]
+    },
+    {
+      "de": "die Tropfen",
+      "en": "drops",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Die Tropfen sind für die Nase.",
+      "notes": "Plural. Singular: der Tropfen.",
+      "tags": [
+        "pharmacy-and-medicine"
+      ]
+    },
+    {
+      "de": "der Hustensaft",
+      "en": "cough syrup",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Hustensäfte",
+      "example": "Der Hustensaft schmeckt süß.",
+      "notes": "",
+      "tags": [
+        "pharmacy-and-medicine"
+      ]
+    },
+    {
+      "de": "das Pflaster",
+      "en": "plaster, band-aid",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Pflaster",
+      "example": "Ich brauche ein Pflaster für den Finger.",
+      "notes": "",
+      "tags": [
+        "pharmacy-and-medicine"
+      ]
+    },
+    {
+      "de": "der Verband",
+      "en": "bandage",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Verbände",
+      "example": "Der Verband muss trocken bleiben.",
+      "notes": "",
+      "tags": [
+        "pharmacy-and-medicine"
+      ]
+    },
+    {
+      "de": "das Schmerzmittel",
+      "en": "painkiller",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Schmerzmittel",
+      "example": "Ein Schmerzmittel hilft schnell.",
+      "notes": "",
+      "tags": [
+        "pharmacy-and-medicine"
+      ]
+    },
+    {
+      "de": "das Vitamin",
+      "en": "vitamin",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Vitamine",
+      "example": "Obst hat viele Vitamine.",
+      "notes": "",
+      "tags": [
+        "pharmacy-and-medicine"
+      ]
+    },
+    {
+      "de": "das Fieberthermometer",
+      "en": "thermometer",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Fieberthermometer",
+      "example": "Wo ist das Fieberthermometer?",
+      "notes": "",
+      "tags": [
+        "pharmacy-and-medicine"
+      ]
+    },
+    {
+      "de": "die Spritze",
+      "en": "injection, syringe",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Spritzen",
+      "example": "Vor der Spritze habe ich Angst.",
+      "notes": "",
+      "tags": [
+        "pharmacy-and-medicine"
+      ]
+    },
+    {
+      "de": "die Impfung",
+      "en": "vaccination",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Impfungen",
+      "example": "Die Impfung war kostenlos.",
+      "notes": "",
+      "tags": [
+        "pharmacy-and-medicine"
+      ]
+    },
+    {
+      "de": "die Packung",
+      "en": "packet, box",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Packungen",
+      "example": "Eine Packung reicht für zehn Tage.",
+      "notes": "",
+      "tags": [
+        "pharmacy-and-medicine"
+      ]
+    },
+    {
+      "de": "die Nebenwirkung",
+      "en": "side effect",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Nebenwirkungen",
+      "example": "Das Mittel hat wenig Nebenwirkungen.",
+      "notes": "",
+      "tags": [
+        "pharmacy-and-medicine"
+      ]
+    },
+    {
+      "de": "der Beipackzettel",
+      "en": "package insert",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Beipackzettel",
+      "example": "Lies bitte den Beipackzettel.",
+      "notes": "",
+      "tags": [
+        "pharmacy-and-medicine"
+      ]
+    },
+    {
+      "de": "das Taschentuch",
+      "en": "tissue, handkerchief",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Taschentücher",
+      "example": "Hast du ein Taschentuch für mich?",
+      "notes": "",
+      "tags": [
+        "pharmacy-and-medicine"
+      ]
+    },
+    {
+      "de": "der Kräutertee",
+      "en": "herbal tea",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Kräutertees",
+      "example": "Kräutertee ist gut bei Halsschmerzen.",
+      "notes": "",
+      "tags": [
+        "pharmacy-and-medicine"
+      ]
+    },
+    {
+      "de": "die Notapotheke",
+      "en": "emergency pharmacy",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Notapotheken",
+      "example": "Nachts hilft nur die Notapotheke.",
+      "notes": "",
+      "tags": [
+        "pharmacy-and-medicine"
+      ]
+    },
+    {
+      "de": "einnehmen",
+      "en": "to take (medicine)",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Nehmen Sie die Tablette nach dem Essen ein.",
+      "present": "ich nehme ein · du nimmst ein · er nimmt ein",
+      "praet": "er nahm ein",
+      "perfekt": "hat eingenommen",
+      "notes": "Separable.",
+      "tags": [
+        "pharmacy-and-medicine"
+      ]
+    },
+    {
+      "de": "wirken",
+      "en": "to work, to have an effect",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Die Tabletten wirken nach einer Stunde.",
+      "present": "ich wirke · du wirkst · er wirkt",
+      "praet": "er wirkte",
+      "perfekt": "hat gewirkt",
+      "notes": "",
+      "tags": [
+        "pharmacy-and-medicine"
+      ]
+    },
+    {
+      "de": "holen",
+      "en": "to fetch, to get",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich hole das Medikament aus der Apotheke.",
+      "present": "ich hole · du holst · er holt",
+      "praet": "er holte",
+      "perfekt": "hat geholt",
+      "notes": "",
+      "tags": [
+        "pharmacy-and-medicine"
+      ]
+    },
+    {
+      "de": "rezeptfrei",
+      "en": "over the counter",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Das ist rezeptfrei zu haben.",
+      "comp": "",
+      "super": "",
+      "notes": "",
+      "tags": [
+        "pharmacy-and-medicine"
+      ]
+    },
+    {
+      "de": "rezeptpflichtig",
+      "en": "prescription-only",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Antibiotika sind rezeptpflichtig.",
+      "comp": "",
+      "super": "",
+      "notes": "",
+      "tags": [
+        "pharmacy-and-medicine"
+      ]
+    },
+    {
+      "de": "täglich",
+      "en": "daily",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Nehmen Sie das Mittel dreimal täglich.",
+      "comp": "",
+      "super": "",
+      "notes": "",
+      "tags": [
+        "pharmacy-and-medicine"
+      ]
+    },
+    {
+      "de": "haben Sie etwas gegen Kopfschmerzen",
+      "en": "do you have something for a headache",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Haben Sie etwas gegen Kopfschmerzen?",
+      "literal": "",
+      "notes": "The standard question at the counter.",
+      "tags": [
+        "pharmacy-and-medicine"
+      ]
+    },
+    {
+      "de": "dreimal täglich vor dem Essen",
+      "en": "three times a day before meals",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Dreimal täglich vor dem Essen einnehmen.",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "pharmacy-and-medicine"
+      ]
+    }
+  ]
+}

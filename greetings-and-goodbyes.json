@@ -1,0 +1,407 @@
+{
+  "app": "wortschatz",
+  "v": 1,
+  "words": [
+    {
+      "de": "hallo",
+      "en": "hello",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Hallo, wie geht es dir?",
+      "notes": "Works at any time of day.",
+      "tags": [
+        "greetings-and-goodbyes"
+      ]
+    },
+    {
+      "de": "guten Morgen",
+      "en": "good morning",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Guten Morgen, hast du gut geschlafen?",
+      "literal": "",
+      "notes": "Until about 10 a.m.",
+      "tags": [
+        "greetings-and-goodbyes"
+      ]
+    },
+    {
+      "de": "guten Tag",
+      "en": "good day, hello",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Guten Tag, ich möchte einen Termin.",
+      "literal": "",
+      "notes": "The neutral, polite greeting.",
+      "tags": [
+        "greetings-and-goodbyes"
+      ]
+    },
+    {
+      "de": "guten Abend",
+      "en": "good evening",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Guten Abend, schön Sie zu sehen.",
+      "literal": "",
+      "notes": "From about 6 p.m.",
+      "tags": [
+        "greetings-and-goodbyes"
+      ]
+    },
+    {
+      "de": "gute Nacht",
+      "en": "good night",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Gute Nacht, schlaf gut!",
+      "literal": "",
+      "notes": "Only when someone goes to bed.",
+      "tags": [
+        "greetings-and-goodbyes"
+      ]
+    },
+    {
+      "de": "tschüss",
+      "en": "bye",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Tschüss, bis morgen!",
+      "notes": "Informal.",
+      "tags": [
+        "greetings-and-goodbyes"
+      ]
+    },
+    {
+      "de": "auf Wiedersehen",
+      "en": "goodbye",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Auf Wiedersehen, Frau Meier!",
+      "literal": "on seeing again",
+      "notes": "Formal.",
+      "tags": [
+        "greetings-and-goodbyes"
+      ]
+    },
+    {
+      "de": "auf Wiederhören",
+      "en": "goodbye (on the phone)",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Vielen Dank, auf Wiederhören!",
+      "literal": "on hearing again",
+      "notes": "",
+      "tags": [
+        "greetings-and-goodbyes"
+      ]
+    },
+    {
+      "de": "bis bald",
+      "en": "see you soon",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Bis bald, ich melde mich!",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "greetings-and-goodbyes"
+      ]
+    },
+    {
+      "de": "bis später",
+      "en": "see you later",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Ich gehe kurz weg, bis später!",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "greetings-and-goodbyes"
+      ]
+    },
+    {
+      "de": "bis morgen",
+      "en": "see you tomorrow",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Bis morgen im Kurs!",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "greetings-and-goodbyes"
+      ]
+    },
+    {
+      "de": "schönes Wochenende",
+      "en": "have a nice weekend",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Schönes Wochenende, Herr Bauer!",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "greetings-and-goodbyes"
+      ]
+    },
+    {
+      "de": "mach's gut",
+      "en": "take care",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Mach's gut und melde dich mal!",
+      "literal": "make it good",
+      "notes": "Informal goodbye.",
+      "tags": [
+        "greetings-and-goodbyes"
+      ]
+    },
+    {
+      "de": "gute Reise",
+      "en": "have a good trip",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Gute Reise und komm gut an!",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "greetings-and-goodbyes"
+      ]
+    },
+    {
+      "de": "alles Gute",
+      "en": "all the best",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Alles Gute für dich!",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "greetings-and-goodbyes"
+      ]
+    },
+    {
+      "de": "wie geht es dir",
+      "en": "how are you",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Hallo Anna, wie geht es dir?",
+      "literal": "",
+      "notes": "Formal: Wie geht es Ihnen?",
+      "tags": [
+        "greetings-and-goodbyes"
+      ]
+    },
+    {
+      "de": "wie geht's",
+      "en": "how's it going",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Hi, wie geht's?",
+      "literal": "",
+      "notes": "Short spoken form.",
+      "tags": [
+        "greetings-and-goodbyes"
+      ]
+    },
+    {
+      "de": "danke, gut",
+      "en": "fine, thanks",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Danke, gut. Und dir?",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "greetings-and-goodbyes"
+      ]
+    },
+    {
+      "de": "und dir",
+      "en": "and you",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Mir geht es gut. Und dir?",
+      "literal": "",
+      "notes": "Formal: Und Ihnen?",
+      "tags": [
+        "greetings-and-goodbyes"
+      ]
+    },
+    {
+      "de": "es geht",
+      "en": "so-so, not bad",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Wie geht's? Es geht.",
+      "literal": "it goes",
+      "notes": "",
+      "tags": [
+        "greetings-and-goodbyes"
+      ]
+    },
+    {
+      "de": "herzlich willkommen",
+      "en": "welcome",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Herzlich willkommen in Berlin!",
+      "notes": "",
+      "tags": [
+        "greetings-and-goodbyes"
+      ]
+    },
+    {
+      "de": "servus",
+      "en": "hi, bye",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Servus, wie läuft es?",
+      "notes": "Southern Germany and Austria.",
+      "tags": [
+        "greetings-and-goodbyes"
+      ]
+    },
+    {
+      "de": "grüß Gott",
+      "en": "hello",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Grüß Gott, kann ich Ihnen helfen?",
+      "notes": "Bavaria and Austria.",
+      "tags": [
+        "greetings-and-goodbyes"
+      ]
+    },
+    {
+      "de": "moin",
+      "en": "hi",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Moin, alles klar?",
+      "notes": "Northern Germany, any time of day.",
+      "tags": [
+        "greetings-and-goodbyes"
+      ]
+    },
+    {
+      "de": "der Gruß",
+      "en": "greeting",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Grüße",
+      "example": "Viele Grüße an deine Familie!",
+      "notes": "Letters end with: Viele Grüße.",
+      "tags": [
+        "greetings-and-goodbyes"
+      ]
+    },
+    {
+      "de": "die Begrüßung",
+      "en": "greeting, welcome",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Begrüßungen",
+      "example": "Die Begrüßung war sehr herzlich.",
+      "notes": "",
+      "tags": [
+        "greetings-and-goodbyes"
+      ]
+    },
+    {
+      "de": "der Abschied",
+      "en": "farewell",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Abschiede",
+      "example": "Der Abschied war kurz.",
+      "notes": "",
+      "tags": [
+        "greetings-and-goodbyes"
+      ]
+    },
+    {
+      "de": "grüßen",
+      "en": "to greet, to say hello",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich grüße meine Nachbarn jeden Morgen.",
+      "present": "ich grüße · du grüßt · er grüßt",
+      "praet": "er grüßte",
+      "perfekt": "hat gegrüßt",
+      "notes": "Stems in -ß take only -t in the du form.",
+      "tags": [
+        "greetings-and-goodbyes"
+      ]
+    },
+    {
+      "de": "begrüßen",
+      "en": "to greet, to welcome",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Der Chef begrüßt die Gäste.",
+      "present": "ich begrüße · du begrüßt · er begrüßt",
+      "praet": "er begrüßte",
+      "perfekt": "hat begrüßt",
+      "notes": "",
+      "tags": [
+        "greetings-and-goodbyes"
+      ]
+    },
+    {
+      "de": "winken",
+      "en": "to wave",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Das Kind winkt zum Abschied.",
+      "present": "ich winke · du winkst · er winkt",
+      "praet": "er winkte",
+      "perfekt": "hat gewinkt",
+      "notes": "",
+      "tags": [
+        "greetings-and-goodbyes"
+      ]
+    },
+    {
+      "de": "höflich",
+      "en": "polite",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Sie ist immer sehr höflich.",
+      "comp": "höflicher",
+      "super": "am höflichsten",
+      "notes": "",
+      "tags": [
+        "greetings-and-goodbyes"
+      ]
+    }
+  ]
+}

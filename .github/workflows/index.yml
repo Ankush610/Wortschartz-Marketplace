@@ -1,0 +1,22 @@
+# The app lists whatever index.json says exists, so a pack added without it is a
+# pack nobody can see. Rebuild it here instead of remembering to.
+name: index
+on:
+  push:
+    branches: [main]
+    paths: ['*.json']
+permissions:
+  contents: write
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: node make-index.mjs
+      # No push when nothing moved. A push made with GITHUB_TOKEN doesn't
+      # re-trigger this workflow, so index.json being in `paths` is not a loop.
+      - run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git commit -am 'rebuild index' || exit 0
+          git push

@@ -1,0 +1,7090 @@
+{
+  "app": "wortschatz",
+  "v": 1,
+  "words": [
+    {
+      "de": "der Name",
+      "en": "name",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Namen",
+      "example": "Mein Name ist Anna Weber.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Vorname",
+      "en": "first name",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Vornamen",
+      "example": "Mein Vorname ist Peter.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Nachname",
+      "en": "surname",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Nachnamen",
+      "example": "Wie ist Ihr Nachname?",
+      "notes": "Also der Familienname.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Telefonnummer",
+      "en": "phone number",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Telefonnummern",
+      "example": "Geben Sie mir bitte Ihre Telefonnummer.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Handynummer",
+      "en": "mobile number",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Handynummern",
+      "example": "Ich schicke dir meine Handynummer.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Hausnummer",
+      "en": "house number",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Hausnummern",
+      "example": "Die Hausnummer ist zwölf.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die E-Mail-Adresse",
+      "en": "email address",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "E-Mail-Adressen",
+      "example": "Meine E-Mail-Adresse steht auf der Karte.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Webseite",
+      "en": "website",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Webseiten",
+      "example": "Die Webseite hat viele Informationen.",
+      "notes": "Also: die Website.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Straße",
+      "en": "street",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Straßen",
+      "example": "Ich wohne in der Gartenstraße.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Postleitzahl",
+      "en": "postcode, zip code",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Postleitzahlen",
+      "example": "Die Postleitzahl von Köln ist 50667.",
+      "notes": "Short: die PLZ.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Stadt",
+      "en": "town, city",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Städte",
+      "example": "Die Stadt hat 200.000 Einwohner.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Land",
+      "en": "country",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Länder",
+      "example": "Welches Land möchtest du sehen?",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "Deutschland",
+      "en": "Germany",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Ich lebe seit einem Jahr in Deutschland.",
+      "notes": "Country names mostly take no article.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "Österreich",
+      "en": "Austria",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Österreich liegt südlich von Deutschland.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Schweiz",
+      "en": "Switzerland",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Ich fahre in die Schweiz.",
+      "notes": "One of the few countries with an article.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Sprache",
+      "en": "language",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Sprachen",
+      "example": "Wie viele Sprachen sprichst du?",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "deutsch",
+      "en": "German",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Ich lese eine deutsche Zeitung.",
+      "comp": "",
+      "super": "",
+      "notes": "Lower case as an adjective.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Frage",
+      "en": "question",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Fragen",
+      "example": "Ich habe eine Frage.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "wie",
+      "en": "how",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Wie heißt du?",
+      "notes": "Question word.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "wer",
+      "en": "who",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Wer ist das?",
+      "notes": "Question word.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "wo",
+      "en": "where",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Wo wohnst du?",
+      "notes": "Question word. For a direction: wohin.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "woher",
+      "en": "where from",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Woher kommen Sie?",
+      "notes": "Question word.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "welche Sprachen sprechen Sie",
+      "en": "what languages do you speak",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Welche Sprachen sprechen Sie? – Deutsch und Englisch.",
+      "literal": "which languages speak you",
+      "notes": "Informal: Welche Sprachen sprichst du?",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "buchstabieren",
+      "en": "to spell",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Buchstabieren Sie bitte Ihren Namen.",
+      "present": "ich buchstabiere · du buchstabierst · er buchstabiert",
+      "praet": "er buchstabierte",
+      "perfekt": "hat buchstabiert",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "heißen",
+      "en": "to be called",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Wie heißen Sie?",
+      "present": "ich heiße · du heißt · er heißt",
+      "praet": "er hieß",
+      "perfekt": "hat geheißen",
+      "notes": "Ich heiße Ankush = My name is Ankush.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "kommen",
+      "en": "to come",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich komme aus Indien.",
+      "present": "ich komme · du kommst · er kommt",
+      "praet": "er kam",
+      "perfekt": "ist gekommen",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "lernen",
+      "en": "to learn, to study",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich lerne jeden Tag Deutsch.",
+      "present": "ich lerne · du lernst · er lernt",
+      "praet": "er lernte",
+      "perfekt": "hat gelernt",
+      "notes": "lernen = to learn, studieren = to study at university.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "sein",
+      "en": "to be",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich bin müde.",
+      "present": "ich bin · du bist · er ist · wir sind · ihr seid · sie sind",
+      "praet": "er war",
+      "perfekt": "ist gewesen",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "sprechen",
+      "en": "to speak",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Sprechen Sie Englisch?",
+      "present": "ich spreche · du sprichst · er spricht",
+      "praet": "er sprach",
+      "perfekt": "hat gesprochen",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "wohnen",
+      "en": "to live, to reside",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich wohne in München.",
+      "present": "ich wohne · du wohnst · er wohnt",
+      "praet": "er wohnte",
+      "perfekt": "hat gewohnt",
+      "notes": "wohnen = to live somewhere, leben = to be alive.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "guten Abend",
+      "en": "good evening",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Guten Abend, schön Sie zu sehen.",
+      "literal": "",
+      "notes": "From about 6 p.m.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "gute Nacht",
+      "en": "good night",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Gute Nacht, schlaf gut!",
+      "literal": "",
+      "notes": "Only when someone goes to bed.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "tschüss",
+      "en": "bye",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Tschüss, bis morgen!",
+      "notes": "Informal.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "auf Wiedersehen",
+      "en": "goodbye",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Auf Wiedersehen, Frau Meier!",
+      "literal": "on seeing again",
+      "notes": "Formal.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "hallo",
+      "en": "hello",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Hallo, wie geht es dir?",
+      "notes": "Works at any time of day.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "guten Morgen",
+      "en": "good morning",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Guten Morgen, hast du gut geschlafen?",
+      "literal": "",
+      "notes": "Until about 10 a.m.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "guten Tag",
+      "en": "good day, hello",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Guten Tag, ich möchte einen Termin.",
+      "literal": "",
+      "notes": "The neutral, polite greeting.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Zahl",
+      "en": "number, figure",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Zahlen",
+      "example": "Schreib die Zahl bitte in Worten.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "null",
+      "en": "zero",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Das Spiel endet null zu null.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack",
+        "numeral"
+      ]
+    },
+    {
+      "de": "eins",
+      "en": "one",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Ich habe nur eins.",
+      "notes": "Before a noun: ein Buch, eine Frau.",
+      "tags": [
+        "LGG-Basic-A1-Pack",
+        "numeral"
+      ]
+    },
+    {
+      "de": "zwei",
+      "en": "two",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Ich habe zwei Brüder.",
+      "notes": "On the phone Germans say zwo.",
+      "tags": [
+        "LGG-Basic-A1-Pack",
+        "numeral"
+      ]
+    },
+    {
+      "de": "drei",
+      "en": "three",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Wir sind drei Personen.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack",
+        "numeral"
+      ]
+    },
+    {
+      "de": "vier",
+      "en": "four",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Der Tisch hat vier Beine.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack",
+        "numeral"
+      ]
+    },
+    {
+      "de": "fünf",
+      "en": "five",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Ich komme in fünf Minuten.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack",
+        "numeral"
+      ]
+    },
+    {
+      "de": "sechs",
+      "en": "six",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Wir treffen uns um sechs.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack",
+        "numeral"
+      ]
+    },
+    {
+      "de": "sieben",
+      "en": "seven",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Die Woche hat sieben Tage.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack",
+        "numeral"
+      ]
+    },
+    {
+      "de": "acht",
+      "en": "eight",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Ich schlafe acht Stunden.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack",
+        "numeral"
+      ]
+    },
+    {
+      "de": "neun",
+      "en": "nine",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Der Laden öffnet um neun.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack",
+        "numeral"
+      ]
+    },
+    {
+      "de": "zehn",
+      "en": "ten",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Das kostet zehn Euro.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack",
+        "numeral"
+      ]
+    },
+    {
+      "de": "elf",
+      "en": "eleven",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Ich bin elf Jahre alt.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack",
+        "numeral"
+      ]
+    },
+    {
+      "de": "zwölf",
+      "en": "twelve",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Das Jahr hat zwölf Monate.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack",
+        "numeral"
+      ]
+    },
+    {
+      "de": "dreizehn",
+      "en": "thirteen",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Er ist dreizehn Jahre alt.",
+      "notes": "From 13 to 19: number + zehn.",
+      "tags": [
+        "LGG-Basic-A1-Pack",
+        "numeral"
+      ]
+    },
+    {
+      "de": "vierzehn",
+      "en": "fourteen",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Ich warte vierzehn Tage.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack",
+        "numeral"
+      ]
+    },
+    {
+      "de": "fünfzehn",
+      "en": "fifteen",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Der Bus kommt in fünfzehn Minuten.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack",
+        "numeral"
+      ]
+    },
+    {
+      "de": "sechzehn",
+      "en": "sixteen",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Sie ist sechzehn Jahre alt.",
+      "notes": "sechs loses the -s.",
+      "tags": [
+        "LGG-Basic-A1-Pack",
+        "numeral"
+      ]
+    },
+    {
+      "de": "siebzehn",
+      "en": "seventeen",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Das Buch hat siebzehn Kapitel.",
+      "notes": "sieben loses the -en.",
+      "tags": [
+        "LGG-Basic-A1-Pack",
+        "numeral"
+      ]
+    },
+    {
+      "de": "achtzehn",
+      "en": "eighteen",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Mit achtzehn darf man wählen.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack",
+        "numeral"
+      ]
+    },
+    {
+      "de": "neunzehn",
+      "en": "nineteen",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Er wohnt in Haus neunzehn.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack",
+        "numeral"
+      ]
+    },
+    {
+      "de": "zwanzig",
+      "en": "twenty",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Das kostet zwanzig Euro.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack",
+        "numeral"
+      ]
+    },
+    {
+      "de": "Entschuldigung",
+      "en": "excuse me, sorry",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Entschuldigung, wo ist der Bahnhof?",
+      "notes": "As a noun: die Entschuldigung = apology.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "wie geht's",
+      "en": "how's it going",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Hi, wie geht's?",
+      "literal": "",
+      "notes": "Short spoken form.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "danke, gut",
+      "en": "fine, thanks",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Danke, gut. Und dir?",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "sehr gut",
+      "en": "very good",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Wie geht's? – Sehr gut, danke!",
+      "literal": "very good",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "es geht",
+      "en": "so-so, not bad",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Wie geht's? Es geht.",
+      "literal": "it goes",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Freund",
+      "en": "friend, boyfriend",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Freunde",
+      "example": "Mein bester Freund heißt Tom.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Freundin",
+      "en": "friend, girlfriend",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Freundinnen",
+      "example": "Meine Freundin kommt aus Spanien.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Herr",
+      "en": "Mr, gentleman",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Herren",
+      "example": "Guten Tag, Herr Schmidt!",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Kollege",
+      "en": "colleague",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Kollegen",
+      "example": "Ein Kollege hilft mir.",
+      "notes": "Female: die Kollegin.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Kollegin",
+      "en": "colleague (female)",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Kolleginnen",
+      "example": "Meine Kollegin kommt aus Polen.",
+      "notes": "Male: der Kollege.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Leute",
+      "en": "people",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Die Leute hier sind sehr nett.",
+      "notes": "Plural only.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Mensch",
+      "en": "person, human being",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Menschen",
+      "example": "Viele Menschen warten auf den Bus.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Partner",
+      "en": "partner",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Partner",
+      "example": "Mein Partner arbeitet in Berlin.",
+      "notes": "Female: die Partnerin.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Partnerin",
+      "en": "partner (female)",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Partnerinnen",
+      "example": "Seine Partnerin heißt Anna.",
+      "notes": "Male: der Partner.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Person",
+      "en": "person",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Personen",
+      "example": "Der Tisch ist für vier Personen.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Buch",
+      "en": "book",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Bücher",
+      "example": "Das Buch liegt auf dem Tisch.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Foto",
+      "en": "photo",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Fotos",
+      "example": "Das Foto ist von letztem Sommer.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "fotografieren",
+      "en": "to take photos",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich fotografiere gern alte Häuser.",
+      "present": "ich fotografiere · du fotografierst · er fotografiert",
+      "praet": "er fotografierte",
+      "perfekt": "hat fotografiert",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Freizeit",
+      "en": "free time",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "In der Freizeit lese ich gern.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Hobby",
+      "en": "hobby",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Hobbys",
+      "example": "Mein Hobby ist Kochen.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Lieblingsfilm",
+      "en": "favourite film",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Lieblingsfilme",
+      "example": "Mein Lieblingsfilm läuft heute.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Musik",
+      "en": "music",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Ich höre gern laute Musik.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Lieblingsmusik",
+      "en": "favourite music",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Meine Lieblingsmusik ist Jazz.",
+      "notes": "No plural.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "chatten",
+      "en": "to chat",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich chatte abends mit meinen Freunden.",
+      "present": "ich chatte · du chattest · er chattet",
+      "praet": "er chattete",
+      "perfekt": "hat gechattet",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "kochen",
+      "en": "to cook",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Mein Vater kocht sehr gut.",
+      "present": "ich koche · du kochst · er kocht",
+      "praet": "er kochte",
+      "perfekt": "hat gekocht",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "lesen",
+      "en": "to read",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich lese ein Buch.",
+      "present": "ich lese · du liest · er liest",
+      "praet": "er las",
+      "perfekt": "hat gelesen",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "reisen",
+      "en": "to travel",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Wir reisen gern nach Spanien.",
+      "present": "ich reise · du reist · er reist",
+      "praet": "er reiste",
+      "perfekt": "ist gereist",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "schwimmen",
+      "en": "to swim",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Im Sommer schwimme ich jeden Tag.",
+      "present": "ich schwimme · du schwimmst · er schwimmt",
+      "praet": "er schwamm",
+      "perfekt": "ist geschwommen",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "singen",
+      "en": "to sing",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Die Kinder singen ein Lied.",
+      "present": "ich singe · du singst · er singt",
+      "praet": "er sang",
+      "perfekt": "hat gesungen",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "spielen",
+      "en": "to play",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Die Kinder spielen im Garten.",
+      "present": "ich spiele · du spielst · er spielt",
+      "praet": "er spielte",
+      "perfekt": "hat gespielt",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "tanzen",
+      "en": "to dance",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Sie tanzt sehr gut.",
+      "present": "ich tanze · du tanzt · er tanzt",
+      "praet": "er tanzte",
+      "perfekt": "hat getanzt",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "gern",
+      "en": "gladly, willingly",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich trinke gern Tee.",
+      "notes": "gern after a verb = to like doing it.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "sehr gern",
+      "en": "with pleasure",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Sehr gern, danke für die Einladung!",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "Fußball spielen",
+      "en": "to play football",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Am Samstag spielen wir Fußball.",
+      "present": "ich spiele Fußball",
+      "praet": "er spielte Fußball",
+      "perfekt": "hat Fußball gespielt",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "Musik hören",
+      "en": "to listen to music",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Ich höre gern Musik.",
+      "literal": "music hear",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "nach Paris reisen",
+      "en": "to travel to Paris",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Im Sommer reisen wir nach Paris.",
+      "literal": "to Paris travel",
+      "notes": "nach + city or country without an article.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Café",
+      "en": "café",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Cafés",
+      "example": "Wir sitzen im Café am Markt.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Fußballstadion",
+      "en": "football stadium",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Fußballstadien",
+      "example": "Das Fußballstadion ist am Samstag voll.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Kino",
+      "en": "cinema",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Kinos",
+      "example": "Gehen wir heute ins Kino?",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Museum",
+      "en": "museum",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Museen",
+      "example": "Das Museum ist montags geschlossen.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Restaurant",
+      "en": "restaurant",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Restaurants",
+      "example": "Das Restaurant ist heute voll.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Schwimmbad",
+      "en": "swimming pool",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Schwimmbäder",
+      "example": "Das Schwimmbad öffnet um sieben.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Theater",
+      "en": "theatre",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Theater",
+      "example": "Wir gehen einmal im Jahr ins Theater.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "frei haben",
+      "en": "to have a day off",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "An Feiertagen haben wir frei.",
+      "present": "ich habe frei · du hast frei",
+      "praet": "er hatte frei",
+      "perfekt": "hat frei gehabt",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "am Wochenende habe ich frei",
+      "en": "I have the weekend off",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Am Wochenende habe ich frei, dann besuche ich meine Eltern.",
+      "literal": "at the weekend have I free",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "ins Café gehen",
+      "en": "to go to the café",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Nach der Arbeit gehen wir ins Café.",
+      "literal": "into the café go",
+      "notes": "ins = in das.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "gehen wir ins Café",
+      "en": "shall we go to the café",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Gehen wir ins Café? – Ja, gern!",
+      "literal": "go we into the café",
+      "notes": "A suggestion: the verb comes first.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "ja, super",
+      "en": "yes, great",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Kommst du mit? – Ja, super!",
+      "literal": "yes, super",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "nein, das geht leider nicht",
+      "en": "no, unfortunately that's not possible",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Nein, das geht leider nicht, ich muss arbeiten.",
+      "literal": "no, that goes unfortunately not",
+      "notes": "A polite way to say no.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Beruf",
+      "en": "job, profession",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Berufe",
+      "example": "Was sind Sie von Beruf?",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Architekt",
+      "en": "architect",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Architekten",
+      "example": "Die Architektin plant das Haus.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Architektin",
+      "en": "architect (female)",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Architektinnen",
+      "example": "Die Architektin plant ein neues Haus.",
+      "notes": "Male: der Architekt.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Arzt",
+      "en": "doctor",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Ärzte",
+      "example": "Ich gehe morgen zum Arzt.",
+      "notes": "Female: die Ärztin.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Ärztin",
+      "en": "doctor (female)",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Ärztinnen",
+      "example": "Die Ärztin untersucht das Kind.",
+      "notes": "Male: der Arzt.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Boxer",
+      "en": "boxer",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Boxer",
+      "example": "Der Boxer trainiert jeden Tag.",
+      "notes": "Female: die Boxerin.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Boxerin",
+      "en": "boxer (female)",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Boxerinnen",
+      "example": "Die Boxerin gewinnt den Kampf.",
+      "notes": "Male: der Boxer.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Firma",
+      "en": "company",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Firmen",
+      "example": "Die Firma ist noch jung.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Ingenieur",
+      "en": "engineer",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Ingenieure",
+      "example": "Mein Bruder ist Ingenieur.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Ingenieurin",
+      "en": "engineer (female)",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Ingenieurinnen",
+      "example": "Meine Schwester ist Ingenieurin.",
+      "notes": "Male: der Ingenieur.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Journalist",
+      "en": "journalist",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Journalisten",
+      "example": "Der Journalist schreibt über die Stadt.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Journalistin",
+      "en": "journalist (female)",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Journalistinnen",
+      "example": "Die Journalistin schreibt einen Artikel.",
+      "notes": "Male: der Journalist.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Koch",
+      "en": "cook, chef",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Köche",
+      "example": "Der Koch macht das beste Schnitzel.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Köchin",
+      "en": "cook, chef (female)",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Köchinnen",
+      "example": "Die Köchin kocht eine Suppe.",
+      "notes": "Male: der Koch.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Professor",
+      "en": "professor",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Professoren",
+      "example": "Der Professor spricht über Geschichte.",
+      "notes": "Female: die Professorin.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Professorin",
+      "en": "professor (female)",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Professorinnen",
+      "example": "Die Professorin arbeitet an der Universität.",
+      "notes": "Male: der Professor.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Student",
+      "en": "student",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Studenten",
+      "example": "Der Student wohnt im Wohnheim.",
+      "notes": "Female: die Studentin.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Studentin",
+      "en": "student (female)",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Studentinnen",
+      "example": "Die Studentin lernt in der Bibliothek.",
+      "notes": "Male: der Student.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Taxifahrer",
+      "en": "taxi driver",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Taxifahrer",
+      "example": "Der Taxifahrer kennt die Stadt gut.",
+      "notes": "Female: die Taxifahrerin.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Taxifahrerin",
+      "en": "taxi driver (female)",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Taxifahrerinnen",
+      "example": "Die Taxifahrerin bringt uns zum Bahnhof.",
+      "notes": "Male: der Taxifahrer.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Techniker",
+      "en": "technician",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Techniker",
+      "example": "Der Techniker repariert den Computer.",
+      "notes": "Female: die Technikerin.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Technikerin",
+      "en": "technician (female)",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Technikerinnen",
+      "example": "Die Technikerin arbeitet bei VW.",
+      "notes": "Male: der Techniker.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "studieren",
+      "en": "to study (at university)",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich studiere Informatik.",
+      "present": "ich studiere · du studierst · er studiert",
+      "praet": "er studierte",
+      "perfekt": "hat studiert",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "bei VW arbeiten",
+      "en": "to work at VW",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Mein Vater arbeitet bei VW.",
+      "literal": "at VW work",
+      "notes": "bei + company name.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "Techniker bei VW sein",
+      "en": "to be a technician at VW",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Er ist Techniker bei VW.",
+      "literal": "technician at VW be",
+      "notes": "No article before a job: Er ist Techniker.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Kalender",
+      "en": "calendar",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Kalender",
+      "example": "Der Termin steht in meinem Kalender.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Tag",
+      "en": "day",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Tage",
+      "example": "Der Tag war sehr lang.",
+      "notes": "Guten Tag! = Hello.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Termin",
+      "en": "appointment",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Termine",
+      "example": "Ich habe morgen einen Termin beim Arzt.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Woche",
+      "en": "week",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Wochen",
+      "example": "Nächste Woche fahre ich nach Wien.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Wochenende",
+      "en": "weekend",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Wochenenden",
+      "example": "Am Wochenende schlafe ich lange.",
+      "notes": "Schönes Wochenende! = Have a nice weekend!",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Formular",
+      "en": "form",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Formulare",
+      "example": "Bitte füllen Sie das Formular aus.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Geburtsdatum",
+      "en": "date of birth",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Geburtsdaten",
+      "example": "Bitte schreiben Sie Ihr Geburtsdatum hier.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Geburtsort",
+      "en": "place of birth",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Geburtsorte",
+      "example": "Mein Geburtsort ist Pune.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Geburtstag",
+      "en": "birthday",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Geburtstage",
+      "example": "Mein Geburtstag ist im März.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Wohnort",
+      "en": "place of residence",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Wohnorte",
+      "example": "Mein Wohnort ist Hamburg.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "männlich",
+      "en": "male",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Im Formular steht: männlich.",
+      "comp": "",
+      "super": "",
+      "notes": "Not compared.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "weiblich",
+      "en": "female",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Im Formular steht: weiblich.",
+      "comp": "",
+      "super": "",
+      "notes": "Not compared.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "ein Formular ausfüllen",
+      "en": "to fill out a form",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Bitte füllen Sie das Formular aus.",
+      "literal": "a form out-fill",
+      "notes": "ausfüllen is separable.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "Wann hast du Geburtstag?",
+      "en": "When is your birthday?",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Wann hast du Geburtstag? — Am dritten Juli.",
+      "notes": "Answer with am + ordinal: am dritten Juli.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Januar",
+      "en": "January",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Im Januar ist es sehr kalt.",
+      "notes": "In Austria: der Jänner.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Februar",
+      "en": "February",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Mein Geburtstag ist im Februar.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der März",
+      "en": "March",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Im März wird es wärmer.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der April",
+      "en": "April",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Der April macht, was er will.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Mai",
+      "en": "May",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Der erste Mai ist ein Feiertag.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Juni",
+      "en": "June",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Im Juni fahren wir nach Italien.",
+      "notes": "Said Juno on the phone, to avoid Juli.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Juli",
+      "en": "July",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Die Ferien beginnen im Juli.",
+      "notes": "Said Julei on the phone, to avoid Juni.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der August",
+      "en": "August",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Im August ist es oft heiß.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der September",
+      "en": "September",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Die Schule fängt im September an.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Oktober",
+      "en": "October",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Das Oktoberfest ist im September und Oktober.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der November",
+      "en": "November",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Im November regnet es viel.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Dezember",
+      "en": "December",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Weihnachten ist im Dezember.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "im Dezember",
+      "en": "in December",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Im Dezember ist es kalt.",
+      "literal": "in the December",
+      "notes": "im + month: im Januar, im Mai.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Wochentag",
+      "en": "day of the week",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Wochentage",
+      "example": "Montag ist der erste Wochentag.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Montag",
+      "en": "Monday",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Montage",
+      "example": "Am Montag beginnt die Schule.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Dienstag",
+      "en": "Tuesday",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Dienstage",
+      "example": "Am Dienstag habe ich einen Termin.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Mittwoch",
+      "en": "Wednesday",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Mittwoche",
+      "example": "Der Kurs ist jeden Mittwoch.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Donnerstag",
+      "en": "Thursday",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Donnerstage",
+      "example": "Am Donnerstag gehe ich zum Arzt.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Freitag",
+      "en": "Friday",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Freitage",
+      "example": "Freitag ist mein letzter Arbeitstag.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Samstag",
+      "en": "Saturday",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Samstage",
+      "example": "Am Samstag kaufe ich ein.",
+      "notes": "In the north also der Sonnabend.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Sonntag",
+      "en": "Sunday",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Sonntage",
+      "example": "Am Sonntag sind die Geschäfte zu.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Jahreszeit",
+      "en": "season",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Jahreszeiten",
+      "example": "Welche Jahreszeit magst du am liebsten?",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Frühling",
+      "en": "spring",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Frühlinge",
+      "example": "Im Frühling blühen die Blumen.",
+      "notes": "Also das Frühjahr.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Sommer",
+      "en": "summer",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Sommer",
+      "example": "Im Sommer fahren wir ans Meer.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Herbst",
+      "en": "autumn, fall",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Herbste",
+      "example": "Im Herbst ist das Wetter oft windig.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Winter",
+      "en": "winter",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Winter",
+      "example": "Im Winter schneit es hier viel.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Bus",
+      "en": "bus",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Busse",
+      "example": "Der Bus kommt alle zehn Minuten.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Fahrrad",
+      "en": "bicycle",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Fahrräder",
+      "example": "Mein Fahrrad hat einen Platten.",
+      "notes": "Short: das Rad.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Flugzeug",
+      "en": "aeroplane",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Flugzeuge",
+      "example": "Das Flugzeug startet pünktlich.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Passagier",
+      "en": "passenger",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Passagiere",
+      "example": "Die Passagiere steigen in das Flugzeug.",
+      "notes": "Female: die Passagierin.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Schiff",
+      "en": "ship",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Schiffe",
+      "example": "Das Schiff fährt jede Stunde.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die S-Bahn",
+      "en": "city train",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "S-Bahnen",
+      "example": "Die S-Bahn fährt alle 20 Minuten.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Straßenbahn",
+      "en": "tram",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Straßenbahnen",
+      "example": "Die Straßenbahn hält vor dem Haus.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Ticket",
+      "en": "ticket",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Tickets",
+      "example": "Das Ticket habe ich auf dem Handy.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Fahrkarte",
+      "en": "ticket",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Fahrkarten",
+      "example": "Die Fahrkarte gilt zwei Stunden.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die U-Bahn",
+      "en": "underground, metro",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "U-Bahnen",
+      "example": "Die U-Bahn ist morgens voll.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Zug",
+      "en": "train",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Züge",
+      "example": "Der Zug fährt von Gleis drei.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "fahren",
+      "en": "to drive, to go (by vehicle)",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Wir fahren mit dem Zug nach Hamburg.",
+      "present": "ich fahre · du fährst · er fährt",
+      "praet": "er fuhr",
+      "perfekt": "ist gefahren",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "kaufen",
+      "en": "to buy",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich kaufe ein neues Handy.",
+      "present": "ich kaufe · du kaufst · er kauft",
+      "praet": "er kaufte",
+      "perfekt": "hat gekauft",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "sehen",
+      "en": "to see",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich sehe dich morgen.",
+      "present": "ich sehe · du siehst · er sieht",
+      "praet": "er sah",
+      "perfekt": "hat gesehen",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "alle",
+      "en": "all, everyone",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Alle Plätze sind besetzt.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "alt",
+      "en": "old",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Das Haus ist sehr alt.",
+      "comp": "älter",
+      "super": "am ältesten",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "breit",
+      "en": "wide",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Die Straße ist breit.",
+      "comp": "breiter",
+      "super": "am breitesten",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "groß",
+      "en": "tall, big",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Mein Bruder ist sehr groß.",
+      "comp": "größer",
+      "super": "am größten",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "hoch",
+      "en": "high, tall",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Der Turm ist sehr hoch.",
+      "comp": "höher",
+      "super": "am höchsten",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "kurz",
+      "en": "short",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Der Rock ist zu kurz.",
+      "comp": "kürzer",
+      "super": "am kürzesten",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "lang",
+      "en": "long",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Der Weg ist lang.",
+      "comp": "länger",
+      "super": "am längsten",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "modern",
+      "en": "modern",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Das Viertel ist sehr modern.",
+      "comp": "moderner",
+      "super": "am modernsten",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "schön",
+      "en": "beautiful, nice",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Sie hat schöne Augen.",
+      "comp": "schöner",
+      "super": "am schönsten",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "in Hamburg gibt es einen Hafen",
+      "en": "in Hamburg there is a harbour",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "In Hamburg gibt es einen großen Hafen.",
+      "literal": "in Hamburg gives it a harbour",
+      "notes": "es gibt + accusative = there is, there are.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Rathaus ist 240 Jahre alt",
+      "en": "the town hall is 240 years old",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Das Rathaus ist 240 Jahre alt und sehr schön.",
+      "literal": "the town hall is 240 years old",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Bahnhof",
+      "en": "station",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Bahnhöfe",
+      "example": "Der Bahnhof ist gleich um die Ecke.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Flughafen",
+      "en": "airport",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Flughäfen",
+      "example": "Zum Flughafen fahre ich mit der S-Bahn.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Fluss",
+      "en": "river",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Flüsse",
+      "example": "Der Fluss fließt durch die Stadt.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Geschäft",
+      "en": "shop, business",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Geschäfte",
+      "example": "Das Geschäft hat montags zu.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Hafen",
+      "en": "harbour, port",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Häfen",
+      "example": "Das Schiff ist im Hafen.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Hotel",
+      "en": "hotel",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Hotels",
+      "example": "Das Hotel liegt im Zentrum.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Kirche",
+      "en": "church",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Kirchen",
+      "example": "Die Kirche steht mitten im Dorf.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Markt",
+      "en": "market",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Märkte",
+      "example": "Auf dem Markt ist das Obst frischer.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Meer",
+      "en": "sea",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Meere",
+      "example": "Das Meer ist heute ruhig.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Ort",
+      "en": "place, town",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Orte",
+      "example": "Der Ort hat nur 800 Einwohner.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Park",
+      "en": "park",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Parks",
+      "example": "Im Park sitzen viele Leute.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Rathaus",
+      "en": "town hall",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Rathäuser",
+      "example": "Das Rathaus ist aus dem 15. Jahrhundert.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der See",
+      "en": "lake",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Seen",
+      "example": "Der See liegt hinter dem Wald.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Terminal",
+      "en": "terminal",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Terminals",
+      "example": "Wir warten im Terminal 2.",
+      "notes": "Also: das Terminal.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Turm",
+      "en": "tower",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Türme",
+      "example": "Vom Turm sieht man die ganze Stadt.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Weg",
+      "en": "way, path",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Wege",
+      "example": "Der Weg ist nicht weit.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "ansehen",
+      "en": "to look at",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Wir sehen uns die Kirche an.",
+      "present": "ich sehe an · du siehst an · er sieht an",
+      "praet": "er sah an",
+      "perfekt": "hat angesehen",
+      "notes": "Separable. Often with sich: sich etwas ansehen.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "besuchen",
+      "en": "to visit",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich besuche meine Großeltern.",
+      "present": "ich besuche · du besuchst · er besucht",
+      "praet": "er besuchte",
+      "perfekt": "hat besucht",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Meter",
+      "en": "metre",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Meter",
+      "example": "Der Turm ist 100 Meter hoch.",
+      "notes": "Also: das Meter.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Plan",
+      "en": "plan, map",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Pläne",
+      "example": "Hast du einen Plan von der Stadt?",
+      "notes": "City map: der Stadtplan.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "fragen",
+      "en": "to ask",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Darf ich dich etwas fragen?",
+      "present": "ich frage · du fragst · er fragt",
+      "praet": "er fragte",
+      "perfekt": "hat gefragt",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "gehen",
+      "en": "to go, to walk",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich gehe zu Fuß nach Hause.",
+      "present": "ich gehe · du gehst · er geht",
+      "praet": "er ging",
+      "perfekt": "ist gegangen",
+      "notes": "gehen = on foot, fahren = by vehicle.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "suchen",
+      "en": "to look for, to search",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich suche meinen Schlüssel.",
+      "present": "ich suche · du suchst · er sucht",
+      "praet": "er suchte",
+      "perfekt": "hat gesucht",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "da",
+      "en": "there",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Da ist der Bahnhof.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "dann",
+      "en": "then",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Zuerst gehen Sie geradeaus, dann links.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "einfach",
+      "en": "easy, simple",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Der Test war einfach.",
+      "comp": "einfacher",
+      "super": "am einfachsten",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "geradeaus",
+      "en": "straight ahead",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Gehen Sie immer geradeaus.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "links",
+      "en": "left, on the left",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Das Haus steht links.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "rechts",
+      "en": "right, on the right",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Rechts sehen Sie die Kirche.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "können Sie mir bitte helfen",
+      "en": "can you please help me",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Entschuldigung, können Sie mir bitte helfen?",
+      "literal": "can you me please help",
+      "notes": "helfen takes the dative: mir.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "ich suche den Bahnhof",
+      "en": "I'm looking for the station",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Ich suche den Bahnhof. Ist er weit?",
+      "literal": "I search the station",
+      "notes": "suchen + accusative.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Veranstaltung",
+      "en": "event",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Veranstaltungen",
+      "example": "Am Samstag gibt es eine Veranstaltung im Park.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Event",
+      "en": "event (informal)",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Events",
+      "example": "Das Event beginnt um acht Uhr.",
+      "notes": "From English. Standard word: die Veranstaltung.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Festival",
+      "en": "festival",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Festivals",
+      "example": "Im Sommer gehen wir auf ein Festival.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Film",
+      "en": "film, movie",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Filme",
+      "example": "Der Film dauert zwei Stunden.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Konzert",
+      "en": "concert",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Konzerte",
+      "example": "Das Konzert war ausverkauft.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Orchester",
+      "en": "orchestra",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Orchester",
+      "example": "Das Orchester spielt heute Abend.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Besucher",
+      "en": "visitor",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Besucher",
+      "example": "Das Museum hat viele Besucher.",
+      "notes": "Female: die Besucherin.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Test",
+      "en": "test",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Tests",
+      "example": "Der Test dauert 45 Minuten.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "ach so",
+      "en": "oh, I see",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Ach so, jetzt verstehe ich!",
+      "literal": "oh so",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "aha",
+      "en": "aha, I see",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Aha, das ist interessant.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "also",
+      "en": "so, well",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Also, was machen wir heute?",
+      "notes": "Not English 'also' – that is auch.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "heute",
+      "en": "today",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Heute ist Mittwoch.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Lebensmittel",
+      "en": "food, groceries",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Lebensmittel",
+      "example": "Im Supermarkt kaufe ich Lebensmittel.",
+      "notes": "Mostly used in the plural: die Lebensmittel.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Obst",
+      "en": "fruit",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "",
+      "example": "Obst ist gesund.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Apfel",
+      "en": "apple",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Äpfel",
+      "example": "Der Apfel ist süß.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Banane",
+      "en": "banana",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Bananen",
+      "example": "Ich nehme eine Banane mit.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Birne",
+      "en": "pear",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Birnen",
+      "example": "Die Birne ist sehr süß.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Kiwi",
+      "en": "kiwi",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Kiwis",
+      "example": "Ich esse jeden Morgen eine Kiwi.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Orange",
+      "en": "orange",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Orangen",
+      "example": "Die Orangen sind aus Spanien.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Zucker",
+      "en": "sugar",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Nimmst du Zucker in den Kaffee?",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Salz",
+      "en": "salt",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "",
+      "example": "Das Salz steht auf dem Tisch.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Öl",
+      "en": "oil",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Öle",
+      "example": "Das Öl ist zu heiß.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Nudeln",
+      "en": "pasta, noodles",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Die Kinder essen gern Nudeln.",
+      "notes": "Usually plural.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Reis",
+      "en": "rice",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Der Reis braucht zehn Minuten.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Gemüse",
+      "en": "vegetables",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "",
+      "example": "Iss mehr Gemüse!",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Gurke",
+      "en": "cucumber",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Gurken",
+      "example": "Die Gurke ist im Salat.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Kartoffel",
+      "en": "potato",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Kartoffeln",
+      "example": "Die Kartoffeln sind fertig.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Salat",
+      "en": "salad, lettuce",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Salate",
+      "example": "Der Salat ist frisch.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Tomate",
+      "en": "tomato",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Tomaten",
+      "example": "Die Tomaten kommen aus dem Garten.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Zwiebel",
+      "en": "onion",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Zwiebeln",
+      "example": "Bei Zwiebeln weine ich.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Brot",
+      "en": "bread",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Brote",
+      "example": "Das Brot ist noch warm.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Brötchen",
+      "en": "bread roll",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Brötchen",
+      "example": "Ich kaufe sechs Brötchen.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Keks",
+      "en": "biscuit, cookie",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Kekse",
+      "example": "Möchtest du einen Keks?",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Kuchen",
+      "en": "cake",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Kuchen",
+      "example": "Der Kuchen ist selbst gebacken.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Fleisch",
+      "en": "meat",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "",
+      "example": "Ich esse wenig Fleisch.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Fisch",
+      "en": "fish",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Fische",
+      "example": "Freitags gibt es Fisch.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Ei",
+      "en": "egg",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Eier",
+      "example": "Ich möchte ein weiches Ei.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Hähnchen",
+      "en": "chicken",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Hähnchen",
+      "example": "Das Hähnchen ist im Ofen.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Salami",
+      "en": "salami",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Salamis",
+      "example": "Ich esse gern Pizza mit Salami.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Schinken",
+      "en": "ham",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Schinken",
+      "example": "Ich möchte ein Brötchen mit Schinken.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Wurst",
+      "en": "sausage",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Würste",
+      "example": "Auf dem Brot ist Wurst.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Milchprodukt",
+      "en": "dairy product",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Milchprodukte",
+      "example": "Käse und Joghurt sind Milchprodukte.",
+      "notes": "Mostly used in the plural: die Milchprodukte.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Butter",
+      "en": "butter",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Die Butter ist im Kühlschrank.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Joghurt",
+      "en": "yoghurt",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Joghurts",
+      "example": "Zum Frühstück esse ich Joghurt.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Käse",
+      "en": "cheese",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Käse",
+      "example": "Der Käse riecht stark.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Sahne",
+      "en": "cream",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Möchten Sie Kuchen mit Sahne?",
+      "notes": "No plural.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Bäckerei",
+      "en": "bakery",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Bäckereien",
+      "example": "Die Bäckerei öffnet um sechs.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Metzgerei",
+      "en": "butcher's",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Metzgereien",
+      "example": "In der Metzgerei kaufe ich Wurst.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Supermarkt",
+      "en": "supermarket",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Supermärkte",
+      "example": "Der Supermarkt ist bis 20 Uhr offen.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Verpackung",
+      "en": "packaging",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Verpackungen",
+      "example": "Die Verpackung ist aus Papier.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Becher",
+      "en": "cup, tub",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Becher",
+      "example": "Ich kaufe einen Becher Joghurt.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Flasche",
+      "en": "bottle",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Flaschen",
+      "example": "Eine Flasche Wasser kostet einen Euro.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Glas",
+      "en": "glass",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Gläser",
+      "example": "Ein Glas Wasser, bitte.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Packung",
+      "en": "packet, box",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Packungen",
+      "example": "Eine Packung reicht für zehn Tage.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Tüte",
+      "en": "bag",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Tüten",
+      "example": "Brauchen Sie eine Tüte?",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Kilogramm",
+      "en": "kilogram",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Kilogramm",
+      "example": "Ein Kilogramm Äpfel kostet zwei Euro.",
+      "notes": "Short: das Kilo.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Gramm",
+      "en": "gram",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Gramm",
+      "example": "Zweihundert Gramm Käse, bitte.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Liter",
+      "en": "litre",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Liter",
+      "example": "Ich nehme einen Liter Milch.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Einkaufswagen",
+      "en": "shopping trolley",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Einkaufswagen",
+      "example": "Der Einkaufswagen ist voll.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Einkaufszettel",
+      "en": "shopping list",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Einkaufszettel",
+      "example": "Ich schreibe einen Einkaufszettel.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Kassenzettel",
+      "en": "receipt",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Kassenzettel",
+      "example": "Hier ist Ihr Kassenzettel.",
+      "notes": "Also: der Kassenbon.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "brauchen",
+      "en": "to need",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich brauche einen neuen Pass.",
+      "present": "ich brauche · du brauchst · er braucht",
+      "praet": "er brauchte",
+      "perfekt": "hat gebraucht",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "kosten",
+      "en": "to cost",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Wie viel kostet das Ticket?",
+      "present": "es kostet · sie kosten",
+      "praet": "es kostete",
+      "perfekt": "hat gekostet",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "wechseln",
+      "en": "to change (money)",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich wechsle Geld am Automaten.",
+      "present": "ich wechsle · du wechselst · er wechselt",
+      "praet": "er wechselte",
+      "perfekt": "hat gewechselt",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "billig",
+      "en": "cheap",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Das Handy war billig.",
+      "comp": "billiger",
+      "super": "am billigsten",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "frisch",
+      "en": "fresh",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Das Brot ist ganz frisch.",
+      "comp": "frischer",
+      "super": "am frischesten",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "teuer",
+      "en": "expensive",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Wohnungen in der Stadt sind teuer.",
+      "comp": "teurer",
+      "super": "am teuersten",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "Entschuldigung, wo finde ich die Milch",
+      "en": "excuse me, where can I find the milk",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Entschuldigung, wo finde ich die Milch? – Dort hinten.",
+      "literal": "excuse me, where find I the milk",
+      "notes": "Pattern: Entschuldigung, wo finde ich …?",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "wo gibt es hier Brot",
+      "en": "where can I get bread here",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Wo gibt es hier Brot? – In der Bäckerei.",
+      "literal": "where gives it here bread",
+      "notes": "Pattern: Wo gibt es …?",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Getränk",
+      "en": "drink",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Getränke",
+      "example": "Die Getränke sind extra.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Bier",
+      "en": "beer",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Biere",
+      "example": "Ein Bier vom Fass, bitte.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Cola",
+      "en": "cola",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Colas",
+      "example": "Eine Cola, bitte.",
+      "notes": "In southern Germany and Austria also: das Cola.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Kaffee",
+      "en": "coffee",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Der Kaffee ist zu stark.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Milch",
+      "en": "milk",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Die Milch ist sauer.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Saft",
+      "en": "juice",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Säfte",
+      "example": "Der Saft ist frisch gepresst.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Tee",
+      "en": "tea",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Tees",
+      "example": "Ich trinke Tee mit Zitrone.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Wasser",
+      "en": "water",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "",
+      "example": "Ein Wasser ohne Kohlensäure, bitte.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Wein",
+      "en": "wine",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Weine",
+      "example": "Der Wein kommt aus Italien.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "beim Essen",
+      "en": "while eating",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Beim Essen sprechen wir über den Tag.",
+      "literal": "at the eating",
+      "notes": "beim = bei dem.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Essen",
+      "en": "food, meal",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Essen",
+      "example": "Das Essen ist fertig!",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Frühstück",
+      "en": "breakfast",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Frühstücke",
+      "example": "Das Frühstück gibt es ab sieben.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Mittagessen",
+      "en": "lunch",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Mittagessen",
+      "example": "Zum Mittagessen gehe ich in die Kantine.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Abendessen",
+      "en": "dinner, supper",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Abendessen",
+      "example": "Das Abendessen ist um halb sieben.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Suppe",
+      "en": "soup",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Suppen",
+      "example": "Die Suppe ist zu salzig.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Pizza",
+      "en": "pizza",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Pizzen",
+      "example": "Wir bestellen eine Pizza.",
+      "notes": "Plural also: Pizzas.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Pommes frites",
+      "en": "chips, French fries",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Ich nehme eine Wurst mit Pommes frites.",
+      "notes": "Plural only. Short: Pommes.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Müsli",
+      "en": "muesli",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Müslis",
+      "example": "Zum Frühstück esse ich Müsli.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "essen",
+      "en": "to eat",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Was isst du zum Frühstück?",
+      "present": "ich esse · du isst · er isst",
+      "praet": "er aß",
+      "perfekt": "hat gegessen",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "machen",
+      "en": "to do, to make",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Was machst du am Wochenende?",
+      "present": "ich mache · du machst · er macht",
+      "praet": "er machte",
+      "perfekt": "hat gemacht",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "mögen",
+      "en": "to like",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich mag keinen Kaffee.",
+      "present": "ich mag · du magst · er mag · wir mögen · ihr mögt · sie mögen",
+      "praet": "er mochte",
+      "perfekt": "hat gemocht",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "nehmen",
+      "en": "to take",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich nehme den Bus.",
+      "present": "ich nehme · du nimmst · er nimmt",
+      "praet": "er nahm",
+      "perfekt": "hat genommen",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "schmecken",
+      "en": "to taste (good)",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Die Suppe schmeckt sehr gut.",
+      "present": "es schmeckt · sie schmecken",
+      "praet": "es schmeckte",
+      "perfekt": "hat geschmeckt",
+      "notes": "Das Essen schmeckt mir = I like the food.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "fertig",
+      "en": "ready, finished",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Das Essen ist gleich fertig.",
+      "comp": "",
+      "super": "",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "lecker",
+      "en": "tasty, delicious",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Der Kuchen ist lecker.",
+      "comp": "leckerer",
+      "super": "am leckersten",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "viel",
+      "en": "much, a lot of",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Ich habe nicht viel Zeit.",
+      "comp": "mehr",
+      "super": "am meisten",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "wenig",
+      "en": "little, few",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Wir haben wenig Geld.",
+      "comp": "weniger",
+      "super": "am wenigsten",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "guten Appetit",
+      "en": "enjoy your meal",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Guten Appetit zusammen!",
+      "literal": "",
+      "notes": "Said before everyone starts.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Einladung",
+      "en": "invitation",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Einladungen",
+      "example": "Danke für die Einladung!",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Schokolade",
+      "en": "chocolate",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Schokoladen",
+      "example": "Ich esse abends Schokolade.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Marmelade",
+      "en": "jam",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Marmeladen",
+      "example": "Ich esse Brot mit Marmelade.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Alltag",
+      "en": "everyday life",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Mein Alltag ist ruhig.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Computer",
+      "en": "computer",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Computer",
+      "example": "Mein Computer ist langsam.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Schule",
+      "en": "school",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Schulen",
+      "example": "Die Schule beginnt um acht.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Sport",
+      "en": "sport",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Sport hält gesund.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Training",
+      "en": "training",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Trainings",
+      "example": "Das Training ist dienstags.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "duschen",
+      "en": "to shower",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich dusche jeden Morgen.",
+      "present": "ich dusche · du duschst · er duscht",
+      "praet": "er duschte",
+      "perfekt": "hat geduscht",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "joggen",
+      "en": "to jog",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich jogge jeden zweiten Tag.",
+      "present": "ich jogge · du joggst · er joggt",
+      "praet": "er joggte",
+      "perfekt": "ist gejoggt",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "telefonieren",
+      "en": "to phone, to call",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich telefoniere mit meiner Mutter.",
+      "present": "ich telefoniere · du telefonierst · er telefoniert",
+      "praet": "er telefonierte",
+      "perfekt": "hat telefoniert",
+      "notes": "telefonieren mit + dative.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "treffen",
+      "en": "to meet",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Wir treffen uns um sechs Uhr.",
+      "present": "ich treffe · du triffst · er trifft",
+      "praet": "er traf",
+      "perfekt": "hat getroffen",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "Freunde treffen",
+      "en": "to meet friends",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Am Samstag treffe ich Freunde.",
+      "literal": "friends meet",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "schlafen",
+      "en": "to sleep",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich schlafe acht Stunden.",
+      "present": "ich schlafe · du schläfst · er schläft",
+      "praet": "er schlief",
+      "perfekt": "hat geschlafen",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "lange schlafen",
+      "en": "to sleep in",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Am Sonntag schlafe ich lange.",
+      "literal": "long sleep",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "spazieren gehen",
+      "en": "to go for a walk",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Abends gehen wir eine halbe Stunde spazieren.",
+      "present": "ich gehe spazieren · du gehst spazieren",
+      "praet": "er ging spazieren",
+      "perfekt": "ist spazieren gegangen",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "am Computer arbeiten",
+      "en": "to work on the computer",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Ich arbeite den ganzen Tag am Computer.",
+      "literal": "at the computer work",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "in die Kantine gehen",
+      "en": "to go to the canteen",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Um zwölf Uhr gehen wir in die Kantine.",
+      "literal": "into the canteen go",
+      "notes": "in + accusative for a direction.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "nach Hause gehen",
+      "en": "to go home",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Um fünf Uhr gehe ich nach Hause.",
+      "literal": "to home go",
+      "notes": "At home: zu Hause.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "Nachrichten lesen",
+      "en": "to read the news",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Morgens lese ich Nachrichten im Internet.",
+      "literal": "news read",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "Zeitung lesen",
+      "en": "to read the newspaper",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Mein Vater liest jeden Morgen Zeitung.",
+      "literal": "newspaper read",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Uhrzeit",
+      "en": "time of day",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Uhrzeiten",
+      "example": "Sag mir bitte die Uhrzeit.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "wie spät ist es",
+      "en": "what time is it",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Entschuldigung, wie spät ist es?",
+      "literal": "how late is it",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "wie viel Uhr ist es",
+      "en": "what time is it",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Wie viel Uhr ist es? – Es ist drei Uhr.",
+      "literal": "how much clock is it",
+      "notes": "Also: Wie spät ist es?",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "inoffiziell",
+      "en": "unofficial, informal",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Die inoffizielle Uhrzeit ist: Viertel nach vier.",
+      "comp": "",
+      "super": "",
+      "notes": "Not compared. Informal times: halb vier, Viertel nach vier.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "es ist vier Uhr",
+      "en": "it's four o'clock",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Es ist vier Uhr, wir müssen gehen.",
+      "literal": "it is four clock",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "es ist Viertel nach vier",
+      "en": "it's a quarter past four",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Es ist Viertel nach vier, der Film beginnt gleich.",
+      "literal": "it is quarter after four",
+      "notes": "Also: kurz nach vier, zwanzig nach vier.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Familie",
+      "en": "family",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Familien",
+      "example": "Meine Familie ist nicht groß.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Baby",
+      "en": "baby",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Babys",
+      "example": "Das Baby schläft gerade.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "wann",
+      "en": "when",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Wann kommst du?",
+      "notes": "Question word.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "am Montag",
+      "en": "on Monday",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Am Montag habe ich einen Deutschkurs.",
+      "notes": "an + dem = am.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "um drei Uhr",
+      "en": "at three o'clock",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Der Kurs beginnt um drei Uhr.",
+      "literal": "at three clock",
+      "notes": "um + time. Uhr can be left out: um drei.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "wie lange",
+      "en": "how long",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Wie lange dauert der Film?",
+      "literal": "how long",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "von Donnerstag bis Sonntag",
+      "en": "from Thursday to Sunday",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Das Festival ist von Donnerstag bis Sonntag.",
+      "literal": "from Thursday until Sunday",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "haben Sie morgen einen Termin",
+      "en": "do you have an appointment tomorrow",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Haben Sie morgen einen Termin beim Arzt?",
+      "literal": "have you tomorrow an appointment",
+      "notes": "Also with heute or am Montag.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "geht es am Montag um zehn Uhr",
+      "en": "does Monday at ten o'clock work",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Geht es am Montag um zehn Uhr? – Ja, das geht.",
+      "literal": "goes it on Monday at ten clock",
+      "notes": "Pattern: Geht es am … um … Uhr?",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "können Sie am Freitag um drei",
+      "en": "can you make it on Friday at three",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Können Sie am Freitag um drei? – Leider nicht.",
+      "literal": "can you on Friday at three",
+      "notes": "Pattern: Können Sie am … um …?",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "ja, da kann ich",
+      "en": "yes, I can make it then",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Am Dienstag? Ja, da kann ich.",
+      "literal": "yes, then can I",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "nein, da kann ich leider nicht",
+      "en": "no, unfortunately I can't make it then",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Am Mittwoch? Nein, da kann ich leider nicht.",
+      "literal": "no, then can I unfortunately not",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "auf Wiederhören",
+      "en": "goodbye (on the phone)",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Vielen Dank, auf Wiederhören!",
+      "literal": "on hearing again",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Bild",
+      "en": "picture",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Bilder",
+      "example": "Das Bild hängt schief.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Homepage",
+      "en": "homepage",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Homepages",
+      "example": "Die Informationen stehen auf unserer Homepage.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Hund",
+      "en": "dog",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Hunde",
+      "example": "Der Hund bellt die ganze Nacht.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Junge",
+      "en": "boy",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Jungen",
+      "example": "Der Junge spielt im Park.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Mädchen",
+      "en": "girl",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Mädchen",
+      "example": "Das Mädchen liest ein Buch.",
+      "notes": "Neuter because of -chen.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Motorrad",
+      "en": "motorbike",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Motorräder",
+      "example": "Sein Motorrad ist laut.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Party",
+      "en": "party",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Partys",
+      "example": "Die Party geht bis zwei Uhr.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Urlaub",
+      "en": "holiday, vacation",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Urlaube",
+      "example": "Der Urlaub war zu kurz.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "krank",
+      "en": "ill, sick",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Ich bin seit Montag krank.",
+      "comp": "kränker",
+      "super": "am kränksten",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "cool",
+      "en": "cool",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Das Konzert war echt cool!",
+      "comp": "cooler",
+      "super": "am coolsten",
+      "notes": "Informal.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "okay",
+      "en": "okay",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Okay, bis morgen!",
+      "notes": "Informal. Also written: OK.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "sehr nett",
+      "en": "very nice, very kind",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Das ist sehr nett von Ihnen.",
+      "literal": "very nice",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "bitte entschuldigen Sie",
+      "en": "please excuse me",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Bitte entschuldigen Sie, ich bin zu spät.",
+      "literal": "please excuse you",
+      "notes": "Formal. Informal: Entschuldige bitte.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das tut mir leid",
+      "en": "I'm sorry",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Das tut mir wirklich leid.",
+      "literal": "that does me sorrow",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "viele Grüße",
+      "en": "best wishes, kind regards",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Viele Grüße, deine Anna.",
+      "literal": "many greetings",
+      "notes": "At the end of a letter or email.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Chat",
+      "en": "chat",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Chats",
+      "example": "Wir schreiben im Chat.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Preis",
+      "en": "price",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Preise",
+      "example": "Der Preis ist zu hoch.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Treffpunkt",
+      "en": "meeting point",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Treffpunkte",
+      "example": "Unser Treffpunkt ist am Bahnhof.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "klettern",
+      "en": "to climb",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Am Wochenende klettern wir in den Bergen.",
+      "present": "ich klettere · du kletterst · er klettert",
+      "praet": "er kletterte",
+      "perfekt": "ist geklettert",
+      "notes": "Perfekt with sein for movement; hat geklettert is also used.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "Fahrrad fahren",
+      "en": "to ride a bike",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Ich fahre jeden Tag Fahrrad.",
+      "literal": "bicycle drive",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "Snowboard fahren",
+      "en": "to snowboard",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Im Winter fahren wir Snowboard.",
+      "literal": "snowboard drive",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "einen Film sehen",
+      "en": "to watch a film",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Heute Abend sehen wir einen Film.",
+      "literal": "a film see",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "im Internet surfen",
+      "en": "to surf the internet",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Abends surfe ich im Internet.",
+      "literal": "in the internet surf",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "wandern",
+      "en": "to hike",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Im Sommer wandern wir in den Alpen.",
+      "present": "ich wandere · du wanderst · er wandert",
+      "praet": "er wanderte",
+      "perfekt": "ist gewandert",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "draußen",
+      "en": "outside",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Die Kinder spielen draußen.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "draußen sein",
+      "en": "to be outside",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Bei schönem Wetter bin ich gern draußen.",
+      "literal": "outside be",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Ausflug",
+      "en": "excursion, day trip",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Ausflüge",
+      "example": "Wir machen einen Ausflug an den See.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Datum",
+      "en": "date",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Daten",
+      "example": "Welches Datum haben wir heute?",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Fest",
+      "en": "celebration, party",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Feste",
+      "example": "Wir feiern ein großes Fest.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Geschenk",
+      "en": "present",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Geschenke",
+      "example": "Das Geschenk ist noch nicht eingepackt.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Picknick",
+      "en": "picnic",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Picknicks",
+      "example": "Am Sonntag machen wir ein Picknick im Park.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Überraschung",
+      "en": "surprise",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Überraschungen",
+      "example": "Die Party war eine Überraschung.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "wann haben Sie Geburtstag",
+      "en": "when is your birthday",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Wann haben Sie Geburtstag? – Im Mai.",
+      "literal": "when have you birthday",
+      "notes": "Formal. Informal: Wann hast du Geburtstag?",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "ich habe am fünfzehnten November Geburtstag",
+      "en": "my birthday is on the fifteenth of November",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Ich habe am fünfzehnten November Geburtstag. Und du?",
+      "literal": "I have on the fifteenth November birthday",
+      "notes": "am + ordinal ending in -en.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "am 15. November",
+      "en": "on 15 November",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Die Party ist am 15. November.",
+      "literal": "on the 15th November",
+      "notes": "Say: am fünfzehnten November.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "einladen",
+      "en": "to invite",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich lade dich zum Essen ein.",
+      "present": "ich lade ein · du lädst ein · er lädt ein",
+      "praet": "er lud ein",
+      "perfekt": "hat eingeladen",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "planen",
+      "en": "to plan",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Wir planen das Projekt neu.",
+      "present": "ich plane · du planst · er plant",
+      "praet": "er plante",
+      "perfekt": "hat geplant",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "werden",
+      "en": "to become, to get",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Es wird kalt.",
+      "present": "ich werde · du wirst · er wird · wir werden · ihr werdet · sie werden",
+      "praet": "er wurde",
+      "perfekt": "ist geworden",
+      "notes": "Also builds the future: Ich werde kommen.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "wie alt wird er",
+      "en": "how old is he turning",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Wie alt wird er? – Er wird dreißig.",
+      "literal": "how old becomes he",
+      "notes": "werden = to become; with an age: to turn.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "er wird dreißig",
+      "en": "he's turning thirty",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Er wird dreißig und macht eine Party.",
+      "literal": "he becomes thirty",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "langweilig",
+      "en": "boring",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Der Abend war langweilig.",
+      "comp": "langweiliger",
+      "super": "am langweiligsten",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "klasse",
+      "en": "brilliant",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Dein Kuchen ist klasse.",
+      "comp": "",
+      "super": "",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "super",
+      "en": "super, great",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Das Konzert war super.",
+      "comp": "",
+      "super": "",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "toll",
+      "en": "great",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Die Idee ist toll.",
+      "comp": "toller",
+      "super": "am tollsten",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Messer",
+      "en": "knife",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Messer",
+      "example": "Das Messer ist scharf.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Gabel",
+      "en": "fork",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Gabeln",
+      "example": "Die Gabel liegt links.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Löffel",
+      "en": "spoon",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Löffel",
+      "example": "Für die Suppe brauchst du einen Löffel.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Kellner",
+      "en": "waiter",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Kellner",
+      "example": "Der Kellner bringt die Getränke.",
+      "notes": "Female: die Kellnerin.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Kellnerin",
+      "en": "waitress",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Kellnerinnen",
+      "example": "Die Kellnerin bringt die Speisekarte.",
+      "notes": "Male: der Kellner.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Rechnung",
+      "en": "bill",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Rechnungen",
+      "example": "Die Rechnung stimmt nicht.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Rechnung, bitte",
+      "en": "the bill, please",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Herr Ober, die Rechnung, bitte!",
+      "literal": "",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Serviette",
+      "en": "napkin",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Servietten",
+      "example": "Kann ich bitte eine Serviette haben?",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Teller",
+      "en": "plate",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Teller",
+      "example": "Der Teller ist leer.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Trinkgeld",
+      "en": "tip",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Trinkgelder",
+      "example": "Zehn Prozent Trinkgeld sind üblich.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Apfelsaftschorle",
+      "en": "apple juice spritzer",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Apfelsaftschorlen",
+      "example": "Eine Apfelsaftschorle, bitte.",
+      "notes": "Apple juice mixed with sparkling water.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Eis",
+      "en": "ice cream, ice",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "",
+      "example": "Im Sommer esse ich viel Eis.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Limonade",
+      "en": "lemonade",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Limonaden",
+      "example": "Die Kinder trinken Limonade.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Schnitzel",
+      "en": "schnitzel",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Schnitzel",
+      "example": "Ich nehme das Schnitzel mit Pommes.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "bestellen",
+      "en": "to order",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich bestelle eine Pizza.",
+      "present": "ich bestelle · du bestellst · er bestellt",
+      "praet": "er bestellte",
+      "perfekt": "hat bestellt",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "was möchten Sie bestellen",
+      "en": "what would you like to order",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Guten Abend! Was möchten Sie bestellen?",
+      "literal": "what would-like you order",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "für mich bitte ein Wasser",
+      "en": "a water for me, please",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Für mich bitte ein Wasser und eine Suppe.",
+      "literal": "for me please a water",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "ich hätte gern ein Wasser",
+      "en": "I'd like a water",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Ich hätte gern ein Wasser, bitte.",
+      "literal": "I would-have gladly a water",
+      "notes": "The polite way to order.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "ich nehme ein Wasser",
+      "en": "I'll have a water",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Ich nehme ein Wasser. Und du?",
+      "literal": "I take a water",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "bringen",
+      "en": "to bring",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Bringst du bitte das Buch mit?",
+      "present": "ich bringe · du bringst · er bringt",
+      "praet": "er brachte",
+      "perfekt": "hat gebracht",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "zahlen",
+      "en": "to pay",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich möchte zahlen, bitte.",
+      "present": "ich zahle · du zahlst · er zahlt",
+      "praet": "er zahlte",
+      "perfekt": "hat gezahlt",
+      "notes": "Zahlen, bitte! = The bill, please.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "können wir bitte zahlen",
+      "en": "can we pay, please",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Entschuldigung, können wir bitte zahlen?",
+      "literal": "can we please pay",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "zahlen, bitte",
+      "en": "the bill, please",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Zahlen, bitte! – Ich komme sofort.",
+      "literal": "pay, please",
+      "notes": "Short and informal.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "getrennt",
+      "en": "separate, separately",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Wir zahlen getrennt.",
+      "comp": "",
+      "super": "",
+      "notes": "Not compared.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "zusammen",
+      "en": "together",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Wir gehen zusammen ins Kino.",
+      "comp": "",
+      "super": "",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "zusammen oder getrennt",
+      "en": "together or separately",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Zahlen Sie zusammen oder getrennt?",
+      "literal": "",
+      "notes": "What the waiter asks when you pay.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "machen Sie 9 Euro",
+      "en": "make it 9 euros",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Das macht 8,50 Euro. – Machen Sie 9 Euro.",
+      "literal": "make you 9 euros",
+      "notes": "Rounds the bill up; the rest is the tip.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "stimmt so",
+      "en": "keep the change",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Zwanzig Euro, stimmt so!",
+      "literal": "that is right so",
+      "notes": "Said when leaving a tip.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "im Restaurant",
+      "en": "in the restaurant",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Heute essen wir im Restaurant.",
+      "literal": "in the restaurant",
+      "notes": "im = in dem.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Speisekarte",
+      "en": "menu",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Speisekarten",
+      "example": "Bringen Sie mir bitte die Speisekarte.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Biergarten",
+      "en": "beer garden",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Biergärten",
+      "example": "Im Sommer sitzen wir im Biergarten.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Kaffeehaus",
+      "en": "coffee house",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Kaffeehäuser",
+      "example": "In Wien gibt es viele Kaffeehäuser.",
+      "notes": "Typical in Austria.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Kneipe",
+      "en": "pub, bar",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Kneipen",
+      "example": "Nach der Arbeit gehen wir in die Kneipe.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Lokal",
+      "en": "pub, restaurant",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Lokale",
+      "example": "Das Lokal ist sehr gemütlich.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Strandbar",
+      "en": "beach bar",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Strandbars",
+      "example": "Wir trinken eine Cola in der Strandbar.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Idee",
+      "en": "idea",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Ideen",
+      "example": "Das ist eine gute Idee.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "gute Idee",
+      "en": "good idea",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Gehen wir ins Kino? – Gute Idee!",
+      "literal": "good idea",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "ich habe keine Lust",
+      "en": "I don't feel like it",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Kino? Nein, ich habe keine Lust.",
+      "literal": "I have no desire",
+      "notes": "Lust haben = to feel like.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Regen",
+      "en": "rain",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Der Regen hört nicht auf.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "bei Regen",
+      "en": "when it rains, in case of rain",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Bei Regen bleiben wir zu Hause.",
+      "literal": "at rain",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "abholen",
+      "en": "to pick up, to collect",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich hole dich vom Bahnhof ab.",
+      "present": "ich hole ab · du holst ab",
+      "praet": "er holte ab",
+      "perfekt": "hat abgeholt",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "anfangen",
+      "en": "to begin, to start",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Der Film fängt um acht Uhr an.",
+      "present": "ich fange an · du fängst an · er fängt an",
+      "praet": "er fing an",
+      "perfekt": "hat angefangen",
+      "notes": "Synonym: beginnen.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "anrufen",
+      "en": "to call, to phone",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich rufe dich morgen an.",
+      "present": "ich rufe an · du rufst an",
+      "praet": "er rief an",
+      "perfekt": "hat angerufen",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "aufhören",
+      "en": "to stop, to quit",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Hör bitte auf!",
+      "present": "ich höre auf · du hörst auf",
+      "praet": "er hörte auf",
+      "perfekt": "hat aufgehört",
+      "notes": "aufhören mit + Dativ.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "einkaufen",
+      "en": "to shop, to go shopping",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Am Samstag kaufe ich ein.",
+      "present": "ich kaufe ein · du kaufst ein",
+      "praet": "er kaufte ein",
+      "perfekt": "hat eingekauft",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "mitbringen",
+      "en": "to bring along",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Bring bitte einen Kuchen mit.",
+      "present": "ich bringe mit · du bringst mit",
+      "praet": "er brachte mit",
+      "perfekt": "hat mitgebracht",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "mitkommen",
+      "en": "to come along",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Kommst du mit ins Kino?",
+      "present": "ich komme mit · du kommst mit",
+      "praet": "er kam mit",
+      "perfekt": "ist mitgekommen",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "verraten",
+      "en": "to reveal, to give away",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich verrate dir ein Geheimnis.",
+      "present": "ich verrate · du verrätst · er verrät",
+      "praet": "er verriet",
+      "perfekt": "hat verraten",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "hoffentlich",
+      "en": "hopefully",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Hoffentlich regnet es morgen nicht.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "natürlich",
+      "en": "of course, naturally",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Kommst du mit? – Natürlich!",
+      "notes": "As an adjective: natürlich = natural.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "wichtig",
+      "en": "important",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Der Termin ist sehr wichtig.",
+      "comp": "wichtiger",
+      "super": "am wichtigsten",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Hemd",
+      "en": "shirt",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Hemden",
+      "example": "Das Hemd muss gebügelt werden.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Hose",
+      "en": "trousers",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Hosen",
+      "example": "Die Hose ist zu lang.",
+      "notes": "Singular in German.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Pullover",
+      "en": "jumper, sweater",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Pullover",
+      "example": "Der Pullover ist warm.",
+      "notes": "Short: der Pulli.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Jacke",
+      "en": "jacket",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Jacken",
+      "example": "Zieh eine Jacke an, es ist kalt.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Schal",
+      "en": "scarf",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Schals",
+      "example": "Der Schal ist aus Wolle.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Schuh",
+      "en": "shoe",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Schuhe",
+      "example": "Die Schuhe sind zu eng.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Mütze",
+      "en": "cap, woolly hat",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Mützen",
+      "example": "Setz die Mütze auf!",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Kleid",
+      "en": "dress",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Kleider",
+      "example": "Das Kleid trage ich zur Hochzeit.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Gürtel",
+      "en": "belt",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Gürtel",
+      "example": "Der Gürtel ist zu lang.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Handschuh",
+      "en": "glove",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Handschuhe",
+      "example": "Ich habe einen Handschuh verloren.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Rock",
+      "en": "skirt",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Röcke",
+      "example": "Der Rock ist zu kurz.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Mantel",
+      "en": "coat",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Mäntel",
+      "example": "Der Mantel hängt im Flur.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Bluse",
+      "en": "blouse",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Blusen",
+      "example": "Die Bluse ist aus Seide.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Anzug",
+      "en": "suit",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Anzüge",
+      "example": "Zum Termin trägt er einen Anzug.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Jeans",
+      "en": "jeans",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Jeans",
+      "example": "Meine Jeans ist alt.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Stiefel",
+      "en": "boot",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Stiefel",
+      "example": "Im Winter trage ich Stiefel.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Socke",
+      "en": "sock",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Socken",
+      "example": "Eine Socke fehlt.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "rot",
+      "en": "red",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Die Ampel ist rot.",
+      "comp": "roter",
+      "super": "am rotesten",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "blau",
+      "en": "blue",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Der Himmel ist blau.",
+      "comp": "blauer",
+      "super": "am blausten",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Kopf",
+      "en": "head",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Köpfe",
+      "example": "Mein Kopf tut weh.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Hals",
+      "en": "neck, throat",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Hälse",
+      "example": "Mein Hals kratzt seit gestern.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Rücken",
+      "en": "back",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Rücken",
+      "example": "Mein Rücken schmerzt vom Sitzen.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Bauch",
+      "en": "belly, stomach",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Bäuche",
+      "example": "Mein Bauch tut weh.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Bein",
+      "en": "leg",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Beine",
+      "example": "Nach dem Lauf sind meine Beine müde.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Arm",
+      "en": "arm",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Arme",
+      "example": "Er hat sich den Arm gebrochen.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Hand",
+      "en": "hand",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Hände",
+      "example": "Wasch dir bitte die Hände.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Fuß",
+      "en": "foot",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Füße",
+      "example": "Meine Füße sind kalt.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Ohr",
+      "en": "ear",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Ohren",
+      "example": "Das linke Ohr tut weh.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Auge",
+      "en": "eye",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Augen",
+      "example": "Mach die Augen zu!",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Schulter",
+      "en": "shoulder",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Schultern",
+      "example": "Die rechte Schulter ist steif.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Knie",
+      "en": "knee",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Knie",
+      "example": "Das Kind ist aufs Knie gefallen.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "Kopfschmerzen haben",
+      "en": "to have a headache",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Ich habe Kopfschmerzen.",
+      "literal": "head-pains have",
+      "notes": "Kopfschmerzen is plural.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "Halsschmerzen haben",
+      "en": "to have a sore throat",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Das Kind hat Halsschmerzen.",
+      "literal": "throat-pains have",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "Bauchschmerzen haben",
+      "en": "to have a stomach ache",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Nach dem Essen habe ich Bauchschmerzen.",
+      "literal": "belly-pains have",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "Rückenschmerzen haben",
+      "en": "to have back pain",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Mein Vater hat oft Rückenschmerzen.",
+      "literal": "back-pains have",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "Fieber haben",
+      "en": "to have a fever",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Sie hat hohes Fieber.",
+      "literal": "fever have",
+      "notes": "No article: Ich habe Fieber.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "Husten haben",
+      "en": "to have a cough",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Ich habe Husten und Schnupfen.",
+      "literal": "cough have",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "erkältet sein",
+      "en": "to have a cold",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Ich bin erkältet und bleibe zu Hause.",
+      "literal": "caught-cold be",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "sich unwohl fühlen",
+      "en": "to feel unwell",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Ich fühle mich heute unwohl.",
+      "literal": "oneself unwell feel",
+      "notes": "Reflexive: ich fühle mich, du fühlst dich.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Lehrer",
+      "en": "teacher",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Lehrer",
+      "example": "Mein Lehrer kommt aus Wien.",
+      "notes": "Female: die Lehrerin.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Lehrerin",
+      "en": "teacher (female)",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Lehrerinnen",
+      "example": "Die Lehrerin erklärt die Grammatik.",
+      "notes": "Male: der Lehrer.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Krankenpfleger",
+      "en": "nurse",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Krankenpfleger",
+      "example": "Der Krankenpfleger arbeitet im Krankenhaus.",
+      "notes": "Female: die Krankenpflegerin.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Krankenpflegerin",
+      "en": "nurse (female)",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Krankenpflegerinnen",
+      "example": "Die Krankenpflegerin hilft den Patienten.",
+      "notes": "Male: der Krankenpfleger.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Rechtsanwalt",
+      "en": "lawyer, attorney",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Rechtsanwälte",
+      "example": "Der Rechtsanwalt hat ein Büro in der Stadt.",
+      "notes": "Female: die Rechtsanwältin. Short: der Anwalt.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Rechtsanwältin",
+      "en": "lawyer, attorney (female)",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Rechtsanwältinnen",
+      "example": "Die Rechtsanwältin hilft mir.",
+      "notes": "Male: der Rechtsanwalt.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Verkäufer",
+      "en": "salesperson",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Verkäufer",
+      "example": "Er arbeitet als Verkäufer.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Verkäuferin",
+      "en": "salesperson (female)",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Verkäuferinnen",
+      "example": "Die Verkäuferin ist sehr freundlich.",
+      "notes": "Male: der Verkäufer.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Elektriker",
+      "en": "electrician",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Elektriker",
+      "example": "Der Elektriker prüft die Leitung.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Anwalt",
+      "en": "lawyer",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Anwälte",
+      "example": "Ich brauche einen Anwalt.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Anwältin",
+      "en": "lawyer (female)",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Anwältinnen",
+      "example": "Meine Tante ist Anwältin.",
+      "notes": "Male: der Anwalt.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Bäcker",
+      "en": "baker",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Bäcker",
+      "example": "Der Bäcker steht um drei Uhr auf.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Bäckerin",
+      "en": "baker (female)",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Bäckerinnen",
+      "example": "Die Bäckerin verkauft frisches Brot.",
+      "notes": "Male: der Bäcker.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Pfleger",
+      "en": "carer",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Pfleger",
+      "example": "Der Pfleger hilft dem alten Mann.",
+      "notes": "Female: die Pflegerin.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Pflegerin",
+      "en": "carer (female)",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Pflegerinnen",
+      "example": "Die Pflegerin arbeitet im Altenheim.",
+      "notes": "Male: der Pfleger.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Polizist",
+      "en": "police officer",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Polizisten",
+      "example": "Der Polizist kontrolliert die Ausweise.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Polizistin",
+      "en": "police officer (female)",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Polizistinnen",
+      "example": "Die Polizistin hilft uns.",
+      "notes": "Male: der Polizist.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Feuerwehrmann",
+      "en": "firefighter",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Feuerwehrmänner",
+      "example": "Der Feuerwehrmann löscht das Feuer.",
+      "notes": "Female: die Feuerwehrfrau.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Pilot",
+      "en": "pilot",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Piloten",
+      "example": "Der Pilot fliegt nach New York.",
+      "notes": "Female: die Pilotin.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Buchhalter",
+      "en": "accountant",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Buchhalter",
+      "example": "Der Buchhalter arbeitet mit Zahlen.",
+      "notes": "Female: die Buchhalterin.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Fähre",
+      "en": "ferry",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Fähren",
+      "example": "Wir fahren mit der Fähre auf die Insel.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Mietwagen",
+      "en": "rental car, hire car",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Mietwagen",
+      "example": "Am Flughafen nehmen wir einen Mietwagen.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Abfahrt",
+      "en": "departure",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Abfahrten",
+      "example": "Die Abfahrt ist um 8:14 Uhr.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Ankunft",
+      "en": "arrival",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Ankünfte",
+      "example": "Die Ankunft ist für 12 Uhr geplant.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Gleis",
+      "en": "platform, track",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Gleise",
+      "example": "Der Zug fährt auf Gleis sieben.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Reisepass",
+      "en": "passport",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Reisepässe",
+      "example": "Mein Reisepass läuft bald ab.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Verspätung",
+      "en": "delay",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Verspätungen",
+      "example": "Der Zug hat zehn Minuten Verspätung.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Haltestelle",
+      "en": "stop",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Haltestellen",
+      "example": "Die Haltestelle ist vor der Apotheke.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "hin und zurück",
+      "en": "return, round trip",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Hin und zurück oder nur einfach?",
+      "literal": "there and back",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "einfache Fahrt",
+      "en": "one-way ticket, single",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Eine einfache Fahrt nach Berlin, bitte.",
+      "literal": "simple journey",
+      "notes": "Return: hin und zurück.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "umsteigen",
+      "en": "to change (trains, buses)",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "In Frankfurt musst du umsteigen.",
+      "present": "ich steige um · du steigst um",
+      "praet": "er stieg um",
+      "perfekt": "ist umgestiegen",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "einsteigen",
+      "en": "to get in, to board",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Bitte einsteigen!",
+      "present": "ich steige ein · du steigst ein",
+      "praet": "er stieg ein",
+      "perfekt": "ist eingestiegen",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "aussteigen",
+      "en": "to get off, to get out",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich steige an der nächsten Haltestelle aus.",
+      "present": "ich steige aus · du steigst aus",
+      "praet": "er stieg aus",
+      "perfekt": "ist ausgestiegen",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "buchen",
+      "en": "to book",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich buche den Flug heute.",
+      "present": "ich buche · du buchst · er bucht",
+      "praet": "er buchte",
+      "perfekt": "hat gebucht",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "stornieren",
+      "en": "to cancel",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich möchte meine Buchung stornieren.",
+      "present": "ich storniere · du stornierst · er storniert",
+      "praet": "er stornierte",
+      "perfekt": "hat storniert",
+      "notes": "Used for bookings and orders.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "es regnet",
+      "en": "it's raining",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Es regnet, nimm einen Schirm mit.",
+      "literal": "it rains",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "es schneit",
+      "en": "it's snowing",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Im Winter schneit es oft.",
+      "literal": "it snows",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "es ist sonnig",
+      "en": "it's sunny",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Heute ist es sonnig und warm.",
+      "literal": "it is sunny",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "es ist bewölkt",
+      "en": "it's cloudy",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Es ist bewölkt, aber es regnet nicht.",
+      "literal": "it is clouded",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "es ist windig",
+      "en": "it's windy",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Am Meer ist es oft windig.",
+      "literal": "it is windy",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "es friert",
+      "en": "it's freezing",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "In der Nacht friert es.",
+      "literal": "it freezes",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Schnee",
+      "en": "snow",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Der Schnee liegt seit gestern.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Wind",
+      "en": "wind",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Winde",
+      "example": "Der Wind kommt von Norden.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Sonne",
+      "en": "sun",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Sonnen",
+      "example": "Die Sonne scheint den ganzen Tag.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Wolke",
+      "en": "cloud",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Wolken",
+      "example": "Am Himmel sind keine Wolken.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Nebel",
+      "en": "fog",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Am Morgen war dichter Nebel.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Sturm",
+      "en": "storm",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Stürme",
+      "example": "Der Sturm hat einen Baum umgeworfen.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Blitz",
+      "en": "lightning",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Blitze",
+      "example": "Der Blitz war ganz nah.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Donner",
+      "en": "thunder",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Der Donner kam nach dem Blitz.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Hagel",
+      "en": "hail",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Der Hagel ist sehr laut.",
+      "notes": "No plural.",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Apotheke",
+      "en": "pharmacy",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Apotheken",
+      "example": "Die Apotheke ist gegenüber vom Bahnhof.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "das Krankenhaus",
+      "en": "hospital",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Krankenhäuser",
+      "example": "Er liegt seit gestern im Krankenhaus.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Post",
+      "en": "post office, mail",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Die Post ist gleich neben der Bank.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Ampel",
+      "en": "traffic light",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Ampeln",
+      "example": "Die Ampel ist rot.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Kreuzung",
+      "en": "crossroads, junction",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Kreuzungen",
+      "example": "An der Kreuzung links abbiegen.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Stadtplan",
+      "en": "city map",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Stadtpläne",
+      "example": "Auf dem Stadtplan sehe ich es nicht.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Bibliothek",
+      "en": "library",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Bibliotheken",
+      "example": "In der Bibliothek ist es still.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Bank",
+      "en": "bank",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Banken",
+      "example": "Die Bank öffnet um neun.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "der Marktplatz",
+      "en": "market square",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Marktplätze",
+      "example": "Auf dem Marktplatz ist ein Brunnen.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    },
+    {
+      "de": "die Polizei",
+      "en": "police",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Die Polizei ist in fünf Minuten da.",
+      "notes": "",
+      "tags": [
+        "LGG-Basic-A1-Pack"
+      ]
+    }
+  ]
+}

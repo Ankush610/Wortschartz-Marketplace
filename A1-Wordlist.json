@@ -1,0 +1,7962 @@
+{
+  "app": "wortschatz",
+  "v": 2,
+  "words": [
+    {
+      "de": "ab",
+      "en": "from, starting (from)",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Ab Montag arbeite ich wieder.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "aber",
+      "en": "but",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Ich bin müde, aber ich arbeite noch.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "abfahren",
+      "en": "to depart, to leave",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Der Zug fährt um acht Uhr ab.",
+      "perfekt": "ist abgefahren",
+      "notes": "Separable.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Abfahrt",
+      "en": "departure",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Abfahrten",
+      "example": "Die Abfahrt ist um 8 Uhr.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "abgeben",
+      "en": "to hand in, to give back, to submit",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Bitte geben Sie das Formular hier ab.",
+      "perfekt": "hat abgegeben",
+      "notes": "Separable.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "abholen",
+      "en": "to pick up, to collect",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich hole dich am Bahnhof ab.",
+      "present": "ich hole ab · du holst ab",
+      "praet": "er holte ab",
+      "perfekt": "hat abgeholt",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Absender",
+      "en": "sender",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Absender",
+      "example": "Der Absender steht oben auf dem Brief.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "Achtung",
+      "en": "attention, watch out",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Achtung, der Zug fährt ab!",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Adresse",
+      "en": "address",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Adressen",
+      "example": "Wie ist Ihre Adresse?",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "alle",
+      "en": "all, everyone",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Alle Kinder spielen.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "allein",
+      "en": "alone",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Ich wohne allein.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "also",
+      "en": "so, well",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Also, was machen wir heute?",
+      "notes": "Not English 'also' – that is auch.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "alt",
+      "en": "old",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Opa ist alt.",
+      "comp": "älter",
+      "super": "am ältesten",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Alter",
+      "en": "age",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "",
+      "example": "Bitte schreiben Sie Ihr Alter in das Formular.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "an",
+      "en": "at, on, to",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Das Bild hängt an der Wand.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "anbieten",
+      "en": "to offer",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Darf ich Ihnen einen Kaffee anbieten?",
+      "perfekt": "hat angeboten",
+      "notes": "Separable.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Angebot",
+      "en": "offer, special offer",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Angebote",
+      "example": "Heute ist Kaffee im Angebot.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "andere",
+      "en": "other, different",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Ich möchte eine andere Farbe.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "anfangen",
+      "en": "to begin, to start",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Der Film fängt um acht Uhr an.",
+      "present": "ich fange an · du fängst an · er fängt an",
+      "praet": "er fing an",
+      "perfekt": "hat angefangen",
+      "notes": "Synonym: beginnen.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Anfang",
+      "en": "beginning, start",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Anfänge",
+      "example": "Am Anfang ist Deutsch schwer.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "anklicken",
+      "en": "to click (on)",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Klicken Sie das Bild an.",
+      "perfekt": "hat angeklickt",
+      "notes": "Separable.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "ankommen",
+      "en": "to arrive",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Der Zug kommt um zehn Uhr in Berlin an.",
+      "perfekt": "ist angekommen",
+      "notes": "Separable.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Ankunft",
+      "en": "arrival",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Ankünfte",
+      "example": "Die Ankunft ist um 12 Uhr.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "ankreuzen",
+      "en": "to mark with a cross, to tick",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Kreuzen Sie die richtige Antwort an.",
+      "perfekt": "hat angekreuzt",
+      "notes": "Separable.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "anmachen",
+      "en": "to switch on, to turn on",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Kannst du bitte das Licht anmachen?",
+      "perfekt": "hat angemacht",
+      "notes": "Separable.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "sich anmelden",
+      "en": "to register, to sign up",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich melde mich für den Deutschkurs an.",
+      "perfekt": "hat sich angemeldet",
+      "notes": "Separable.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Anmeldung",
+      "en": "registration, reception (desk)",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Anmeldungen",
+      "example": "Bitte gehen Sie zuerst zur Anmeldung.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Anrede",
+      "en": "form of address, salutation",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Anreden",
+      "example": "Die Anrede im Brief ist „Sehr geehrte Frau Weber“.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "anrufen",
+      "en": "to call, to phone",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich rufe dich morgen an.",
+      "present": "ich rufe an · du rufst an",
+      "praet": "er rief an",
+      "perfekt": "hat angerufen",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Anruf",
+      "en": "phone call",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Anrufe",
+      "example": "Danke für Ihren Anruf.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Anrufbeantworter",
+      "en": "answering machine",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Anrufbeantworter",
+      "example": "Bitte sprechen Sie auf den Anrufbeantworter.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Ansage",
+      "en": "announcement",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Ansagen",
+      "example": "Hören Sie die Ansage am Telefon.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Anschluss",
+      "en": "connection",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Anschlüsse",
+      "example": "In Köln haben Sie einen Anschluss nach Bonn.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "an sein",
+      "en": "to be on (switched on)",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Der Computer ist noch an.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "antworten",
+      "en": "to answer, to reply",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Bitte antworten Sie schnell.",
+      "perfekt": "hat geantwortet",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Antwort",
+      "en": "answer, reply",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Antworten",
+      "example": "Die Antwort ist richtig.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Anzeige",
+      "en": "advertisement, ad",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Anzeigen",
+      "example": "Ich lese die Anzeigen in der Zeitung.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "anziehen",
+      "en": "to get dressed, to put on (clothes)",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich ziehe eine Jacke an.",
+      "perfekt": "hat angezogen",
+      "notes": "Separable; to get dressed = sich anziehen.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Apartment",
+      "en": "apartment",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Apartments",
+      "example": "Das Apartment hat ein Zimmer und eine Küche.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Apfel",
+      "en": "apple",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Äpfel",
+      "example": "Ich esse einen roten Apfel.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Appetit",
+      "en": "appetite",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Ich bin krank und habe keinen Appetit.",
+      "notes": "Guten Appetit! = Enjoy your meal.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "arbeiten",
+      "en": "to work",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich arbeite in einem Büro.",
+      "perfekt": "hat gearbeitet",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Arbeit",
+      "en": "work, job",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Arbeiten",
+      "example": "Ich fahre mit dem Bus zur Arbeit.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "arbeitslos",
+      "en": "unemployed",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Mein Bruder ist zurzeit arbeitslos.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Arbeitsplatz",
+      "en": "workplace, job",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Arbeitsplätze",
+      "example": "Mein Arbeitsplatz ist im Büro.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Arm",
+      "en": "arm",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Arme",
+      "example": "Ich habe zwei Arme.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Arzt",
+      "en": "doctor",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Ärzte",
+      "example": "Ich bin krank. Ich gehe zum Arzt.",
+      "notes": "Female: die Ärztin.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "auch",
+      "en": "also, too",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich trinke auch einen Kaffee.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "auf",
+      "en": "on, onto, in (a language)",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Die Katze sitzt auf dem Sofa.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Aufgabe",
+      "en": "task, exercise",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Aufgaben",
+      "example": "Lesen Sie die Aufgabe.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "aufhören",
+      "en": "to stop, to quit",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Der Regen hört auf.",
+      "present": "ich höre auf · du hörst auf",
+      "praet": "er hörte auf",
+      "perfekt": "hat aufgehört",
+      "notes": "aufhören mit + Dativ.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "auf sein",
+      "en": "to be open",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Die Bank ist bis 16 Uhr auf.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "aufstehen",
+      "en": "to get up, to stand up",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich stehe um sieben Uhr auf.",
+      "perfekt": "ist aufgestanden",
+      "notes": "Separable.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Aufzug",
+      "en": "lift, elevator",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Aufzüge",
+      "example": "Wir fahren mit dem Aufzug in den dritten Stock.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Auge",
+      "en": "eye",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Augen",
+      "example": "Ich sehe mit den Augen.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "aus",
+      "en": "from, out of",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Ich komme aus Spanien.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Ausflug",
+      "en": "excursion, day trip",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Ausflüge",
+      "example": "Wir machen einen Ausflug an den See.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "ausfüllen",
+      "en": "to fill in, to fill out",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Bitte füllen Sie das Formular aus.",
+      "perfekt": "hat ausgefüllt",
+      "notes": "Separable.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Ausgang",
+      "en": "exit",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Ausgänge",
+      "example": "Wo ist der Ausgang?",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Auskunft",
+      "en": "information",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Auskünfte",
+      "example": "Ich brauche eine Auskunft.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Ausland",
+      "en": "abroad, foreign countries",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "",
+      "example": "Mein Bruder arbeitet im Ausland.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Ausländer",
+      "en": "foreigner",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Ausländer",
+      "example": "In Berlin leben viele Ausländer.",
+      "notes": "Female: die Ausländerin.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "ausländisch",
+      "en": "foreign",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Ich koche gern ausländisches Essen.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "ausmachen",
+      "en": "to switch off, to turn off",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Mach bitte das Licht aus.",
+      "perfekt": "hat ausgemacht",
+      "notes": "Separable.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Aussage",
+      "en": "statement",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Aussagen",
+      "example": "Ist die Aussage richtig oder falsch?",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "aussehen",
+      "en": "to look, to appear",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Du siehst heute gut aus.",
+      "perfekt": "hat ausgesehen",
+      "notes": "Separable.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "aus sein",
+      "en": "to be off, to be over",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Der Film ist um zehn Uhr aus.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "aussteigen",
+      "en": "to get off, to get out",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich steige aus dem Bus aus.",
+      "present": "ich steige aus · du steigst aus",
+      "praet": "er stieg aus",
+      "perfekt": "ist ausgestiegen",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Ausweis",
+      "en": "ID card",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Ausweise",
+      "example": "Kann ich bitte Ihren Ausweis sehen?",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "ausziehen",
+      "en": "to undress, to take off (clothes)",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich ziehe die Schuhe aus.",
+      "perfekt": "hat ausgezogen",
+      "notes": "Separable; to undress = sich ausziehen.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Auto",
+      "en": "car",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Autos",
+      "example": "Mein Auto ist rot.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Autobahn",
+      "en": "motorway, highway",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Autobahnen",
+      "example": "Wir fahren auf der Autobahn nach München.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Automat",
+      "en": "vending machine, ticket machine",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Automaten",
+      "example": "Die Fahrkarte kaufe ich am Automaten.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "automatisch",
+      "en": "automatic, automatically",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Die Tür geht automatisch auf.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Baby",
+      "en": "baby",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Babys",
+      "example": "Das Baby schläft.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Bäckerei",
+      "en": "bakery",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Bäckereien",
+      "example": "In der Bäckerei kaufe ich Brot.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Bad",
+      "en": "bath, bathroom",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Bäder",
+      "example": "Die Wohnung hat ein Bad und eine Küche.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "baden",
+      "en": "to bathe, to take a bath",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Das Kind badet am Abend.",
+      "perfekt": "hat gebadet",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Bahn",
+      "en": "train, railway",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Bahnen",
+      "example": "Ich fahre mit der Bahn nach Hamburg.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Bahnhof",
+      "en": "station",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Bahnhöfe",
+      "example": "Am Bahnhof warte ich auf den Zug.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Bahnsteig",
+      "en": "platform",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Bahnsteige",
+      "example": "Wir warten auf dem Bahnsteig.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "bald",
+      "en": "soon",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich komme bald nach Hause.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Balkon",
+      "en": "balcony",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Balkons",
+      "example": "Die Wohnung hat einen Balkon.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Banane",
+      "en": "banana",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Bananen",
+      "example": "Die Banane ist gelb.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Bank",
+      "en": "bank",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Banken",
+      "example": "Mein Geld ist auf der Bank.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "bar",
+      "en": "(in) cash",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich bezahle bar.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Bauch",
+      "en": "belly, stomach",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Bäuche",
+      "example": "Ich habe viel gegessen. Mein Bauch ist voll.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Baum",
+      "en": "tree",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Bäume",
+      "example": "Im Garten steht ein großer Baum.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Beamte",
+      "en": "civil servant, official",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Beamten",
+      "example": "Der Beamte arbeitet im Rathaus.",
+      "notes": "Female: die Beamtin.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "bedeuten",
+      "en": "to mean",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Was bedeutet „Tschüss“?",
+      "perfekt": "hat bedeutet",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "beginnen",
+      "en": "to begin, to start",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Wann beginnt der Film?",
+      "perfekt": "hat begonnen",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "bei",
+      "en": "near, at, with",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Ich wohne bei meinen Eltern.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "beide",
+      "en": "both",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Wir kommen beide aus Italien.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Bein",
+      "en": "leg",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Beine",
+      "example": "Ich habe zwei Beine.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Beispiel",
+      "en": "example",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Beispiele",
+      "example": "Haben Sie ein Beispiel?",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "zum Beispiel",
+      "en": "for example",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Ich esse gern Obst, zum Beispiel Äpfel.",
+      "notes": "Short: z. B.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "bekannt",
+      "en": "well-known, famous",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Der Film ist sehr bekannt.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Bekannte",
+      "en": "acquaintance",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Bekannten",
+      "example": "Er ist kein Freund, nur ein Bekannter.",
+      "notes": "Female: die Bekannte.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "bekommen",
+      "en": "to get, to receive",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich bekomme einen Brief.",
+      "perfekt": "hat bekommen",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "benutzen",
+      "en": "to use",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Darf ich Ihr Telefon benutzen?",
+      "perfekt": "hat benutzt",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Beruf",
+      "en": "job, profession",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Berufe",
+      "example": "Mein Beruf ist Lehrer.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "besetzt",
+      "en": "occupied, taken, busy (phone)",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Ist der Platz hier besetzt?",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "besichtigen",
+      "en": "to visit, to view (sights)",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Wir besichtigen heute das Museum.",
+      "perfekt": "hat besichtigt",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "besser",
+      "en": "better",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Heute geht es mir besser.",
+      "notes": "Comparative of gut.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "beste",
+      "en": "best",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Das ist der beste Kaffee in der Stadt.",
+      "notes": "Superlative of gut; also: am besten.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "bestellen",
+      "en": "to order",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich bestelle eine Pizza.",
+      "present": "ich bestelle · du bestellst · er bestellt",
+      "praet": "er bestellte",
+      "perfekt": "hat bestellt",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "besuchen",
+      "en": "to visit",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich besuche meine Oma.",
+      "present": "ich besuche · du besuchst · er besucht",
+      "praet": "er besuchte",
+      "perfekt": "hat besucht",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Bett",
+      "en": "bed",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Betten",
+      "example": "Ich gehe um elf Uhr ins Bett.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "bezahlen",
+      "en": "to pay",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich bezahle mit Karte.",
+      "perfekt": "hat bezahlt",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Bier",
+      "en": "beer",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Biere",
+      "example": "Mein Vater trinkt Bier.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Bild",
+      "en": "picture",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Bilder",
+      "example": "Das Bild hängt an der Wand.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "billig",
+      "en": "cheap",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Das Brot kostet nur 1 Euro. Es ist billig.",
+      "comp": "billiger",
+      "super": "am billigsten",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Birne",
+      "en": "pear",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Birnen",
+      "example": "Die Birne ist süß.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "bis",
+      "en": "until, up to, as far as",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Der Kurs geht bis zwölf Uhr.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "ein bisschen",
+      "en": "a bit, a little",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Ich spreche ein bisschen Deutsch.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "bitte",
+      "en": "please, you're welcome",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Einen Kaffee, bitte.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Bitte",
+      "en": "request",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Bitten",
+      "example": "Ich habe eine Bitte.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "bitten",
+      "en": "to ask (for), to request",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich bitte Sie um Hilfe.",
+      "perfekt": "hat gebeten",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "bitter",
+      "en": "bitter",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Der Kaffee ist bitter.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "bleiben",
+      "en": "to stay, to remain",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich bleibe heute zu Hause.",
+      "perfekt": "ist geblieben",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Bleistift",
+      "en": "pencil",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Bleistifte",
+      "example": "Ich schreibe mit dem Bleistift.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Blick",
+      "en": "view, look",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Blicke",
+      "example": "Das Hotel hat einen schönen Blick auf das Meer.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Blume",
+      "en": "flower",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Blumen",
+      "example": "Ich kaufe Blumen für meine Mutter.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Bogen",
+      "en": "sheet",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Bögen",
+      "example": "Schreiben Sie die Antworten auf den Antwortbogen.",
+      "notes": "Antwortbogen = answer sheet.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "böse",
+      "en": "angry, bad, evil",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Bist du böse auf mich?",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "brauchen",
+      "en": "to need",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich habe Durst. Ich brauche Wasser.",
+      "present": "ich brauche · du brauchst · er braucht",
+      "praet": "er brauchte",
+      "perfekt": "hat gebraucht",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "breit",
+      "en": "wide",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Die Straße ist breit.",
+      "comp": "breiter",
+      "super": "am breitesten",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Brief",
+      "en": "letter",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Briefe",
+      "example": "Ich schreibe einen Brief.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Briefmarke",
+      "en": "stamp",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Briefmarken",
+      "example": "Ich brauche eine Briefmarke für den Brief.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "bringen",
+      "en": "to bring",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Der Kellner bringt das Essen.",
+      "present": "ich bringe · du bringst · er bringt",
+      "praet": "er brachte",
+      "perfekt": "hat gebracht",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Brot",
+      "en": "bread",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Brote",
+      "example": "Ich kaufe Brot beim Bäcker.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Brötchen",
+      "en": "bread roll",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Brötchen",
+      "example": "Zum Frühstück esse ich ein Brötchen.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Bruder",
+      "en": "brother",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Brüder",
+      "example": "Mein Bruder ist 20 Jahre alt.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Buch",
+      "en": "book",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Bücher",
+      "example": "Ich lese ein Buch.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Buchstabe",
+      "en": "letter (of the alphabet)",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Buchstaben",
+      "example": "Das Wort hat fünf Buchstaben.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "buchstabieren",
+      "en": "to spell",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "A, N, N, A – ich buchstabiere meinen Namen.",
+      "present": "ich buchstabiere · du buchstabierst · er buchstabiert",
+      "praet": "er buchstabierte",
+      "perfekt": "hat buchstabiert",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Bus",
+      "en": "bus",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Busse",
+      "example": "Ich fahre mit dem Bus.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Butter",
+      "en": "butter",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Ich esse Brot mit Butter.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Café",
+      "en": "café",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Cafés",
+      "example": "Ich trinke Kaffee im Café.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die CD",
+      "en": "CD",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "CDs",
+      "example": "Ich höre eine CD.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Chef",
+      "en": "boss",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Chefs",
+      "example": "Mein Chef ist sehr nett.",
+      "notes": "Female: die Chefin.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "circa",
+      "en": "approximately, about",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Die Fahrt dauert circa zwei Stunden.",
+      "notes": "Short: ca.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Computer",
+      "en": "computer",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Computer",
+      "example": "Ich arbeite am Computer.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "da",
+      "en": "there",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Da ist der Bahnhof!",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Dame",
+      "en": "lady",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Damen",
+      "example": "Die Dame da ist meine Lehrerin.",
+      "notes": "Damen = Ladies (on doors).",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "daneben",
+      "en": "next to it, beside it",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Da ist die Bank, und daneben ist die Post.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "danken",
+      "en": "to thank",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich danke Ihnen für die Hilfe.",
+      "perfekt": "hat gedankt",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Dank",
+      "en": "thanks",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Vielen Dank für das Geschenk!",
+      "notes": "Vielen Dank! = Thanks a lot!",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "danke",
+      "en": "thank you, thanks",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Danke für den Kaffee!",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "dann",
+      "en": "then",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich esse, dann schlafe ich.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Datum",
+      "en": "date",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Daten",
+      "example": "Das Datum heute ist der 5. Mai.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "dauern",
+      "en": "to last, to take (time)",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Der Kurs dauert drei Monate.",
+      "perfekt": "hat gedauert",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "dein",
+      "en": "your (informal)",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Ist das dein Buch?",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "denn",
+      "en": "because, since",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Ich esse etwas, denn ich habe Hunger.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der",
+      "en": "the, that, which, who",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Der Mann heißt Peter.",
+      "notes": "Feminine: die, neuter: das.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "dich",
+      "en": "you (accusative, informal)",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Ich rufe dich morgen an.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "dieser",
+      "en": "this, these",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Dieser Pullover ist schön.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "dir",
+      "en": "(to) you (dative, informal)",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Wie geht es dir?",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Disco",
+      "en": "disco, club",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Discos",
+      "example": "Am Samstag gehen wir in die Disco.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Doktor",
+      "en": "doctor",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Doktoren",
+      "example": "Ich bin krank und gehe zum Doktor.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Doppelzimmer",
+      "en": "double room",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Doppelzimmer",
+      "example": "Wir möchten ein Doppelzimmer für zwei Nächte.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Dorf",
+      "en": "village",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Dörfer",
+      "example": "Meine Oma wohnt in einem kleinen Dorf.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "dort",
+      "en": "there",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Dort ist der Bahnhof.",
+      "notes": "Also: dorther (from there), dorthin (to there).",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "draußen",
+      "en": "outside",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Die Kinder spielen draußen.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "drucken",
+      "en": "to print",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich drucke den Brief.",
+      "perfekt": "hat gedruckt",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Drucker",
+      "en": "printer",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Drucker",
+      "example": "Der Drucker ist kaputt.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "drücken",
+      "en": "to press, to push",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Drücken Sie bitte die Tür.",
+      "perfekt": "hat gedrückt",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "durch",
+      "en": "through",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Wir gehen durch den Park.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Durchsage",
+      "en": "announcement (over a loudspeaker)",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Durchsagen",
+      "example": "Hören Sie die Durchsage am Bahnhof.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "dürfen",
+      "en": "may, to be allowed to",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Darf ich hier rauchen?",
+      "perfekt": "hat gedurft",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Durst",
+      "en": "thirst",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Ich habe Durst.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "duschen",
+      "en": "to shower",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich dusche am Morgen.",
+      "present": "ich dusche · du duschst · er duscht",
+      "praet": "er duschte",
+      "perfekt": "hat geduscht",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Dusche",
+      "en": "shower",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Duschen",
+      "example": "Das Zimmer hat eine Dusche.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Ecke",
+      "en": "corner",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Ecken",
+      "example": "Die Bäckerei ist an der Ecke.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Ehefrau",
+      "en": "wife",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Ehefrauen",
+      "example": "Das ist meine Ehefrau Maria.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Ehemann",
+      "en": "husband",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Ehemänner",
+      "example": "Ihr Ehemann heißt Thomas.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Ei",
+      "en": "egg",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Eier",
+      "example": "Zum Frühstück esse ich ein Ei.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "eilig",
+      "en": "urgent, in a hurry",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Ich habe es eilig.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "ein",
+      "en": "a, an, one",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Ich habe ein Auto.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "einfach",
+      "en": "easy, simple",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Eins plus eins ist zwei. Das ist einfach.",
+      "comp": "einfacher",
+      "super": "am einfachsten",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Eingang",
+      "en": "entrance",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Eingänge",
+      "example": "Der Eingang ist links.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "einkaufen",
+      "en": "to shop, to go shopping",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich kaufe im Supermarkt ein.",
+      "present": "ich kaufe ein · du kaufst ein",
+      "praet": "er kaufte ein",
+      "perfekt": "hat eingekauft",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "einladen",
+      "en": "to invite",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich lade dich zu meiner Party ein.",
+      "present": "ich lade ein · du lädst ein · er lädt ein",
+      "praet": "er lud ein",
+      "perfekt": "hat eingeladen",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Einladung",
+      "en": "invitation",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Einladungen",
+      "example": "Danke für die Einladung!",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "einmal",
+      "en": "once",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich gehe einmal pro Woche schwimmen.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "einsteigen",
+      "en": "to get in, to board",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich steige in den Bus ein.",
+      "present": "ich steige ein · du steigst ein",
+      "praet": "er stieg ein",
+      "perfekt": "ist eingestiegen",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Eintritt",
+      "en": "entry, admission",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Eintritte",
+      "example": "Der Eintritt kostet fünf Euro.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Einzelzimmer",
+      "en": "single room",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Einzelzimmer",
+      "example": "Ich möchte ein Einzelzimmer, bitte.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Eltern",
+      "en": "parents",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Meine Eltern wohnen in Köln.",
+      "notes": "Plural only.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die E-Mail",
+      "en": "e-mail",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "E-Mails",
+      "example": "Ich schreibe dir eine E-Mail.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Empfänger",
+      "en": "recipient",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Empfänger",
+      "example": "Der Name vom Empfänger steht auf dem Brief.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "empfehlen",
+      "en": "to recommend",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Können Sie mir ein Restaurant empfehlen?",
+      "perfekt": "hat empfohlen",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "enden",
+      "en": "to end",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Der Kurs endet im Juni.",
+      "perfekt": "hat geendet",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Ende",
+      "en": "end",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Enden",
+      "example": "Am Ende vom Film sind alle glücklich.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "entschuldigen",
+      "en": "to excuse",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Entschuldigen Sie, wo ist die Post?",
+      "perfekt": "hat entschuldigt",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "Entschuldigung",
+      "en": "excuse me, sorry",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Entschuldigung, wo ist der Bahnhof?",
+      "notes": "As a noun: die Entschuldigung = apology.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "er",
+      "en": "he",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Er heißt Tom.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Ergebnis",
+      "en": "result",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Ergebnisse",
+      "example": "Das Ergebnis vom Test ist gut.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "erklären",
+      "en": "to explain",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Können Sie das bitte erklären?",
+      "perfekt": "hat erklärt",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "erlauben",
+      "en": "to allow, to permit",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Meine Eltern erlauben das nicht.",
+      "perfekt": "hat erlaubt",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Erwachsene",
+      "en": "adult",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Erwachsenen",
+      "example": "Der Eintritt für Erwachsene kostet zehn Euro.",
+      "notes": "Female: die Erwachsene.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "erzählen",
+      "en": "to tell, to narrate",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Erzähl mal, wie war dein Urlaub?",
+      "perfekt": "hat erzählt",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "es",
+      "en": "it",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Wo ist das Buch? – Es liegt auf dem Tisch.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "essen",
+      "en": "to eat",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich esse einen Apfel.",
+      "present": "ich esse · du isst · er isst",
+      "praet": "er aß",
+      "perfekt": "hat gegessen",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Essen",
+      "en": "food, meal",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Essen",
+      "example": "Das Essen ist fertig!",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "euer",
+      "en": "your (plural, informal)",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Ist das euer Auto?",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "fahren",
+      "en": "to drive, to go (by vehicle)",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich fahre mit dem Auto.",
+      "present": "ich fahre · du fährst · er fährt",
+      "praet": "er fuhr",
+      "perfekt": "ist gefahren",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Fahrer",
+      "en": "driver",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Fahrer",
+      "example": "Der Fahrer fährt den Bus.",
+      "notes": "Female: die Fahrerin.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Fahrkarte",
+      "en": "ticket",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Fahrkarten",
+      "example": "Ich kaufe eine Fahrkarte für den Zug.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Fahrrad",
+      "en": "bicycle",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Fahrräder",
+      "example": "Ich fahre mit dem Fahrrad.",
+      "notes": "Short: das Rad.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "falsch",
+      "en": "wrong, false",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Die Antwort ist falsch.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Familie",
+      "en": "family",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Familien",
+      "example": "Mama, Papa und ich sind eine Familie.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Familienname",
+      "en": "surname, last name",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Familiennamen",
+      "example": "Mein Familienname ist Müller.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Familienstand",
+      "en": "marital status",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Bitte schreiben Sie Ihren Familienstand in das Formular.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Farbe",
+      "en": "colour",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Farben",
+      "example": "Meine Lieblingsfarbe ist Blau.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Fax",
+      "en": "fax",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Faxe",
+      "example": "Ich schicke Ihnen ein Fax.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Feierabend",
+      "en": "end of the working day",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Feierabende",
+      "example": "Um fünf Uhr habe ich Feierabend.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Feiertag",
+      "en": "public holiday",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Feiertage",
+      "example": "Morgen ist ein Feiertag, die Geschäfte sind zu.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "feiern",
+      "en": "to celebrate",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Wir feiern heute meinen Geburtstag.",
+      "perfekt": "hat gefeiert",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "fehlen",
+      "en": "to be missing, to be absent",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Heute fehlt Peter im Kurs.",
+      "perfekt": "hat gefehlt",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Fehler",
+      "en": "mistake, error",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Fehler",
+      "example": "Der Text hat drei Fehler.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "fernsehen",
+      "en": "to watch TV",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Am Abend sehe ich fern.",
+      "perfekt": "hat ferngesehen",
+      "notes": "Separable.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "fertig",
+      "en": "ready, finished",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Das Essen ist fertig.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Feuer",
+      "en": "fire, light (for a cigarette)",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Feuer",
+      "example": "Haben Sie Feuer?",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Fieber",
+      "en": "fever",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "",
+      "example": "Das Kind hat Fieber.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Film",
+      "en": "film, movie",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Filme",
+      "example": "Im Kino sehe ich einen Film.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "finden",
+      "en": "to find, to think (an opinion)",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Wie findest du das Hotel?",
+      "perfekt": "hat gefunden",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Firma",
+      "en": "company",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Firmen",
+      "example": "Ich arbeite bei einer Firma.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Fisch",
+      "en": "fish",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Fische",
+      "example": "Der Fisch schwimmt im Wasser.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Flasche",
+      "en": "bottle",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Flaschen",
+      "example": "Ich kaufe eine Flasche Wasser.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Fleisch",
+      "en": "meat",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "",
+      "example": "Ich esse kein Fleisch.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "fliegen",
+      "en": "to fly",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Wir fliegen nach Spanien.",
+      "perfekt": "ist geflogen",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "abfliegen",
+      "en": "to take off, to depart (by plane)",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Das Flugzeug fliegt um zehn Uhr ab.",
+      "perfekt": "ist abgeflogen",
+      "notes": "Separable.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Abflug",
+      "en": "departure (flight)",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Abflüge",
+      "example": "Der Abflug ist um 14 Uhr.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Flughafen",
+      "en": "airport",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Flughäfen",
+      "example": "Am Flughafen sind viele Flugzeuge.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Flugzeug",
+      "en": "aeroplane",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Flugzeuge",
+      "example": "Das Flugzeug fliegt nach Berlin.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Formular",
+      "en": "form",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Formulare",
+      "example": "Ich schreibe meinen Namen in das Formular.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Foto",
+      "en": "photo",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Fotos",
+      "example": "Ich mache ein Foto.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "fragen",
+      "en": "to ask",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich frage den Lehrer.",
+      "present": "ich frage · du fragst · er fragt",
+      "praet": "er fragte",
+      "perfekt": "hat gefragt",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Frage",
+      "en": "question",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Fragen",
+      "example": "Ich habe eine Frage.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Frau",
+      "en": "woman, wife, Mrs, Ms",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Frauen",
+      "example": "Die Frau heißt Anna.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "frei",
+      "en": "free, vacant",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Ist der Platz frei?",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Freizeit",
+      "en": "free time",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Ich arbeite nicht. Ich habe Freizeit.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "fremd",
+      "en": "foreign, strange, unfamiliar",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Ich bin fremd hier.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "sich freuen",
+      "en": "to be happy, to look forward to",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich freue mich auf das Wochenende.",
+      "perfekt": "hat sich gefreut",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Freund",
+      "en": "friend, boyfriend",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Freunde",
+      "example": "Tom ist mein Freund.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "früher",
+      "en": "earlier, in the past",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Früher habe ich in Berlin gewohnt.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "frühstücken",
+      "en": "to have breakfast",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich frühstücke um sieben Uhr.",
+      "perfekt": "hat gefrühstückt",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Frühstück",
+      "en": "breakfast",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Frühstücke",
+      "example": "Zum Frühstück esse ich Brot.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Führung",
+      "en": "guided tour",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Führungen",
+      "example": "Die Führung im Museum beginnt um zehn Uhr.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "für",
+      "en": "for",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Das Geschenk ist für dich.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Fuß",
+      "en": "foot",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Füße",
+      "example": "Meine Füße sind kalt.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Fußball",
+      "en": "football, soccer",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Fußbälle",
+      "example": "Am Wochenende spiele ich Fußball.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Garten",
+      "en": "garden",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Gärten",
+      "example": "Die Kinder spielen im Garten.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Gast",
+      "en": "guest",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Gäste",
+      "example": "Wir haben heute Gäste.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "geben",
+      "en": "to give",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Gib mir bitte das Salz.",
+      "perfekt": "hat gegeben",
+      "notes": "Es gibt = there is, there are.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "geboren",
+      "en": "born",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Ich bin 1990 in Berlin geboren.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Geburtsjahr",
+      "en": "year of birth",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Geburtsjahre",
+      "example": "Mein Geburtsjahr ist 1995.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Geburtsort",
+      "en": "place of birth",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Geburtsorte",
+      "example": "Ich bin in Berlin geboren. Mein Geburtsort ist Berlin.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Geburtstag",
+      "en": "birthday",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Geburtstage",
+      "example": "Heute ist mein Geburtstag. Ich bin 20!",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "gefallen",
+      "en": "to like, to please",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Die Stadt gefällt mir sehr.",
+      "perfekt": "hat gefallen",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "gegen",
+      "en": "against, into",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Das Auto fährt gegen einen Baum.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "gehen",
+      "en": "to go, to walk",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich gehe zu Fuß.",
+      "present": "ich gehe · du gehst · er geht",
+      "praet": "er ging",
+      "perfekt": "ist gegangen",
+      "notes": "gehen = on foot, fahren = by vehicle.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "gehören",
+      "en": "to belong (to)",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Das Buch gehört mir.",
+      "perfekt": "hat gehört",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Geld",
+      "en": "money",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "",
+      "example": "Ich habe kein Geld.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Gemüse",
+      "en": "vegetables",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "",
+      "example": "Tomaten und Gurken sind Gemüse.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Gepäck",
+      "en": "luggage, baggage",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "",
+      "example": "Mein Gepäck ist im Auto.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "gerade",
+      "en": "just, right now",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich esse gerade.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "geradeaus",
+      "en": "straight ahead",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Gehen Sie geradeaus.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "gern",
+      "en": "gladly, willingly",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich trinke gern Tee.",
+      "notes": "gern after a verb = to like doing it.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Geschäft",
+      "en": "shop, business",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Geschäfte",
+      "example": "Im Geschäft kaufe ich Schuhe.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Geschenk",
+      "en": "present",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Geschenke",
+      "example": "Zum Geburtstag bekomme ich ein Geschenk.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Geschwister",
+      "en": "siblings",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Hast du Geschwister?",
+      "notes": "Plural only.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Gespräch",
+      "en": "conversation, talk, meeting",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Gespräche",
+      "example": "Ich habe heute ein Gespräch mit meinem Chef.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "gestern",
+      "en": "yesterday",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Gestern war ich im Kino.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "gestorben",
+      "en": "died, dead",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Mein Opa ist 2010 gestorben.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Getränk",
+      "en": "drink",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Getränke",
+      "example": "Wasser ist ein Getränk.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Gewicht",
+      "en": "weight",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Gewichte",
+      "example": "Wie ist Ihr Gewicht?",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "gewinnen",
+      "en": "to win",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Wir gewinnen das Spiel.",
+      "perfekt": "hat gewonnen",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Glas",
+      "en": "glass",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Gläser",
+      "example": "Ein Glas Wasser, bitte.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "glauben",
+      "en": "to believe, to think",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich glaube, es regnet morgen.",
+      "perfekt": "hat geglaubt",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "gleich",
+      "en": "same, immediately, in a moment",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Warte, ich komme gleich.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Gleis",
+      "en": "platform, track",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Gleise",
+      "example": "Der Zug fährt von Gleis drei.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Glück",
+      "en": "luck, happiness",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "",
+      "example": "Viel Glück bei der Prüfung!",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "glücklich",
+      "en": "happy, lucky",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Ich bin sehr glücklich.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Glückwunsch",
+      "en": "congratulations",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Glückwünsche",
+      "example": "Herzlichen Glückwunsch zum Geburtstag!",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Grad",
+      "en": "degree (Celsius)",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Grad",
+      "example": "Heute sind es 25 Grad.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "gratulieren",
+      "en": "to congratulate",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich gratuliere dir zum Geburtstag.",
+      "perfekt": "hat gratuliert",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "grillen",
+      "en": "to barbecue, to grill",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Am Sonntag grillen wir im Garten.",
+      "perfekt": "hat gegrillt",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "groß",
+      "en": "tall, big",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Der Elefant ist groß.",
+      "comp": "größer",
+      "super": "am größten",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Größe",
+      "en": "size, height",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Größen",
+      "example": "Welche Größe haben Sie?",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Großeltern",
+      "en": "grandparents",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Meine Großeltern wohnen auf dem Land.",
+      "notes": "Plural only.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Großmutter",
+      "en": "grandmother",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Großmütter",
+      "example": "Meine Großmutter ist 80 Jahre alt.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Großvater",
+      "en": "grandfather",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Großväter",
+      "example": "Mein Großvater liest gern Zeitung.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Gruppe",
+      "en": "group",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Gruppen",
+      "example": "Wir lernen in einer Gruppe.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Gruß",
+      "en": "greeting",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Grüße",
+      "example": "Viele Grüße an deine Familie!",
+      "notes": "Mit freundlichen Grüßen = Kind regards.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "gültig",
+      "en": "valid",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Mein Ausweis ist nicht mehr gültig.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "günstig",
+      "en": "cheap, good value, favourable",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Das Hotel ist sehr günstig.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "gut",
+      "en": "good, well",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Das Essen ist gut.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Haar",
+      "en": "hair",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Haare",
+      "example": "Sie hat lange Haare.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "haben",
+      "en": "to have",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich habe ein Auto.",
+      "perfekt": "hat gehabt",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Hähnchen",
+      "en": "chicken",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Hähnchen",
+      "example": "Ich esse Hähnchen mit Reis.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Halbpension",
+      "en": "half board",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Wir buchen ein Zimmer mit Halbpension.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Halle",
+      "en": "hall",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Hallen",
+      "example": "Das Konzert ist in der großen Halle.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "hallo",
+      "en": "hello",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Hallo, ich bin Tom!",
+      "notes": "Works at any time of day.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "halten",
+      "en": "to stop, to hold",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Der Bus hält an der Haltestelle.",
+      "perfekt": "hat gehalten",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Haltestelle",
+      "en": "stop",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Haltestellen",
+      "example": "Ich warte an der Haltestelle auf den Bus.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Hand",
+      "en": "hand",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Hände",
+      "example": "Die Hand hat fünf Finger.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Handy",
+      "en": "mobile phone, cell phone",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Handys",
+      "example": "Mein Handy ist kaputt.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Haus",
+      "en": "house",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Häuser",
+      "example": "Wir wohnen in einem großen Haus.",
+      "notes": "nach Hause = home, zu Hause = at home.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Hausaufgabe",
+      "en": "homework",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Hausaufgaben",
+      "example": "Ich mache meine Hausaufgaben.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Hausfrau",
+      "en": "housewife",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Hausfrauen",
+      "example": "Meine Mutter ist Hausfrau.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Hausmann",
+      "en": "househusband",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Hausmänner",
+      "example": "Mein Vater ist Hausmann.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Heimat",
+      "en": "home, homeland",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Meine Heimat ist Indien.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "heiraten",
+      "en": "to marry, to get married",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Wir heiraten im Mai.",
+      "perfekt": "hat geheiratet",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "heißen",
+      "en": "to be called",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich heiße Anna.",
+      "present": "ich heiße · du heißt · er heißt",
+      "praet": "er hieß",
+      "perfekt": "hat geheißen",
+      "notes": "Ich heiße Ankush = My name is Ankush.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "helfen",
+      "en": "to help",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Kannst du mir helfen?",
+      "perfekt": "hat geholfen",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "hell",
+      "en": "bright, light",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Das Zimmer ist hell.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Herd",
+      "en": "cooker, stove",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Herde",
+      "example": "Die Suppe steht auf dem Herd.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Herr",
+      "en": "Mr, gentleman",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Herren",
+      "example": "Guten Tag, Herr Schmidt!",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "herzlich",
+      "en": "warm, cordial, heartfelt",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Herzlich willkommen in Berlin!",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "heute",
+      "en": "today",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Heute ist Montag.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "hier",
+      "en": "here",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich wohne hier.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Hilfe",
+      "en": "help",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Danke für Ihre Hilfe.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "hinten",
+      "en": "at the back, behind",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Im Bus sitze ich hinten.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Hobby",
+      "en": "hobby",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Hobbys",
+      "example": "Mein Hobby ist Fußball.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "hoch",
+      "en": "high, tall",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Der Turm ist hoch.",
+      "comp": "höher",
+      "super": "am höchsten",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Hochzeit",
+      "en": "wedding",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Hochzeiten",
+      "example": "Die Hochzeit ist im Sommer.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "holen",
+      "en": "to fetch, to get",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich hole schnell Brot.",
+      "perfekt": "hat geholt",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "hören",
+      "en": "to hear, to listen",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich höre Musik.",
+      "perfekt": "hat gehört",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Hotel",
+      "en": "hotel",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Hotels",
+      "example": "Im Urlaub schlafe ich im Hotel.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Hund",
+      "en": "dog",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Hunde",
+      "example": "Der Hund sagt „Wau Wau“.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Hunger",
+      "en": "hunger",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Ich habe Hunger.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "ich",
+      "en": "I",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Ich heiße Maria.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "ihr",
+      "en": "(to) her",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Ich gebe ihr das Buch.",
+      "notes": "Dative of sie.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "ihm",
+      "en": "(to) him",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Ich helfe ihm.",
+      "notes": "Dative of er.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "ihn",
+      "en": "him",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Ich sehe ihn morgen.",
+      "notes": "Accusative of er.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "immer",
+      "en": "always",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich trinke immer Kaffee am Morgen.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "in",
+      "en": "in, into",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Ich wohne in Berlin.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Information",
+      "en": "information",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Informationen",
+      "example": "Ich brauche mehr Informationen.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "international",
+      "en": "international",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Das ist eine internationale Schule.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Internet",
+      "en": "internet",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "",
+      "example": "Ich lese die Nachrichten im Internet.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "ja",
+      "en": "yes",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Ja, ich komme mit.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Jacke",
+      "en": "jacket",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Jacken",
+      "example": "Zieh eine Jacke an, es ist kalt.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "jeder",
+      "en": "every, each",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Ich lerne jeden Tag Deutsch.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "jetzt",
+      "en": "now",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Jetzt habe ich Zeit.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Job",
+      "en": "job",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Jobs",
+      "example": "Ich suche einen Job.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Jugendliche",
+      "en": "teenager, young person",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Jugendlichen",
+      "example": "Im Park spielen Jugendliche Fußball.",
+      "notes": "Female: die Jugendliche.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "jung",
+      "en": "young",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Meine Schwester ist noch jung.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Junge",
+      "en": "boy",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Jungen",
+      "example": "Der Junge heißt Tom.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Kaffee",
+      "en": "coffee",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Am Morgen trinke ich Kaffee.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "kaputt",
+      "en": "broken",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Der Fernseher ist kaputt.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Karte",
+      "en": "card, ticket, menu, map",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Karten",
+      "example": "Kann ich mit Karte zahlen?",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Kreditkarte",
+      "en": "credit card",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Kreditkarten",
+      "example": "Kann ich mit Kreditkarte bezahlen?",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Kartoffel",
+      "en": "potato",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Kartoffeln",
+      "example": "Pommes sind aus Kartoffeln.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Kasse",
+      "en": "cash desk, checkout, till",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Kassen",
+      "example": "Bitte zahlen Sie an der Kasse.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "kaufen",
+      "en": "to buy",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich kaufe Brot.",
+      "present": "ich kaufe · du kaufst · er kauft",
+      "praet": "er kaufte",
+      "perfekt": "hat gekauft",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "kein",
+      "en": "no, not a, not any",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Ich habe kein Auto.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "kennen",
+      "en": "to know (be familiar with)",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Kennst du meinen Bruder?",
+      "perfekt": "hat gekannt",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "kennenlernen",
+      "en": "to get to know, to meet",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich möchte dich gern kennenlernen.",
+      "perfekt": "hat kennengelernt",
+      "notes": "Separable.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Kind",
+      "en": "child",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Kinder",
+      "example": "Wir haben zwei Kinder.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Kindergarten",
+      "en": "kindergarten, nursery school",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Kindergärten",
+      "example": "Mein Sohn geht in den Kindergarten.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Kino",
+      "en": "cinema",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Kinos",
+      "example": "Wir sehen einen Film im Kino.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Kiosk",
+      "en": "kiosk",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Kioske",
+      "example": "Ich kaufe eine Zeitung am Kiosk.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "klar",
+      "en": "clear, of course, sure",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Kommst du mit? – Klar!",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Klasse",
+      "en": "class",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Klassen",
+      "example": "In meiner Klasse sind 20 Schüler.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Kleidung",
+      "en": "clothing, clothes",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Ich kaufe neue Kleidung.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "klein",
+      "en": "small, little",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Die Wohnung ist klein.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "kochen",
+      "en": "to cook",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich koche Nudeln.",
+      "present": "ich koche · du kochst · er kocht",
+      "praet": "er kochte",
+      "perfekt": "hat gekocht",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Koffer",
+      "en": "suitcase",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Koffer",
+      "example": "Mein Koffer ist sehr schwer.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Kollege",
+      "en": "colleague",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Kollegen",
+      "example": "Tom ist mein Kollege. Wir arbeiten zusammen.",
+      "notes": "Female: die Kollegin.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "kommen",
+      "en": "to come",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich komme aus Indien.",
+      "present": "ich komme · du kommst · er kommt",
+      "praet": "er kam",
+      "perfekt": "ist gekommen",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "können",
+      "en": "can, to be able to",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich kann gut schwimmen.",
+      "perfekt": "hat gekonnt",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Konto",
+      "en": "bank account",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Konten",
+      "example": "Ich habe ein Konto bei der Bank.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Kopf",
+      "en": "head",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Köpfe",
+      "example": "Ich trage eine Mütze auf dem Kopf.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "kosten",
+      "en": "to cost",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Das Brot kostet zwei Euro.",
+      "present": "es kostet · sie kosten",
+      "praet": "es kostete",
+      "perfekt": "hat gekostet",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "krank",
+      "en": "ill, sick",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Ich bin krank. Ich gehe zum Arzt.",
+      "comp": "kränker",
+      "super": "am kränksten",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "kriegen",
+      "en": "to get, to receive",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich kriege jeden Monat Geld.",
+      "perfekt": "hat gekriegt",
+      "notes": "Informal.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Küche",
+      "en": "kitchen",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Küchen",
+      "example": "Ich koche in der Küche.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Kuchen",
+      "en": "cake",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Kuchen",
+      "example": "Zum Geburtstag gibt es Kuchen.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Kugelschreiber",
+      "en": "ballpoint pen",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Kugelschreiber",
+      "example": "Haben Sie einen Kugelschreiber?",
+      "notes": "Short: der Kuli.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Kühlschrank",
+      "en": "refrigerator, fridge",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Kühlschränke",
+      "example": "Die Milch ist im Kühlschrank.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "kulturell",
+      "en": "cultural",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Die Stadt hat ein großes kulturelles Angebot.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "sich kümmern",
+      "en": "to take care (of), to look after",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich kümmere mich um meine Oma.",
+      "perfekt": "hat sich gekümmert",
+      "notes": "Used with um.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Kunde",
+      "en": "customer",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Kunden",
+      "example": "Der Kunde möchte bezahlen.",
+      "notes": "Female: die Kundin.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Kurs",
+      "en": "course",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Kurse",
+      "example": "Der Kurs ist am Montag und Mittwoch.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "kurz",
+      "en": "short",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Die Hose ist kurz.",
+      "comp": "kürzer",
+      "super": "am kürzesten",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "lachen",
+      "en": "to laugh",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Die Kinder lachen viel.",
+      "perfekt": "hat gelacht",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Laden",
+      "en": "shop, store",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Läden",
+      "example": "Der Laden ist am Sonntag zu.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Land",
+      "en": "country",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Länder",
+      "example": "Deutschland ist ein Land.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "lang",
+      "en": "long",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Der Weg ist lang.",
+      "comp": "länger",
+      "super": "am längsten",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "lange",
+      "en": "(for) a long time",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich warte schon lange.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "langsam",
+      "en": "slow, slowly",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Bitte sprechen Sie langsam.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "laufen",
+      "en": "to walk, to run",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich laufe jeden Morgen im Park.",
+      "perfekt": "ist gelaufen",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "laut",
+      "en": "loud, noisy",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Die Musik ist zu laut.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "leben",
+      "en": "to live, to be alive",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Meine Oma lebt noch.",
+      "perfekt": "hat gelebt",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Leben",
+      "en": "life",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Leben",
+      "example": "Das Leben in Berlin ist schön.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Lebensmittel",
+      "en": "food, groceries",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Lebensmittel",
+      "example": "Brot und Milch sind Lebensmittel.",
+      "notes": "Mostly used in the plural: die Lebensmittel.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "ledig",
+      "en": "single, unmarried",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Ich bin ledig.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "legen",
+      "en": "to lay, to put (flat)",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich lege das Buch auf den Tisch.",
+      "perfekt": "hat gelegt",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Lehrer",
+      "en": "teacher",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Lehrer",
+      "example": "Der Lehrer arbeitet in der Schule.",
+      "notes": "Female: die Lehrerin.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "leicht",
+      "en": "easy, light (weight)",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Die Aufgabe ist leicht.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "leider",
+      "en": "unfortunately",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich habe leider keine Zeit.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "leise",
+      "en": "quiet, soft",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Bitte sei leise, das Baby schläft.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "lernen",
+      "en": "to learn, to study",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich lerne Deutsch.",
+      "present": "ich lerne · du lernst · er lernt",
+      "praet": "er lernte",
+      "perfekt": "hat gelernt",
+      "notes": "lernen = to learn, studieren = to study at university.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "lesen",
+      "en": "to read",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich lese ein Buch.",
+      "present": "ich lese · du liest · er liest",
+      "praet": "er las",
+      "perfekt": "hat gelesen",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "letzte",
+      "en": "last",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Letzte Woche war ich in Paris.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Leute",
+      "en": "people",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Im Park sind viele Leute.",
+      "notes": "Plural only.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Licht",
+      "en": "light",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Lichter",
+      "example": "Im Zimmer ist kein Licht.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "lieb",
+      "en": "dear",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Liebe Anna, wie geht es dir?",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "lieben",
+      "en": "to love",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich liebe meine Familie.",
+      "perfekt": "hat geliebt",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "lieber",
+      "en": "rather, preferably",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich trinke lieber Tee als Kaffee.",
+      "notes": "Comparative of gern.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Lieblingsessen",
+      "en": "favourite food",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Lieblingsessen",
+      "example": "Mein Lieblingsessen ist Pizza.",
+      "notes": "Lieblings- = favourite.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Lied",
+      "en": "song",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Lieder",
+      "example": "Wir singen ein Lied.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "liegen",
+      "en": "to lie, to be located",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Das Buch liegt auf dem Tisch.",
+      "perfekt": "hat gelegen",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "links",
+      "en": "left, on the left",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Der Bahnhof ist links.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Lkw",
+      "en": "lorry, truck",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Lkws",
+      "example": "Der Lkw fährt auf der Autobahn.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Lokal",
+      "en": "pub, restaurant",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Lokale",
+      "example": "Wir essen in einem Lokal.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Lösung",
+      "en": "solution, answer",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Lösungen",
+      "example": "Die Lösung ist auf Seite zehn.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "lustig",
+      "en": "funny, cheerful",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Der Film ist sehr lustig.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "machen",
+      "en": "to do, to make",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich mache Kaffee.",
+      "present": "ich mache · du machst · er macht",
+      "praet": "er machte",
+      "perfekt": "hat gemacht",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Mädchen",
+      "en": "girl",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Mädchen",
+      "example": "Das Mädchen heißt Anna.",
+      "notes": "Neuter because of -chen.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "man",
+      "en": "one, you, people (in general)",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Hier darf man nicht rauchen.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Mann",
+      "en": "man, husband",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Männer",
+      "example": "Der Mann dort ist mein Vater.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "männlich",
+      "en": "male",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Tom ist männlich.",
+      "notes": "Not compared.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Maschine",
+      "en": "machine",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Maschinen",
+      "example": "Die Maschine ist kaputt.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Meer",
+      "en": "sea",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Meere",
+      "example": "Ich schwimme im Meer.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "mehr",
+      "en": "more",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich möchte noch mehr Kaffee.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "mein",
+      "en": "my",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Das ist mein Bruder.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "meiste",
+      "en": "most",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Die meisten Leute fahren mit dem Bus.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Mensch",
+      "en": "person, human being",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Menschen",
+      "example": "Ein Mensch hat zwei Beine.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "mieten",
+      "en": "to rent",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Wir mieten eine Wohnung.",
+      "perfekt": "hat gemietet",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Miete",
+      "en": "rent",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Mieten",
+      "example": "Die Miete ist sehr hoch.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Milch",
+      "en": "milk",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Die Milch ist weiß.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "mit",
+      "en": "with",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Ich gehe mit meiner Freundin ins Kino.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "mitbringen",
+      "en": "to bring along",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Bring bitte einen Kuchen mit.",
+      "present": "ich bringe mit · du bringst mit",
+      "praet": "er brachte mit",
+      "perfekt": "hat mitgebracht",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "mitkommen",
+      "en": "to come along",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich gehe ins Kino. Kommst du mit?",
+      "present": "ich komme mit · du kommst mit",
+      "praet": "er kam mit",
+      "perfekt": "ist mitgekommen",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "mitmachen",
+      "en": "to join in, to take part",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Wir spielen Fußball. Machst du mit?",
+      "perfekt": "hat mitgemacht",
+      "notes": "Separable.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "mitnehmen",
+      "en": "to take along",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Nimm eine Jacke mit!",
+      "perfekt": "hat mitgenommen",
+      "notes": "Separable.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Mitte",
+      "en": "middle, centre",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Der Tisch steht in der Mitte.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Möbel",
+      "en": "furniture",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Wir kaufen neue Möbel.",
+      "notes": "Plural only.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "möchten",
+      "en": "would like (to)",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich möchte einen Kaffee.",
+      "notes": "Polite form of mögen, no Partizip II of its own.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "mögen",
+      "en": "to like",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich mag Schokolade.",
+      "present": "ich mag · du magst · er mag · wir mögen · ihr mögt · sie mögen",
+      "praet": "er mochte",
+      "perfekt": "hat gemocht",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "möglich",
+      "en": "possible",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Ist das möglich?",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Moment",
+      "en": "moment",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Momente",
+      "example": "Warten Sie bitte einen Moment.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "morgen",
+      "en": "tomorrow",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Morgen habe ich frei.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "müde",
+      "en": "tired",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Ich bin sehr müde.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Mund",
+      "en": "mouth",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Münder",
+      "example": "Mach bitte den Mund auf.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "müssen",
+      "en": "must, to have to",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich muss heute arbeiten.",
+      "perfekt": "hat gemusst",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Mutter",
+      "en": "mother",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Mütter",
+      "example": "Meine Mutter heißt Maria.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "nach",
+      "en": "to, after, past (time)",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Nach dem Essen trinke ich Kaffee.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "nächste",
+      "en": "next, nearest",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Nächste Woche fahre ich nach Wien.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Name",
+      "en": "name",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Namen",
+      "example": "Mein Name ist Anna.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "nehmen",
+      "en": "to take",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich nehme den Bus.",
+      "present": "ich nehme · du nimmst · er nimmt",
+      "praet": "er nahm",
+      "perfekt": "hat genommen",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "nein",
+      "en": "no",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Möchtest du Tee? – Nein, danke.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "neu",
+      "en": "new",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Ich habe ein neues Handy.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "nicht",
+      "en": "not",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich rauche nicht.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "nichts",
+      "en": "nothing",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Ich habe heute nichts gegessen.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "nie",
+      "en": "never",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich trinke nie Alkohol.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "noch",
+      "en": "still, yet, another, more",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich wohne noch bei meinen Eltern.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "normal",
+      "en": "normal",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Das ist ganz normal.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Nummer",
+      "en": "number",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Nummern",
+      "example": "Wie ist deine Nummer?",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "nur",
+      "en": "only",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich habe nur zehn Euro.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "oben",
+      "en": "above, upstairs",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Das Schlafzimmer ist oben.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Obst",
+      "en": "fruit",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "",
+      "example": "Äpfel und Bananen sind Obst.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "oder",
+      "en": "or",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Möchtest du Tee oder Kaffee?",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "öffnen",
+      "en": "to open",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Können Sie bitte das Fenster öffnen?",
+      "perfekt": "hat geöffnet",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "geöffnet",
+      "en": "open, opened",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Der Supermarkt ist bis 20 Uhr geöffnet.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "oft",
+      "en": "often",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich gehe oft ins Kino.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "ohne",
+      "en": "without",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Ich trinke Kaffee ohne Zucker.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Öl",
+      "en": "oil",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Öle",
+      "example": "Ich koche mit Öl.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Oma",
+      "en": "grandma",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Omas",
+      "example": "Meine Oma backt gern Kuchen.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Opa",
+      "en": "grandpa",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Opas",
+      "example": "Mein Opa liest die Zeitung.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Ordnung",
+      "en": "order",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Ist alles in Ordnung?",
+      "notes": "In Ordnung = all right, OK.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Ort",
+      "en": "place, town",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Orte",
+      "example": "Der Ort ist klein und schön.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Papier",
+      "en": "paper",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Papiere",
+      "example": "Ich brauche Papier und einen Stift.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Papiere",
+      "en": "documents, papers",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Die Polizei möchte meine Papiere sehen.",
+      "notes": "Plural only in this sense.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Partner",
+      "en": "partner",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Partner",
+      "example": "Mein Partner heißt Tom.",
+      "notes": "Female: die Partnerin.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Partnerin",
+      "en": "partner (female)",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Partnerinnen",
+      "example": "Meine Partnerin heißt Anna.",
+      "notes": "Male: der Partner.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Party",
+      "en": "party",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Partys",
+      "example": "Auf der Party tanzen wir.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Pass",
+      "en": "passport",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Pässe",
+      "example": "Am Flughafen zeige ich meinen Pass.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Pause",
+      "en": "break, pause",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Pausen",
+      "example": "Wir machen eine Pause.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Plan",
+      "en": "plan, map",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Pläne",
+      "example": "Ich habe einen Plan von der Stadt.",
+      "notes": "City map: der Stadtplan.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Platz",
+      "en": "seat, place, square",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Plätze",
+      "example": "Ist hier noch ein Platz frei?",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Polizei",
+      "en": "police",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Hilfe! Ich rufe die Polizei.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Pommes frites",
+      "en": "chips, French fries",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Ich esse Pommes frites mit Ketchup.",
+      "notes": "Plural only. Short: Pommes.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Post",
+      "en": "post office, mail",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Ich bringe den Brief zur Post.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Postleitzahl",
+      "en": "postcode, zip code",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Postleitzahlen",
+      "example": "Die Postleitzahl von Berlin ist 10115.",
+      "notes": "Short: die PLZ.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Praktikum",
+      "en": "internship",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Praktika",
+      "example": "Ich mache ein Praktikum bei einer Firma.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Praxis",
+      "en": "(doctor's) practice, surgery",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Praxen",
+      "example": "Die Praxis ist am Mittwoch geschlossen.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Preis",
+      "en": "price",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Preise",
+      "example": "Der Preis ist 5 Euro.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Problem",
+      "en": "problem",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Probleme",
+      "example": "Ich habe ein Problem mit meinem Computer.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Prospekt",
+      "en": "brochure, leaflet",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Prospekte",
+      "example": "Im Reisebüro gibt es viele Prospekte.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Prüfung",
+      "en": "exam, test",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Prüfungen",
+      "example": "Morgen habe ich eine Prüfung.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "pünktlich",
+      "en": "punctual, on time",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Der Zug ist pünktlich.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "Rad fahren",
+      "en": "to ride a bike, to cycle",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Ich fahre gern Rad.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "rauchen",
+      "en": "to smoke",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Mein Vater raucht nicht mehr.",
+      "perfekt": "hat geraucht",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Raum",
+      "en": "room",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Räume",
+      "example": "Der Kurs ist in Raum 12.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Rechnung",
+      "en": "bill",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Rechnungen",
+      "example": "Ich zahle die Rechnung.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "rechts",
+      "en": "right, on the right",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Die Kirche ist rechts.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "regnen",
+      "en": "to rain",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Heute regnet es.",
+      "perfekt": "hat geregnet",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Regen",
+      "en": "rain",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Der Regen ist kalt und nass.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Reis",
+      "en": "rice",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Ich koche Reis.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "reisen",
+      "en": "to travel",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich reise nach Spanien.",
+      "present": "ich reise · du reist · er reist",
+      "praet": "er reiste",
+      "perfekt": "ist gereist",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Reise",
+      "en": "journey, trip",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Reisen",
+      "example": "Die Reise nach Italien war schön.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Reisebüro",
+      "en": "travel agency",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Reisebüros",
+      "example": "Ich buche die Reise im Reisebüro.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Reiseführer",
+      "en": "travel guide (book or person)",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Reiseführer",
+      "example": "Ich kaufe einen Reiseführer für Rom.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "reparieren",
+      "en": "to repair, to fix",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Kannst du mein Fahrrad reparieren?",
+      "perfekt": "hat repariert",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Reparatur",
+      "en": "repair",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Reparaturen",
+      "example": "Die Reparatur kostet 100 Euro.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Restaurant",
+      "en": "restaurant",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Restaurants",
+      "example": "Wir essen im Restaurant.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Rezeption",
+      "en": "reception (desk)",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Rezeptionen",
+      "example": "Den Schlüssel bekommen Sie an der Rezeption.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "richtig",
+      "en": "right, correct",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Ist das richtig?",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "riechen",
+      "en": "to smell",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Der Kuchen riecht gut.",
+      "perfekt": "hat gerochen",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "ruhig",
+      "en": "quiet, calm",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Die Straße ist sehr ruhig.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Saft",
+      "en": "juice",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Säfte",
+      "example": "Der Saft ist aus Orangen.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "sagen",
+      "en": "to say, to tell",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Was sagst du?",
+      "perfekt": "hat gesagt",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Salat",
+      "en": "salad, lettuce",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Salate",
+      "example": "Ich esse einen Salat mit Tomaten.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Salz",
+      "en": "salt",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "",
+      "example": "Die Suppe braucht Salz.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Satz",
+      "en": "sentence",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Sätze",
+      "example": "Lesen Sie den Satz laut.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die S-Bahn",
+      "en": "city train",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "S-Bahnen",
+      "example": "Ich fahre mit der S-Bahn zur Arbeit.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Schalter",
+      "en": "counter, ticket window",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Schalter",
+      "example": "Fahrkarten gibt es am Schalter.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "scheinen",
+      "en": "to shine",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Heute scheint die Sonne.",
+      "perfekt": "hat geschienen",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "schicken",
+      "en": "to send",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich schicke dir eine Nachricht.",
+      "perfekt": "hat geschickt",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Schild",
+      "en": "sign",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Schilder",
+      "example": "Auf dem Schild steht „Ausgang“.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Schinken",
+      "en": "ham",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Schinken",
+      "example": "Ich esse Brot mit Schinken.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "schlafen",
+      "en": "to sleep",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich schlafe im Bett.",
+      "present": "ich schlafe · du schläfst · er schläft",
+      "praet": "er schlief",
+      "perfekt": "hat geschlafen",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "schlecht",
+      "en": "bad, ill",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Das Wetter ist heute schlecht.",
+      "notes": "Mir ist schlecht = I feel sick.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "schließen",
+      "en": "to close, to shut",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Bitte schließen Sie die Tür.",
+      "perfekt": "hat geschlossen",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "geschlossen",
+      "en": "closed",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Am Sonntag ist die Bank geschlossen.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Schluss",
+      "en": "end",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Schlüsse",
+      "example": "Zum Schluss trinken wir einen Kaffee.",
+      "notes": "Schluss machen = to finish.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Schlüssel",
+      "en": "key",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Schlüssel",
+      "example": "Ich finde meinen Schlüssel nicht.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "schmecken",
+      "en": "to taste (good)",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Die Pizza schmeckt gut.",
+      "present": "es schmeckt · sie schmecken",
+      "praet": "es schmeckte",
+      "perfekt": "hat geschmeckt",
+      "notes": "Das Essen schmeckt mir = I like the food.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "schnell",
+      "en": "fast, quick",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Das Auto ist sehr schnell.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "schon",
+      "en": "already",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich bin schon fertig.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "schön",
+      "en": "beautiful, nice",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Die Blume ist schön.",
+      "comp": "schöner",
+      "super": "am schönsten",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Schrank",
+      "en": "cupboard, wardrobe",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Schränke",
+      "example": "Die Kleidung ist im Schrank.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "schreiben",
+      "en": "to write",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich schreibe eine E-Mail.",
+      "perfekt": "hat geschrieben",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Schuh",
+      "en": "shoe",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Schuhe",
+      "example": "Ich trage neue Schuhe.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Schule",
+      "en": "school",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Schulen",
+      "example": "Die Kinder gehen in die Schule.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Schüler",
+      "en": "pupil, student",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Schüler",
+      "example": "Der Schüler macht seine Hausaufgaben.",
+      "notes": "Female: die Schülerin.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "schwer",
+      "en": "heavy, difficult",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Der Koffer ist schwer.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Schwester",
+      "en": "sister",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Schwestern",
+      "example": "Meine Schwester wohnt in München.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "schwimmen",
+      "en": "to swim",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich schwimme im Meer.",
+      "present": "ich schwimme · du schwimmst · er schwimmt",
+      "praet": "er schwamm",
+      "perfekt": "ist geschwommen",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Schwimmbad",
+      "en": "swimming pool",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Schwimmbäder",
+      "example": "Ich schwimme im Schwimmbad.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der See",
+      "en": "lake",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Seen",
+      "example": "Ich schwimme im See.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "sehen",
+      "en": "to see",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich sehe einen Hund.",
+      "present": "ich sehe · du siehst · er sieht",
+      "praet": "er sah",
+      "perfekt": "hat gesehen",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Sehenswürdigkeit",
+      "en": "sight, tourist attraction",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Sehenswürdigkeiten",
+      "example": "Berlin hat viele Sehenswürdigkeiten.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "sehr",
+      "en": "very",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Das Essen ist sehr gut.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "sein",
+      "en": "to be",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich bin Anna.",
+      "present": "ich bin · du bist · er ist · wir sind · ihr seid · sie sind",
+      "praet": "er war",
+      "perfekt": "ist gewesen",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "sein",
+      "en": "his",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Das ist sein Auto.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "weg sein",
+      "en": "to be gone, to be away",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Mein Schlüssel ist weg.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "zu sein",
+      "en": "to be closed",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Die Bäckerei ist schon zu.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "seit",
+      "en": "since, for",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Ich wohne seit drei Jahren in Berlin.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "selbstständig",
+      "en": "self-employed, independent",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Mein Vater ist selbstständig.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "sich",
+      "en": "oneself, himself, herself, themselves",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Er wäscht sich.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "sie",
+      "en": "she, they",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Sie heißt Anna.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "Sie",
+      "en": "you (formal)",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Wie heißen Sie?",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "sitzen",
+      "en": "to sit",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich sitze im Bus.",
+      "perfekt": "hat gesessen",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "so",
+      "en": "so, like this, thus",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Das ist so schön!",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Sofa",
+      "en": "sofa",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Sofas",
+      "example": "Ich sitze auf dem Sofa.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "sofort",
+      "en": "immediately, at once",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Komm bitte sofort!",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Sohn",
+      "en": "son",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Söhne",
+      "example": "Mein Sohn ist fünf Jahre alt.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "sollen",
+      "en": "should, to be supposed to",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Der Arzt sagt, ich soll viel schlafen.",
+      "perfekt": "hat gesollt",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Sonne",
+      "en": "sun",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Sonnen",
+      "example": "Die Sonne ist heiß.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "spät",
+      "en": "late",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Es ist schon spät.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "später",
+      "en": "later",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich rufe dich später an.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Speisekarte",
+      "en": "menu",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Speisekarten",
+      "example": "Auf der Speisekarte steht Pizza.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "spielen",
+      "en": "to play",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Die Kinder spielen Fußball.",
+      "present": "ich spiele · du spielst · er spielt",
+      "praet": "er spielte",
+      "perfekt": "hat gespielt",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Sport",
+      "en": "sport",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Ich mache Sport.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Sprache",
+      "en": "language",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Sprachen",
+      "example": "Deutsch ist eine Sprache.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "sprechen",
+      "en": "to speak",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich spreche Deutsch.",
+      "present": "ich spreche · du sprichst · er spricht",
+      "praet": "er sprach",
+      "perfekt": "hat gesprochen",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Stadt",
+      "en": "town, city",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Städte",
+      "example": "Berlin ist eine große Stadt.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "stehen",
+      "en": "to stand, to be written",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Die Flasche steht auf dem Tisch.",
+      "perfekt": "hat gestanden",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Stelle",
+      "en": "job, position, place",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Stellen",
+      "example": "Ich suche eine neue Stelle.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "stellen",
+      "en": "to put, to place (upright)",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich stelle die Flasche auf den Tisch.",
+      "perfekt": "hat gestellt",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Stock",
+      "en": "floor, storey",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Ich wohne im dritten Stock.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Straße",
+      "en": "street",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Straßen",
+      "example": "Das Auto fährt auf der Straße.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Straßenbahn",
+      "en": "tram",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Straßenbahnen",
+      "example": "Ich fahre mit der Straßenbahn in die Stadt.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "studieren",
+      "en": "to study (at university)",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich studiere an der Uni.",
+      "present": "ich studiere · du studierst · er studiert",
+      "praet": "er studierte",
+      "perfekt": "hat studiert",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Studium",
+      "en": "(university) studies",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Studien",
+      "example": "Nach dem Studium suche ich eine Stelle.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Student",
+      "en": "student",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Studenten",
+      "example": "Der Student lernt an der Uni.",
+      "notes": "Female: die Studentin.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Stunde",
+      "en": "hour, lesson",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Stunden",
+      "example": "Der Film dauert zwei Stunden.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "suchen",
+      "en": "to look for, to search",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich suche meinen Schlüssel.",
+      "present": "ich suche · du suchst · er sucht",
+      "praet": "er suchte",
+      "perfekt": "hat gesucht",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "tanzen",
+      "en": "to dance",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Wir tanzen auf der Party.",
+      "present": "ich tanze · du tanzt · er tanzt",
+      "praet": "er tanzte",
+      "perfekt": "hat getanzt",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Tasche",
+      "en": "bag, pocket",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Taschen",
+      "example": "Meine Tasche ist rot.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Taxi",
+      "en": "taxi",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Taxis",
+      "example": "Wir fahren mit dem Taxi zum Bahnhof.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Tee",
+      "en": "tea",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Tees",
+      "example": "Ich trinke heißen Tee.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Teil",
+      "en": "part",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Teile",
+      "example": "Der erste Teil vom Film ist gut.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "telefonieren",
+      "en": "to phone, to call",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich telefoniere mit Mama.",
+      "present": "ich telefoniere · du telefonierst · er telefoniert",
+      "praet": "er telefonierte",
+      "perfekt": "hat telefoniert",
+      "notes": "telefonieren mit + dative.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Telefon",
+      "en": "telephone",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Telefone",
+      "example": "Das Telefon klingelt.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Termin",
+      "en": "appointment",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Termine",
+      "example": "Ich habe einen Termin beim Arzt.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Test",
+      "en": "test",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Tests",
+      "example": "Ich schreibe heute einen Test.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "teuer",
+      "en": "expensive",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Das Auto kostet viel. Es ist teuer.",
+      "comp": "teurer",
+      "super": "am teuersten",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Text",
+      "en": "text",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Texte",
+      "example": "Lesen Sie den Text.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Thema",
+      "en": "topic, subject",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Themen",
+      "example": "Das Thema heute ist Familie.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Ticket",
+      "en": "ticket",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Tickets",
+      "example": "Ich kaufe ein Ticket für den Bus.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Tisch",
+      "en": "table",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Tische",
+      "example": "Das Essen steht auf dem Tisch.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Tochter",
+      "en": "daughter",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Töchter",
+      "example": "Meine Tochter geht in die Schule.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Toilette",
+      "en": "toilet",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Toiletten",
+      "example": "Wo ist die Toilette, bitte?",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Tomate",
+      "en": "tomato",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Tomaten",
+      "example": "Die Tomate ist rot.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "tot",
+      "en": "dead",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Der Fisch ist tot.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "treffen",
+      "en": "to meet",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich treffe Tom im Café.",
+      "present": "ich treffe · du triffst · er trifft",
+      "praet": "er traf",
+      "perfekt": "hat getroffen",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Treppe",
+      "en": "stairs, staircase",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Treppen",
+      "example": "Ich gehe die Treppe hoch.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "trinken",
+      "en": "to drink",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich trinke ein Glas Wasser.",
+      "perfekt": "hat getrunken",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "tschüss",
+      "en": "bye",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Tschüss, bis morgen!",
+      "notes": "Informal.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "tun",
+      "en": "to do",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Was kann ich für Sie tun?",
+      "perfekt": "hat getan",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "über",
+      "en": "over, across, above, about, more than",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Das Bild hängt über dem Sofa.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "übernachten",
+      "en": "to stay overnight",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Wir übernachten im Hotel.",
+      "perfekt": "hat übernachtet",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "überweisen",
+      "en": "to transfer (money)",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich überweise die Miete.",
+      "perfekt": "hat überwiesen",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Uhr",
+      "en": "clock, watch, o'clock",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Uhren",
+      "example": "Es ist drei Uhr.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "um",
+      "en": "at (time), around",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Der Kurs beginnt um neun Uhr.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "umziehen",
+      "en": "to move (house)",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Wir ziehen nach Hamburg um.",
+      "perfekt": "ist umgezogen",
+      "notes": "Separable.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "und",
+      "en": "and",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Ich trinke Kaffee und esse ein Brötchen.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "unser",
+      "en": "our",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Das ist unser Haus.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "unten",
+      "en": "below, downstairs",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Die Küche ist unten.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "unter",
+      "en": "under, below",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Der Hund schläft unter dem Tisch.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Unterricht",
+      "en": "lessons, classes",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Der Unterricht beginnt um acht Uhr.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "unterschreiben",
+      "en": "to sign",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Bitte unterschreiben Sie hier.",
+      "perfekt": "hat unterschrieben",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Unterschrift",
+      "en": "signature",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Unterschriften",
+      "example": "Hier fehlt noch Ihre Unterschrift.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Urlaub",
+      "en": "holiday, vacation",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Urlaube",
+      "example": "Im Urlaub fahre ich ans Meer.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Vater",
+      "en": "father",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Väter",
+      "example": "Mein Vater arbeitet bei einer Bank.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "verboten",
+      "en": "forbidden, prohibited",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Rauchen ist hier verboten.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "verdienen",
+      "en": "to earn",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Er verdient viel Geld.",
+      "perfekt": "hat verdient",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Verein",
+      "en": "club, association",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Vereine",
+      "example": "Ich spiele Fußball in einem Verein.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "verheiratet",
+      "en": "married",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Ich bin verheiratet und habe zwei Kinder.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "verkaufen",
+      "en": "to sell",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich verkaufe mein altes Fahrrad.",
+      "perfekt": "hat verkauft",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Verkäufer",
+      "en": "salesperson",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Verkäufer",
+      "example": "Der Verkäufer arbeitet im Geschäft.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "vermieten",
+      "en": "to rent out, to let",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Wir vermieten eine Wohnung.",
+      "perfekt": "hat vermietet",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Vermieter",
+      "en": "landlord",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Vermieter",
+      "example": "Der Vermieter wohnt im ersten Stock.",
+      "notes": "Female: die Vermieterin.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "verstehen",
+      "en": "to understand",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich verstehe das nicht.",
+      "perfekt": "hat verstanden",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Verwandte",
+      "en": "relative",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Verwandten",
+      "example": "Am Wochenende besuchen wir Verwandte.",
+      "notes": "Female: die Verwandte.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "viel",
+      "en": "much, a lot of",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Ich trinke viel Wasser.",
+      "comp": "mehr",
+      "super": "am meisten",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "vielleicht",
+      "en": "maybe, perhaps",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Vielleicht regnet es morgen.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "von",
+      "en": "from, of, by",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Das Geschenk ist von meiner Mutter.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "vor",
+      "en": "before, in front of, ago, to (time)",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Das Auto steht vor dem Haus.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Vorname",
+      "en": "first name",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Vornamen",
+      "example": "Mein Vorname ist Peter.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Vorsicht",
+      "en": "caution",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "",
+      "example": "Vorsicht, die Straße ist nass!",
+      "notes": "Vorsicht! = Careful!",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "sich vorstellen",
+      "en": "to introduce (oneself)",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Darf ich mich vorstellen? Ich heiße Ben.",
+      "perfekt": "hat sich vorgestellt",
+      "notes": "Separable.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Vorwahl",
+      "en": "dialling code, area code",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Vorwahlen",
+      "example": "Die Vorwahl von Berlin ist 030.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "wandern",
+      "en": "to hike",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Wir wandern in den Bergen.",
+      "present": "ich wandere · du wanderst · er wandert",
+      "praet": "er wanderte",
+      "perfekt": "ist gewandert",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "wann",
+      "en": "when",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Wann kommst du? – Um acht.",
+      "notes": "Question word.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "warten",
+      "en": "to wait",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich warte auf den Bus.",
+      "perfekt": "hat gewartet",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "warum",
+      "en": "why",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Warum lernst du Deutsch?",
+      "notes": "Question word.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "was",
+      "en": "what",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Was machst du heute?",
+      "notes": "Question word.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "was für ein",
+      "en": "what kind of",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Was für ein Auto hast du?",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "waschen",
+      "en": "to wash (oneself)",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich wasche meine Hände.",
+      "perfekt": "hat gewaschen",
+      "notes": "To wash oneself: sich waschen.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Wasser",
+      "en": "water",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "",
+      "example": "Ich habe Durst. Ich trinke Wasser.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "weh tun",
+      "en": "to hurt",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Mein Kopf tut weh.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "weiblich",
+      "en": "female",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Anna ist weiblich.",
+      "notes": "Not compared.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Wein",
+      "en": "wine",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Weine",
+      "example": "Der Wein ist rot.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "weit",
+      "en": "far",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Der Bahnhof ist nicht weit.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "weiter",
+      "en": "further, on",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Gehen Sie geradeaus weiter.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "welcher",
+      "en": "which",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Welcher Bus fährt zum Bahnhof?",
+      "notes": "Question word.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Welt",
+      "en": "world",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Welten",
+      "example": "Ich möchte die Welt sehen.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "wenig",
+      "en": "little, few",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Ich habe wenig Geld.",
+      "comp": "weniger",
+      "super": "am wenigsten",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "wer",
+      "en": "who",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Wer ist das? – Das ist Tom.",
+      "notes": "Question word.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "werden",
+      "en": "to become, to get",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Es wird kalt.",
+      "present": "ich werde · du wirst · er wird · wir werden · ihr werdet · sie werden",
+      "praet": "er wurde",
+      "perfekt": "ist geworden",
+      "notes": "Also builds the future: Ich werde kommen.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Wetter",
+      "en": "weather",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "",
+      "example": "Wie ist das Wetter heute?",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "wichtig",
+      "en": "important",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Der Termin ist wichtig.",
+      "comp": "wichtiger",
+      "super": "am wichtigsten",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "wie",
+      "en": "how",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Wie heißt du?",
+      "notes": "Question word.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "wiederholen",
+      "en": "to repeat",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Können Sie das bitte wiederholen?",
+      "perfekt": "hat wiederholt",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "auf Wiederhören",
+      "en": "goodbye (on the phone)",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Am Telefon: Danke, auf Wiederhören!",
+      "literal": "on hearing again",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "auf Wiedersehen",
+      "en": "goodbye",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Ich gehe jetzt. Auf Wiedersehen!",
+      "literal": "on seeing again",
+      "notes": "Formal.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "wie viel",
+      "en": "how much",
+      "type": "Phrase",
+      "gender": null,
+      "plural": "",
+      "example": "Wie viel kostet das?",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "willkommen",
+      "en": "welcome",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Willkommen in Deutschland!",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Wind",
+      "en": "wind",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Winde",
+      "example": "Der Wind ist kalt.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "wir",
+      "en": "we",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Wir lernen Deutsch.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "wissen",
+      "en": "to know (a fact)",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich weiß es nicht.",
+      "perfekt": "hat gewusst",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "wo",
+      "en": "where",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Wo wohnst du? – In Berlin.",
+      "notes": "Question word. For a direction: wohin.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "woher",
+      "en": "where from",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Woher kommst du? – Aus Indien.",
+      "notes": "Question word.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "wohin",
+      "en": "where to",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Wohin fährst du im Urlaub?",
+      "notes": "Question word.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "wohnen",
+      "en": "to live, to reside",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich wohne in Berlin.",
+      "present": "ich wohne · du wohnst · er wohnt",
+      "praet": "er wohnte",
+      "perfekt": "hat gewohnt",
+      "notes": "wohnen = to live somewhere, leben = to be alive.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Wohnung",
+      "en": "flat, apartment",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Wohnungen",
+      "example": "Die Wohnung hat drei Zimmer.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "wollen",
+      "en": "to want",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich will nach Hause gehen.",
+      "perfekt": "hat gewollt",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Wort",
+      "en": "word",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Wörter",
+      "example": "Das Wort ist neu für mich.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "wunderbar",
+      "en": "wonderful",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Das Wetter ist wunderbar.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "zahlen",
+      "en": "to pay",
+      "type": "Verb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich zahle mit Karte.",
+      "present": "ich zahle · du zahlst · er zahlt",
+      "praet": "er zahlte",
+      "perfekt": "hat gezahlt",
+      "notes": "Zahlen, bitte! = The bill, please.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Zeit",
+      "en": "time",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Zeiten",
+      "example": "Ich habe heute keine Zeit.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "zurzeit",
+      "en": "at the moment, currently",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Zurzeit wohne ich bei meinem Bruder.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Zeitung",
+      "en": "newspaper",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Zeitungen",
+      "example": "Ich lese jeden Morgen die Zeitung.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "die Zigarette",
+      "en": "cigarette",
+      "type": "Noun",
+      "gender": "die",
+      "plural": "Zigaretten",
+      "example": "Er raucht eine Zigarette.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "das Zimmer",
+      "en": "room",
+      "type": "Noun",
+      "gender": "das",
+      "plural": "Zimmer",
+      "example": "Mein Zimmer ist klein.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Zoll",
+      "en": "customs",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "",
+      "example": "Am Flughafen gehen wir durch den Zoll.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "zu",
+      "en": "to, too, closed",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Ich gehe zu meiner Oma.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "zufrieden",
+      "en": "satisfied, content",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Ich bin mit meiner Arbeit zufrieden.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "der Zug",
+      "en": "train",
+      "type": "Noun",
+      "gender": "der",
+      "plural": "Züge",
+      "example": "Der Zug fährt nach Hamburg.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "zurück",
+      "en": "back",
+      "type": "Adverb",
+      "gender": null,
+      "plural": "",
+      "example": "Ich bin um sechs Uhr zurück.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "zusammen",
+      "en": "together",
+      "type": "Adjective",
+      "gender": null,
+      "plural": "",
+      "example": "Wir gehen zusammen ins Kino.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    },
+    {
+      "de": "zwischen",
+      "en": "between",
+      "type": "Other",
+      "gender": null,
+      "plural": "",
+      "example": "Die Bank ist zwischen der Post und dem Café.",
+      "tags": [
+        "A1-Wordlist"
+      ]
+    }
+  ]
+}

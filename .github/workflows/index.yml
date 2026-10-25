@@ -5,6 +5,7 @@ on:
   push:
     branches: [main]
     paths: ['*.json']
+  workflow_dispatch:
 permissions:
   contents: write
 jobs:
@@ -12,7 +13,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: node make-index.mjs
+      # index.json = [{ name, count }] for every <pack>.json in the repo root.
+      - run: |
+          node -e '
+            const fs = require("fs");
+            const packs = fs.readdirSync(".")
+              .filter(f => f.endsWith(".json") && f !== "index.json")
+              .sort()
+              .map(f => ({ name: f.slice(0, -5), count: JSON.parse(fs.readFileSync(f, "utf8")).words.length }));
+            fs.writeFileSync("index.json", JSON.stringify(packs, null, 2) + "\n");
+            console.log(packs.length + " packs, " + packs.reduce((n, p) => n + p.count, 0) + " words");
+          '
       # No push when nothing moved. A push made with GITHUB_TOKEN doesn't
       # re-trigger this workflow, so index.json being in `paths` is not a loop.
       - run: |

@@ -4724,7 +4724,7 @@
     },
     {
       "de": "lieb",
-      "en": "dear",
+      "en": "dear, kind, nice",
       "type": "Adjective",
       "gender": null,
       "plural": "",
@@ -7445,7 +7445,7 @@
     },
     {
       "de": "waschen",
-      "en": "to wash (oneself)",
+      "en": "to wash",
       "type": "Verb",
       "gender": null,
       "plural": "",
@@ -7939,7 +7939,7 @@
     {
       "de": "zusammen",
       "en": "together",
-      "type": "Adjective",
+      "type": "Adverb",
       "gender": null,
       "plural": "",
       "example": "Wir gehen zusammen ins Kino.",

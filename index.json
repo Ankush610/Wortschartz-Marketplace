@@ -1,10 +1,12 @@
 [
   {
     "name": "A1-Wordlist",
-    "count": 689
+    "count": 689,
+    "hash": "ec55912edddb57bbee083ef4a5b2cf44e54573906a07435e0d240ea7056e7d7c"
   },
   {
     "name": "A2-Wordlist",
-    "count": 1431
+    "count": 1431,
+    "hash": "b72bc4c3fedc857418e1c21101ca61a1b1d9fe178d396fdc1feb82e6843f4f63"
   }
 ]
